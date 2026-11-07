@@ -1,0 +1,2752 @@
+Order_ID,Category,Product,Quantity,Unit_Price_EGP,Discount_Rate,Unit_Cost_EGP,Line_Sales_EGP,Line_Cost_EGP,Line_Profit_EGP
+ORD-50001,Drinkware,Thermal Flask,3,352.0,0.0,240.96,1056.0,722.88,333.12
+ORD-50001,Home Organization,Drawer Organizer,3,180.0,0.1,144.52,486.0,433.56,52.44
+ORD-50001,Drinkware,Thermal Flask,2,320.0,0.0,238.26,640.0,476.52,163.48
+ORD-50002,Cleaning,Microfiber Cloth,2,65.0,0.0,51.73,130.0,103.46,26.54
+ORD-50003,Kitchenware,Knife Set,1,319.0,0.1,251.54,287.1,251.54,35.56
+ORD-50004,Cleaning,Microfiber Cloth,2,65.0,0.15,48.14,110.5,96.28,14.22
+ORD-50004,Drinkware,Water Bottle,1,95.0,0.1,71.04,85.5,71.04,14.46
+ORD-50005,Home Organization,Drawer Organizer,2,180.0,0.1,119.34,324.0,238.68,85.32
+ORD-50005,Home Organization,Shelf Basket,1,137.5,0.15,90.84,116.88,90.84,26.04
+ORD-50006,Stationery,Geometry Set,1,95.0,0.0,73.82,95.0,73.82,21.18
+ORD-50007,Stationery,Color Pencils,1,99.0,0.0,78.77,99.0,78.77,20.23
+ORD-50008,Stationery,Geometry Set,2,85.5,0.0,62.24,171.0,124.48,46.52
+ORD-50008,Home Organization,Drawer Organizer,2,198.0,0.0,138.77,396.0,277.54,118.46
+ORD-50008,Cleaning,Dish Brush,2,47.25,0.0,31.02,94.5,62.04,32.46
+ORD-50009,Home Organization,Shelf Basket,2,137.5,0.0,95.51,275.0,191.02,83.98
+ORD-50010,Home Organization,Shelf Basket,1,125.0,0.1,75.99,112.5,75.99,36.51
+ORD-50011,Toys,Stacking Cups,1,143.0,0.1,89.14,128.7,89.14,39.56
+ORD-50011,Stationery,Notebook Set,3,67.5,0.0,43.34,202.5,130.02,72.48
+ORD-50011,Cleaning,Dish Brush,1,40.5,0.0,30.05,40.5,30.05,10.45
+ORD-50012,Stationery,Color Pencils,3,99.0,0.05,59.61,282.15,178.83,103.32
+ORD-50013,Cleaning,Mop Set,2,286.0,0.0,195.48,572.0,390.96,181.04
+ORD-50013,Kitchenware,Storage Jar,3,85.0,0.15,53.8,216.75,161.4,55.35
+ORD-50013,Kitchenware,Frying Pan,1,418.0,0.0,284.9,418.0,284.9,133.1
+ORD-50014,Drinkware,Glass Set,2,189.0,0.0,122.35,378.0,244.7,133.3
+ORD-50014,Home Organization,Storage Box,1,140.0,0.1,102.57,126.0,102.57,23.43
+ORD-50015,Toys,Connect Game,2,220.0,0.0,178.88,440.0,357.76,82.24
+ORD-50016,Drinkware,Thermal Flask,1,288.0,0.05,199.84,273.6,199.84,73.76
+ORD-50017,Drinkware,Glass Set,2,220.5,0.05,158.41,418.95,316.82,102.13
+ORD-50017,Home Organization,Drawer Organizer,3,180.0,0.15,139.03,459.0,417.09,41.91
+ORD-50018,Stationery,Geometry Set,3,99.75,0.0,76.12,299.25,228.36,70.89
+ORD-50018,Home Organization,Drawer Organizer,3,198.0,0.1,116.31,534.6,348.93,185.67
+ORD-50019,Stationery,Color Pencils,3,115.5,0.0,83.37,346.5,250.11,96.39
+ORD-50019,Kitchenware,Knife Set,1,290.0,0.05,221.19,275.5,221.19,54.31
+ORD-50020,Cleaning,Microfiber Cloth,1,71.5,0.1,50.09,64.35,50.09,14.26
+ORD-50020,Toys,Connect Game,1,220.0,0.05,157.76,209.0,157.76,51.24
+ORD-50020,Home Organization,Storage Box,1,140.0,0.1,96.54,126.0,96.54,29.46
+ORD-50021,Kitchenware,Frying Pan,2,380.0,0.0,291.76,760.0,583.52,176.48
+ORD-50022,Home Organization,Storage Box,3,147.0,0.05,113.06,418.95,339.18,79.77
+ORD-50022,Cleaning,Mop Set,1,260.0,0.0,154.6,260.0,154.6,105.4
+ORD-50023,Kitchenware,Knife Set,3,290.0,0.1,173.09,783.0,519.27,263.73
+ORD-50023,Home Organization,Storage Box,1,147.0,0.0,94.48,147.0,94.48,52.52
+ORD-50023,Kitchenware,Frying Pan,2,418.0,0.1,252.9,752.4,505.8,246.6
+ORD-50024,Cleaning,Mop Set,1,260.0,0.0,163.2,260.0,163.2,96.8
+ORD-50024,Kitchenware,Knife Set,2,304.5,0.0,195.34,609.0,390.68,218.32
+ORD-50025,Stationery,Color Pencils,2,121.0,0.0,91.37,242.0,182.74,59.26
+ORD-50026,Kitchenware,Knife Set,1,304.5,0.0,241.66,304.5,241.66,62.84
+ORD-50026,Cleaning,Dish Brush,1,45.0,0.0,27.78,45.0,27.78,17.22
+ORD-50027,Cleaning,Microfiber Cloth,1,71.5,0.05,41.73,67.92,41.73,26.19
+ORD-50027,Drinkware,Glass Set,3,220.5,0.15,176.28,562.28,528.84,33.44
+ORD-50027,Cleaning,Microfiber Cloth,1,65.0,0.0,40.37,65.0,40.37,24.63
+ORD-50028,Kitchenware,Knife Set,1,290.0,0.0,227.62,290.0,227.62,62.38
+ORD-50028,Cleaning,Microfiber Cloth,1,71.5,0.15,43.03,60.78,43.03,17.75
+ORD-50028,Stationery,Color Pencils,3,110.0,0.15,88.28,280.5,264.84,15.66
+ORD-50029,Stationery,Notebook Set,1,82.5,0.0,59.05,82.5,59.05,23.45
+ORD-50030,Kitchenware,Frying Pan,2,380.0,0.0,256.25,760.0,512.5,247.5
+ORD-50030,Toys,Bubble Toy,2,81.0,0.05,57.74,153.9,115.48,38.42
+ORD-50030,Kitchenware,Knife Set,1,290.0,0.15,178.3,246.5,178.3,68.2
+ORD-50031,Toys,Connect Game,1,220.0,0.15,167.67,187.0,167.67,19.33
+ORD-50031,Cleaning,Microfiber Cloth,1,68.25,0.0,49.16,68.25,49.16,19.09
+ORD-50032,Drinkware,Water Bottle,2,85.5,0.0,59.39,171.0,118.78,52.22
+ORD-50032,Drinkware,Water Bottle,1,99.75,0.0,81.75,99.75,81.75,18.0
+ORD-50032,Toys,Connect Game,3,220.0,0.05,162.06,627.0,486.18,140.82
+ORD-50033,Kitchenware,Frying Pan,1,380.0,0.0,264.89,380.0,264.89,115.11
+ORD-50033,Home Organization,Storage Box,1,154.0,0.05,118.51,146.3,118.51,27.79
+ORD-50034,Stationery,Geometry Set,1,85.5,0.05,52.96,81.22,52.96,28.26
+ORD-50035,Stationery,Notebook Set,2,82.5,0.15,55.66,140.25,111.32,28.93
+ORD-50035,Stationery,Color Pencils,1,115.5,0.0,92.94,115.5,92.94,22.56
+ORD-50036,Cleaning,Mop Set,3,260.0,0.0,190.08,780.0,570.24,209.76
+ORD-50036,Home Organization,Drawer Organizer,2,189.0,0.0,146.99,378.0,293.98,84.02
+ORD-50037,Toys,Bubble Toy,1,94.5,0.0,77.29,94.5,77.29,17.21
+ORD-50037,Cleaning,Mop Set,2,234.0,0.0,175.49,468.0,350.98,117.02
+ORD-50037,Cleaning,Dish Brush,3,47.25,0.15,35.61,120.49,106.83,13.66
+ORD-50038,Drinkware,Water Bottle,2,95.0,0.0,74.03,190.0,148.06,41.94
+ORD-50039,Cleaning,Microfiber Cloth,1,58.5,0.1,42.26,52.65,42.26,10.39
+ORD-50039,Home Organization,Storage Box,2,126.0,0.0,75.33,252.0,150.66,101.34
+ORD-50039,Stationery,Color Pencils,2,121.0,0.0,72.3,242.0,144.6,97.4
+ORD-50040,Cleaning,Microfiber Cloth,1,71.5,0.0,56.84,71.5,56.84,14.66
+ORD-50040,Stationery,Notebook Set,1,75.0,0.1,46.68,67.5,46.68,20.82
+ORD-50041,Drinkware,Thermal Flask,1,336.0,0.05,274.86,319.2,274.86,44.34
+ORD-50042,Home Organization,Storage Box,1,147.0,0.0,97.73,147.0,97.73,49.27
+ORD-50042,Stationery,Notebook Set,1,78.75,0.0,51.56,78.75,51.56,27.19
+ORD-50043,Kitchenware,Knife Set,2,261.0,0.1,152.28,469.8,304.56,165.24
+ORD-50043,Toys,Bubble Toy,1,90.0,0.15,70.55,76.5,70.55,5.95
+ORD-50043,Drinkware,Glass Set,2,189.0,0.15,115.87,321.3,231.74,89.56
+ORD-50044,Cleaning,Microfiber Cloth,3,68.25,0.05,47.6,194.51,142.8,51.71
+ORD-50044,Kitchenware,Knife Set,2,290.0,0.1,235.6,522.0,471.2,50.8
+ORD-50045,Cleaning,Microfiber Cloth,1,58.5,0.1,35.5,52.65,35.5,17.15
+ORD-50045,Drinkware,Thermal Flask,2,288.0,0.1,223.28,518.4,446.56,71.84
+ORD-50046,Kitchenware,Frying Pan,1,342.0,0.0,265.47,342.0,265.47,76.53
+ORD-50046,Toys,Stacking Cups,1,117.0,0.15,95.45,99.45,95.45,4.0
+ORD-50046,Toys,Connect Game,3,220.0,0.15,136.12,561.0,408.36,152.64
+ORD-50047,Toys,Bubble Toy,2,99.0,0.1,63.3,178.2,126.6,51.6
+ORD-50048,Stationery,Notebook Set,2,75.0,0.0,58.13,150.0,116.26,33.74
+ORD-50049,Drinkware,Glass Set,2,231.0,0.0,188.34,462.0,376.68,85.32
+ORD-50050,Stationery,Geometry Set,3,99.75,0.05,63.03,284.29,189.09,95.2
+ORD-50050,Toys,Connect Game,2,220.0,0.05,138.87,418.0,277.74,140.26
+ORD-50050,Home Organization,Storage Box,2,147.0,0.15,93.79,249.9,187.58,62.32
+ORD-50051,Toys,Connect Game,1,198.0,0.05,141.68,188.1,141.68,46.42
+ORD-50052,Toys,Connect Game,3,198.0,0.1,127.76,534.6,383.28,151.32
+ORD-50052,Toys,Connect Game,1,220.0,0.1,168.03,198.0,168.03,29.97
+ORD-50053,Stationery,Geometry Set,1,85.5,0.05,53.5,81.22,53.5,27.72
+ORD-50053,Cleaning,Mop Set,1,260.0,0.0,211.73,260.0,211.73,48.27
+ORD-50054,Toys,Stacking Cups,1,130.0,0.0,80.92,130.0,80.92,49.08
+ORD-50054,Toys,Connect Game,2,231.0,0.05,177.99,438.9,355.98,82.92
+ORD-50054,Toys,Connect Game,1,220.0,0.0,169.24,220.0,169.24,50.76
+ORD-50055,Cleaning,Microfiber Cloth,1,71.5,0.0,57.64,71.5,57.64,13.86
+ORD-50055,Kitchenware,Storage Jar,3,89.25,0.1,63.98,240.98,191.94,49.04
+ORD-50056,Stationery,Geometry Set,2,95.0,0.15,75.76,161.5,151.52,9.98
+ORD-50056,Drinkware,Glass Set,1,220.5,0.1,166.97,198.45,166.97,31.48
+ORD-50057,Kitchenware,Knife Set,3,290.0,0.05,220.56,826.5,661.68,164.82
+ORD-50058,Drinkware,Glass Set,1,210.0,0.0,124.38,210.0,124.38,85.62
+ORD-50058,Cleaning,Microfiber Cloth,1,65.0,0.0,48.27,65.0,48.27,16.73
+ORD-50058,Drinkware,Water Bottle,2,99.75,0.0,58.24,199.5,116.48,83.02
+ORD-50059,Kitchenware,Knife Set,2,290.0,0.05,170.59,551.0,341.18,209.82
+ORD-50059,Kitchenware,Knife Set,1,290.0,0.05,204.29,275.5,204.29,71.21
+ORD-50060,Cleaning,Dish Brush,1,40.5,0.1,24.06,36.45,24.06,12.39
+ORD-50061,Drinkware,Glass Set,2,210.0,0.15,162.32,357.0,324.64,32.36
+ORD-50061,Home Organization,Shelf Basket,3,125.0,0.15,76.75,318.75,230.25,88.5
+ORD-50061,Toys,Bubble Toy,1,94.5,0.1,56.27,85.05,56.27,28.78
+ORD-50062,Home Organization,Storage Box,2,147.0,0.1,88.11,264.6,176.22,88.38
+ORD-50062,Kitchenware,Frying Pan,1,380.0,0.0,221.25,380.0,221.25,158.75
+ORD-50063,Cleaning,Microfiber Cloth,2,68.25,0.1,39.88,122.85,79.76,43.09
+ORD-50064,Home Organization,Storage Box,1,126.0,0.0,93.65,126.0,93.65,32.35
+ORD-50064,Drinkware,Glass Set,1,210.0,0.0,170.6,210.0,170.6,39.4
+ORD-50065,Stationery,Notebook Set,1,78.75,0.0,52.06,78.75,52.06,26.69
+ORD-50065,Stationery,Notebook Set,1,82.5,0.1,63.67,74.25,63.67,10.58
+ORD-50066,Drinkware,Water Bottle,3,85.5,0.1,53.91,230.85,161.73,69.12
+ORD-50067,Home Organization,Drawer Organizer,2,180.0,0.15,139.88,306.0,279.76,26.24
+ORD-50067,Home Organization,Storage Box,2,140.0,0.0,111.82,280.0,223.64,56.36
+ORD-50068,Kitchenware,Frying Pan,1,380.0,0.0,282.27,380.0,282.27,97.73
+ORD-50069,Kitchenware,Knife Set,1,290.0,0.0,200.82,290.0,200.82,89.18
+ORD-50069,Toys,Bubble Toy,2,99.0,0.0,68.35,198.0,136.7,61.3
+ORD-50069,Drinkware,Water Bottle,1,95.0,0.15,64.95,80.75,64.95,15.8
+ORD-50070,Stationery,Color Pencils,3,99.0,1.3,76.01,267.3,228.03,39.27
+ORD-50070,Kitchenware,Knife Set,3,290.0,0.05,184.27,826.5,552.81,273.69
+ORD-50071,Cleaning,Mop Set,1,260.0,0.05,178.37,247.0,178.37,68.63
+ORD-50072,Home Organization,Shelf Basket,3,125.0,0.0,96.09,375.0,288.27,86.73
+ORD-50072,Kitchenware,Storage Jar,1,93.5,0.15,58.99,79.47,58.99,20.48
+ORD-50073,Drinkware,Glass Set,1,210.0,0.1,136.82,189.0,136.82,52.18
+ORD-50074,Toys,Connect Game,3,220.0,0.0,170.3,660.0,510.9,149.1
+ORD-50074,Home Organization,Drawer Organizer,2,189.0,0.15,153.39,321.3,306.78,14.52
+ORD-50075,Drinkware,Glass Set,1,210.0,0.0,167.05,210.0,167.05,42.95
+ORD-50076,Cleaning,Dish Brush,2,40.5,0.05,30.07,76.95,60.14,16.81
+ORD-50076,Kitchenware,Knife Set,2,290.0,0.0,184.66,580.0,369.32,210.68
+ORD-50077,Cleaning,Microfiber Cloth,1,68.25,0.0,50.74,68.25,50.74,17.51
+ORD-50077,Home Organization,Drawer Organizer,2,180.0,0.0,119.35,360.0,238.7,121.3
+ORD-50078,Stationery,Notebook Set,1,75.0,0.0,59.31,75.0,59.31,15.69
+ORD-50078,Toys,Connect Game,2,220.0,0.1,157.81,396.0,315.62,80.38
+ORD-50078,Stationery,Color Pencils,1,115.5,0.1,76.97,103.95,76.97,26.98
+ORD-50079,Stationery,Color Pencils,2,99.0,0.1,70.13,178.2,140.26,37.94
+ORD-50079,Toys,Bubble Toy,2,81.0,0.0,65.67,162.0,131.34,30.66
+ORD-50079,Home Organization,Drawer Organizer,1,162.0,0.15,116.81,137.7,116.81,20.89
+ORD-50080,Drinkware,Glass Set,3,210.0,0.0,161.81,630.0,485.43,144.57
+ORD-50081,Toys,Bubble Toy,1,90.0,0.0,61.9,90.0,61.9,28.1
+ORD-50082,Kitchenware,Frying Pan,3,380.0,0.05,239.9,1083.0,719.7,363.3
+ORD-50083,Drinkware,Glass Set,2,189.0,0.05,146.24,359.1,292.48,66.62
+ORD-50083,Kitchenware,Frying Pan,1,380.0,0.15,221.06,323.0,221.06,101.94
+ORD-50084,Toys,Stacking Cups,1,117.0,0.05,77.76,111.15,77.76,33.39
+ORD-50085,Drinkware,Thermal Flask,1,320.0,0.0,188.28,320.0,188.28,131.72
+ORD-50086,Drinkware,Thermal Flask,2,320.0,0.0,206.91,640.0,413.82,226.18
+ORD-50087,Drinkware,Thermal Flask,3,288.0,0.05,187.58,820.8,562.74,258.06
+ORD-50088,Drinkware,Water Bottle,2,99.75,0.0,58.18,199.5,116.36,83.14
+ORD-50088,Kitchenware,Storage Jar,1,85.0,0.15,60.1,72.25,60.1,12.15
+ORD-50088,Stationery,Notebook Set,1,78.75,0.05,46.38,74.81,46.38,28.43
+ORD-50089,Home Organization,Drawer Organizer,3,198.0,0.15,145.17,504.9,435.51,69.39
+ORD-50089,Drinkware,Water Bottle,1,95.0,0.0,74.45,95.0,74.45,20.55
+ORD-50089,Cleaning,Mop Set,1,260.0,0.0,184.45,260.0,184.45,75.55
+ORD-50090,Stationery,Geometry Set,3,99.75,0.05,62.59,284.29,187.77,96.52
+ORD-50090,Drinkware,Glass Set,1,210.0,0.1,161.37,189.0,161.37,27.63
+ORD-50090,Cleaning,Dish Brush,2,47.25,0.1,31.74,85.05,63.48,21.57
+ORD-50091,Kitchenware,Knife Set,3,304.5,0.0,199.01,913.5,597.03,316.47
+ORD-50092,Cleaning,Dish Brush,2,45.0,0.05,30.43,85.5,60.86,24.64
+ORD-50092,Kitchenware,Storage Jar,1,85.0,0.0,51.66,85.0,51.66,33.34
+ORD-50093,Stationery,Color Pencils,2,110.0,0.0,78.66,220.0,157.32,62.68
+ORD-50093,Kitchenware,Knife Set,1,290.0,0.15,212.36,246.5,212.36,34.14
+ORD-50094,Toys,Bubble Toy,1,99.0,0.15,64.12,84.15,64.12,20.03
+ORD-50095,Cleaning,Microfiber Cloth,1,65.0,0.0,47.43,65.0,47.43,17.57
+ORD-50095,Kitchenware,Knife Set,1,290.0,0.0,223.65,290.0,223.65,66.35
+ORD-50096,Stationery,Notebook Set,1,82.5,0.0,57.38,82.5,57.38,25.12
+ORD-50096,Cleaning,Microfiber Cloth,1,58.5,0.05,42.43,55.58,42.43,13.15
+ORD-50096,Kitchenware,Storage Jar,2,85.0,0.0,63.68,170.0,127.36,42.64
+ORD-50097,Cleaning,Microfiber Cloth,2,65.0,0.15,52.47,110.5,104.94,5.56
+ORD-50097,Kitchenware,Storage Jar,2,85.0,0.1,55.4,153.0,110.8,42.2
+ORD-50098,Stationery,Notebook Set,1,67.5,0.05,43.89,64.12,43.89,20.23
+ORD-50099,Kitchenware,Knife Set,2,304.5,0.0,231.68,609.0,463.36,145.64
+ORD-50099,Cleaning,Microfiber Cloth,1,65.0,0.15,40.58,55.25,40.58,14.67
+ORD-50100,Kitchenware,Storage Jar,1,89.25,0.0,67.78,89.25,67.78,21.47
+ORD-50100,Stationery,Geometry Set,3,95.0,0.0,67.61,285.0,202.83,82.17
+ORD-50101,Stationery,Notebook Set,2,75.0,0.0,57.21,150.0,114.42,35.58
+ORD-50101,Home Organization,Shelf Basket,2,112.5,0.1,66.97,202.5,133.94,68.56
+ORD-50101,Kitchenware,Frying Pan,1,399.0,0.0,308.91,399.0,308.91,90.09
+ORD-50102,Cleaning,Microfiber Cloth,3,65.0,0.1,49.45,175.5,148.35,27.15
+ORD-50102,Toys,Bubble Toy,2,90.0,0.0,70.3,180.0,140.6,39.4
+ORD-50103,Kitchenware,Storage Jar,1,85.0,0.15,53.02,72.25,53.02,19.23
+ORD-50104,Stationery,Color Pencils,1,121.0,0.1,81.52,108.9,81.52,27.38
+ORD-50105,Cleaning,Dish Brush,3,40.5,0.1,26.24,109.35,78.72,30.63
+ORD-50105,Stationery,Geometry Set,1,95.0,0.15,72.37,80.75,72.37,8.38
+ORD-50105,Cleaning,Mop Set,1,234.0,0.15,138.81,198.9,138.81,60.09
+ORD-50106,Drinkware,Water Bottle,1,95.0,0.15,65.0,80.75,65.0,15.75
+ORD-50106,Stationery,Notebook Set,1,75.0,0.0,48.13,75.0,48.13,26.87
+ORD-50106,Stationery,Notebook Set,1,78.75,0.0,53.29,78.75,53.29,25.46
+ORD-50107,Kitchenware,Frying Pan,2,342.0,0.15,256.21,581.4,512.42,68.98
+ORD-50107,Toys,Stacking Cups,2,130.0,0.0,80.33,260.0,160.66,99.34
+ORD-50107,Stationery,Geometry Set,3,95.0,0.15,74.5,242.25,223.5,18.75
+ORD-50108,Home Organization,Shelf Basket,1,131.25,0.0,92.46,131.25,92.46,38.79
+ORD-50109,Toys,Bubble Toy,1,81.0,0.0,58.54,81.0,58.54,22.46
+ORD-50109,Stationery,Geometry Set,2,95.0,0.0,63.66,190.0,127.32,62.68
+ORD-50109,Kitchenware,Knife Set,3,319.0,0.15,252.82,813.45,758.46,54.99
+ORD-50110,Drinkware,Water Bottle,2,99.75,0.0,75.2,199.5,150.4,49.1
+ORD-50110,Drinkware,Thermal Flask,2,320.0,0.0,227.69,640.0,455.38,184.62
+ORD-50110,Stationery,Color Pencils,2,110.0,0.0,81.16,220.0,162.32,57.68
+ORD-50111,Stationery,Color Pencils,3,110.0,0.05,84.03,313.5,252.09,61.41
+ORD-50112,Cleaning,Microfiber Cloth,3,68.25,0.0,54.1,204.75,162.3,42.45
+ORD-50112,Kitchenware,Knife Set,2,290.0,0.0,232.24,580.0,464.48,115.52
+ORD-50112,Home Organization,Shelf Basket,1,112.5,0.0,76.48,112.5,76.48,36.02
+ORD-50113,Stationery,Notebook Set,1,75.0,0.0,59.73,75.0,59.73,15.27
+ORD-50113,Stationery,Geometry Set,1,95.0,0.05,64.11,90.25,64.11,26.14
+ORD-50114,Kitchenware,Knife Set,1,290.0,0.0,218.56,290.0,218.56,71.44
+ORD-50114,Cleaning,Microfiber Cloth,1,58.5,0.0,39.36,58.5,39.36,19.14
+ORD-50114,Stationery,Notebook Set,1,82.5,0.0,56.44,82.5,56.44,26.06
+ORD-50115,Toys,Bubble Toy,1,94.5,0.0,65.0,94.5,65.0,29.5
+ORD-50115,Home Organization,Shelf Basket,3,131.25,0.15,106.36,334.69,319.08,15.61
+ORD-50116,Toys,Connect Game,3,220.0,0.0,131.35,660.0,394.05,265.95
+ORD-50116,Stationery,Notebook Set,1,82.5,0.05,60.01,78.38,60.01,18.37
+ORD-50116,Stationery,Notebook Set,1,75.0,0.0,46.08,75.0,46.08,28.92
+ORD-50117,Toys,Stacking Cups,3,143.0,0.1,101.05,386.1,303.15,82.95
+ORD-50117,Stationery,Notebook Set,1,75.0,0.05,53.46,71.25,53.46,17.79
+ORD-50117,Toys,Connect Game,2,231.0,0.1,184.68,415.8,369.36,46.44
+ORD-50118,Toys,Connect Game,2,220.0,0.05,149.81,418.0,299.62,118.38
+ORD-50118,Stationery,Geometry Set,1,104.5,0.15,62.71,88.82,62.71,26.11
+ORD-50119,Cleaning,Mop Set,3,234.0,0.15,191.02,596.7,573.06,23.64
+ORD-50119,Cleaning,Mop Set,2,260.0,0.15,167.07,442.0,334.14,107.86
+ORD-50119,Cleaning,Dish Brush,1,49.5,0.0,30.12,49.5,30.12,19.38
+ORD-50120,Home Organization,Drawer Organizer,3,162.0,0.0,124.2,486.0,372.6,113.4
+ORD-50120,Cleaning,Microfiber Cloth,2,65.0,0.1,38.42,117.0,76.84,40.16
+ORD-50120,Home Organization,Drawer Organizer,1,189.0,0.15,130.74,160.65,130.74,29.91
+ORD-50121,Toys,Stacking Cups,1,130.0,0.0,105.5,130.0,105.5,24.5
+ORD-50122,Drinkware,Glass Set,2,231.0,0.05,185.09,438.9,370.18,68.72
+ORD-50123,Home Organization,Storage Box,2,140.0,0.0,109.74,280.0,219.48,60.52
+ORD-50123,Home Organization,Shelf Basket,3,125.0,0.0,89.28,375.0,267.84,107.16
+ORD-50124,Stationery,Notebook Set,1,67.5,0.0,39.72,67.5,39.72,27.78
+ORD-50125,Drinkware,Thermal Flask,1,352.0,0.0,229.38,352.0,229.38,122.62
+ORD-50125,Drinkware,Water Bottle,1,95.0,0.0,72.56,95.0,72.56,22.44
+ORD-50125,Home Organization,Shelf Basket,3,131.25,0.1,99.4,354.38,298.2,56.18
+ORD-50126,Kitchenware,Frying Pan,1,418.0,0.0,299.57,418.0,299.57,118.43
+ORD-50127,Drinkware,Glass Set,1,189.0,0.0,115.65,189.0,115.65,73.35
+ORD-50127,Drinkware,Water Bottle,2,85.5,0.0,56.49,171.0,112.98,58.02
+ORD-50127,Kitchenware,Frying Pan,2,380.0,0.05,238.87,722.0,477.74,244.26
+ORD-50128,Home Organization,Storage Box,1,140.0,0.0,107.31,140.0,107.31,32.69
+ORD-50129,Drinkware,Thermal Flask,3,336.0,0.0,271.22,1008.0,813.66,194.34
+ORD-50129,Kitchenware,Storage Jar,3,89.25,0.1,57.75,240.98,173.25,67.73
+ORD-50129,Kitchenware,Storage Jar,1,89.25,0.0,57.49,89.25,57.49,31.76
+ORD-50130,Kitchenware,Frying Pan,2,418.0,-0.2,257.69,710.6,515.38,195.22
+ORD-50130,Cleaning,Mop Set,1,286.0,0.0,207.71,286.0,207.71,78.29
+ORD-50131,Kitchenware,Frying Pan,1,399.0,0.1,325.21,359.1,325.21,33.89
+ORD-50131,Drinkware,Thermal Flask,2,288.0,0.0,232.6,576.0,465.2,110.8
+ORD-50131,Home Organization,Shelf Basket,3,137.5,0.15,80.47,350.62,241.41,109.21
+ORD-50132,Stationery,Geometry Set,2,104.5,0.0,78.21,209.0,156.42,52.58
+ORD-50132,Cleaning,Dish Brush,2,47.25,0.1,29.97,85.05,59.94,25.11
+ORD-50132,Cleaning,Dish Brush,1,40.5,0.0,24.8,40.5,24.8,15.7
+ORD-50133,Home Organization,Drawer Organizer,1,180.0,0.0,121.63,180.0,121.63,58.37
+ORD-50133,Drinkware,Water Bottle,1,104.5,0.05,72.6,99.28,72.6,26.68
+ORD-50133,Drinkware,Thermal Flask,1,288.0,0.0,213.05,288.0,213.05,74.95
+ORD-50134,Cleaning,Microfiber Cloth,2,65.0,0.0,41.89,130.0,83.78,46.22
+ORD-50134,Cleaning,Microfiber Cloth,1,68.25,0.0,45.27,68.25,45.27,22.98
+ORD-50134,Toys,Connect Game,3,242.0,0.0,172.76,726.0,518.28,207.72
+ORD-50135,Toys,Bubble Toy,3,99.0,0.05,73.07,282.15,219.21,62.94
+ORD-50136,Drinkware,Glass Set,1,189.0,0.0,129.6,189.0,129.6,59.4
+ORD-50137,Drinkware,Glass Set,2,210.0,0.15,128.55,357.0,257.1,99.9
+ORD-50137,Drinkware,Glass Set,1,210.0,0.0,163.68,210.0,163.68,46.32
+ORD-50138,Drinkware,Water Bottle,2,95.0,0.05,57.82,180.5,115.64,64.86
+ORD-50138,Drinkware,Glass Set,2,210.0,0.15,161.88,357.0,323.76,33.24
+ORD-50138,Drinkware,Glass Set,2,189.0,0.05,136.26,359.1,272.52,86.58
+ORD-50139,Drinkware,Glass Set,1,210.0,0.0,156.43,210.0,156.43,53.57
+ORD-50139,Stationery,Geometry Set,3,95.0,0.0,60.66,285.0,181.98,103.02
+ORD-50139,Kitchenware,Frying Pan,2,342.0,0.1,243.24,615.6,486.48,129.12
+ORD-50140,Home Organization,Storage Box,2,140.0,0.0,112.8,280.0,225.6,54.4
+ORD-50141,Cleaning,Dish Brush,2,45.0,0.05,35.9,85.5,71.8,13.7
+ORD-50141,Toys,Connect Game,2,242.0,0.15,150.23,411.4,300.46,110.94
+ORD-50142,Kitchenware,Storage Jar,1,85.0,0.0,52.64,85.0,52.64,32.36
+ORD-50142,Stationery,Color Pencils,1,110.0,0.1,71.8,99.0,71.8,27.2
+ORD-50142,Cleaning,Mop Set,1,286.0,0.1,188.4,257.4,188.4,69.0
+ORD-50143,Toys,Bubble Toy,3,90.0,0.15,52.76,229.5,158.28,71.22
+ORD-50143,Cleaning,Microfiber Cloth,3,65.0,0.1,49.39,175.5,148.17,27.33
+ORD-50143,Toys,Bubble Toy,2,90.0,0.0,56.95,180.0,113.9,66.1
+ORD-50144,Stationery,Notebook Set,2,67.5,0.0,44.38,135.0,88.76,46.24
+ORD-50144,Cleaning,Microfiber Cloth,1,68.25,0.15,47.91,58.01,47.91,10.1
+ORD-50145,Home Organization,Drawer Organizer,3,180.0,0.0,139.27,540.0,417.81,122.19
+ORD-50146,Home Organization,Storage Box,1,140.0,0.0,85.93,140.0,85.93,54.07
+ORD-50146,Cleaning,Dish Brush,1,40.5,0.05,24.41,38.48,24.41,14.07
+ORD-50146,Toys,Bubble Toy,2,90.0,0.05,64.23,171.0,128.46,42.54
+ORD-50147,Drinkware,Glass Set,1,231.0,0.0,145.33,231.0,145.33,85.67
+ORD-50147,Home Organization,Shelf Basket,1,125.0,0.0,88.46,125.0,88.46,36.54
+ORD-50148,Cleaning,Dish Brush,2,45.0,0.05,31.9,85.5,63.8,21.7
+ORD-50148,Stationery,Notebook Set,2,78.75,0.1,61.54,141.75,123.08,18.67
+ORD-50148,Kitchenware,Storage Jar,1,76.5,0.0,54.91,76.5,54.91,21.59
+ORD-50149,Toys,Stacking Cups,1,143.0,0.0,97.34,143.0,97.34,45.66
+ORD-50149,Toys,Connect Game,2,220.0,0.0,139.89,440.0,279.78,160.22
+ORD-50150,Kitchenware,Frying Pan,1,342.0,0.0,219.22,342.0,219.22,122.78
+ORD-50150,Toys,Bubble Toy,1,90.0,0.0,70.9,90.0,70.9,19.1
+ORD-50151,Cleaning,Mop Set,2,260.0,0.0,198.26,520.0,396.52,123.48
+ORD-50152,Stationery,Notebook Set,2,67.5,0.0,50.56,135.0,101.12,33.88
+ORD-50152,Drinkware,Water Bottle,2,95.0,0.0,71.61,190.0,143.22,46.78
+ORD-50152,Toys,Connect Game,3,231.0,0.0,160.58,693.0,481.74,211.26
+ORD-50153,Stationery,Color Pencils,1,99.0,0.0,61.33,99.0,61.33,37.67
+ORD-50153,Stationery,Notebook Set,1,78.75,0.15,55.0,66.94,55.0,11.94
+ORD-50153,Cleaning,Microfiber Cloth,2,71.5,0.0,57.35,143.0,114.7,28.3
+ORD-50154,Kitchenware,Frying Pan,1,342.0,0.0,261.01,342.0,261.01,80.99
+ORD-50155,Stationery,Notebook Set,2,67.5,0.0,41.54,135.0,83.08,51.92
+ORD-50155,Drinkware,Thermal Flask,2,320.0,0.0,229.97,640.0,459.94,180.06
+ORD-50156,Drinkware,Thermal Flask,1,288.0,0.0,188.87,288.0,188.87,99.13
+ORD-50156,Cleaning,Dish Brush,2,45.0,0.1,28.05,81.0,56.1,24.9
+ORD-50157,Drinkware,Water Bottle,1,85.5,0.05,69.83,81.22,69.83,11.39
+ORD-50157,Toys,Bubble Toy,1,81.0,0.05,63.68,76.95,63.68,13.27
+ORD-50157,Stationery,Geometry Set,1,95.0,0.0,70.39,95.0,70.39,24.61
+ORD-50158,Toys,Connect Game,2,220.0,0.15,161.21,374.0,322.42,51.58
+ORD-50159,Cleaning,Mop Set,1,234.0,0.15,173.02,198.9,173.02,25.88
+ORD-50159,Home Organization,Storage Box,2,154.0,0.0,98.56,308.0,197.12,110.88
+ORD-50160,Drinkware,Thermal Flask,1,320.0,0.0,233.0,320.0,233.0,87.0
+ORD-50160,Kitchenware,Storage Jar,1,85.0,0.05,55.45,80.75,55.45,25.3
+ORD-50161,Stationery,Notebook Set,2,78.75,0.15,52.22,133.88,104.44,29.44
+ORD-50161,Drinkware,Thermal Flask,2,352.0,0.0,262.65,704.0,525.3,178.7
+ORD-50162,Home Organization,Shelf Basket,2,137.5,0.0,110.57,275.0,221.14,53.86
+ORD-50162,Toys,Connect Game,3,242.0,0.15,193.12,617.1,579.36,37.74
+ORD-50162,Home Organization,Drawer Organizer,3,162.0,0.0,105.35,486.0,316.05,169.95
+ORD-50163,Drinkware,Glass Set,2,210.0,0.05,144.54,399.0,289.08,109.92
+ORD-50163,Kitchenware,Frying Pan,2,342.0,0.15,268.89,581.4,537.78,43.62
+ORD-50164,Stationery,Notebook Set,2,67.5,0.0,46.18,135.0,92.36,42.64
+ORD-50164,Stationery,Notebook Set,3,67.5,0.1,42.56,182.25,127.68,54.57
+ORD-50165,Drinkware,Thermal Flask,3,320.0,0.05,257.25,912.0,771.75,140.25
+ORD-50165,Stationery,Notebook Set,1,78.75,0.05,62.73,74.81,62.73,12.08
+ORD-50165,Drinkware,Water Bottle,1,95.0,0.1,67.22,85.5,67.22,18.28
+ORD-50166,Cleaning,Dish Brush,2,45.0,0.15,28.23,76.5,56.46,20.04
+ORD-50166,Stationery,Color Pencils,1,115.5,0.0,70.88,115.5,70.88,44.62
+ORD-50166,Home Organization,Storage Box,2,147.0,0.1,88.97,264.6,177.94,86.66
+ORD-50167,Home Organization,Drawer Organizer,1,162.0,0.0,128.44,162.0,128.44,33.56
+ORD-50167,Home Organization,Storage Box,2,140.0,0.0,88.41,280.0,176.82,103.18
+ORD-50168,Drinkware,Thermal Flask,2,320.0,0.1,201.69,576.0,403.38,172.62
+ORD-50168,Kitchenware,Knife Set,1,304.5,0.0,194.46,304.5,194.46,110.04
+ORD-50168,Toys,Bubble Toy,2,90.0,0.15,56.3,153.0,112.6,40.4
+ORD-50169,Kitchenware,Storage Jar,2,89.25,0.1,57.79,160.65,115.58,45.07
+ORD-50169,Drinkware,Thermal Flask,2,320.0,0.0,247.46,640.0,494.92,145.08
+ORD-50170,Cleaning,Microfiber Cloth,1,71.5,-0.2,55.54,60.78,55.54,5.24
+ORD-50170,Kitchenware,Knife Set,3,319.0,0.05,251.18,909.15,753.54,155.61
+ORD-50171,Stationery,Notebook Set,1,75.0,0.15,45.37,63.75,45.37,18.38
+ORD-50172,Stationery,Notebook Set,1,82.5,0.0,51.86,82.5,51.86,30.64
+ORD-50172,Toys,Connect Game,2,231.0,0.05,140.35,438.9,280.7,158.2
+ORD-50172,Drinkware,Thermal Flask,2,320.0,0.0,202.31,640.0,404.62,235.38
+ORD-50173,Stationery,Geometry Set,2,95.0,0.15,66.0,161.5,132.0,29.5
+ORD-50174,Kitchenware,Storage Jar,1,85.0,0.1,64.92,76.5,64.92,11.58
+ORD-50175,Stationery,Geometry Set,2,104.5,0.05,68.74,198.55,137.48,61.07
+ORD-50176,Kitchenware,Frying Pan,2,380.0,0.05,267.03,722.0,534.06,187.94
+ORD-50176,Home Organization,Shelf Basket,1,125.0,0.0,91.59,125.0,91.59,33.41
+ORD-50177,Stationery,Geometry Set,1,104.5,0.15,76.52,88.82,76.52,12.3
+ORD-50177,Cleaning,Mop Set,2,234.0,0.05,181.07,444.6,362.14,82.46
+ORD-50177,Drinkware,Thermal Flask,2,320.0,0.0,223.55,640.0,447.1,192.9
+ORD-50178,Stationery,Geometry Set,1,95.0,0.15,74.13,80.75,74.13,6.62
+ORD-50178,Kitchenware,Storage Jar,2,93.5,0.15,72.92,158.95,145.84,13.11
+ORD-50178,Stationery,Notebook Set,1,67.5,0.05,49.56,64.12,49.56,14.56
+ORD-50179,Toys,Bubble Toy,2,94.5,0.0,74.22,189.0,148.44,40.56
+ORD-50179,Stationery,Geometry Set,3,104.5,0.1,69.52,282.15,208.56,73.59
+ORD-50179,Kitchenware,Storage Jar,2,89.25,0.15,52.07,151.72,104.14,47.58
+ORD-50180,Stationery,Geometry Set,1,99.75,0.1,79.76,89.78,79.76,10.02
+ORD-50181,Stationery,Color Pencils,2,99.0,0.0,73.78,198.0,147.56,50.44
+ORD-50181,Stationery,Geometry Set,1,104.5,0.15,61.31,88.82,61.31,27.51
+ORD-50181,Toys,Connect Game,3,220.0,0.0,140.92,660.0,422.76,237.24
+ORD-50182,Kitchenware,Knife Set,1,319.0,0.15,194.65,271.15,194.65,76.5
+ORD-50182,Cleaning,Dish Brush,3,49.5,0.0,34.77,148.5,104.31,44.19
+ORD-50183,Home Organization,Shelf Basket,2,137.5,0.05,86.33,261.25,172.66,88.59
+ORD-50183,Kitchenware,Storage Jar,1,85.0,0.0,57.68,85.0,57.68,27.32
+ORD-50184,Cleaning,Mop Set,2,260.0,0.15,206.66,442.0,413.32,28.68
+ORD-50184,Toys,Stacking Cups,2,130.0,0.1,96.64,234.0,193.28,40.72
+ORD-50184,Cleaning,Mop Set,2,234.0,0.0,147.41,468.0,294.82,173.18
+ORD-50185,Stationery,Color Pencils,2,110.0,0.1,89.76,198.0,179.52,18.48
+ORD-50185,Stationery,Notebook Set,2,67.5,0.05,51.87,128.25,103.74,24.51
+ORD-50186,Stationery,Notebook Set,3,75.0,0.15,44.26,191.25,132.78,58.47
+ORD-50186,Cleaning,Microfiber Cloth,1,65.0,0.0,44.89,65.0,44.89,20.11
+ORD-50187,Home Organization,Drawer Organizer,1,189.0,0.05,115.23,179.55,115.23,64.32
+ORD-50187,Toys,Stacking Cups,1,130.0,0.05,102.49,123.5,102.49,21.01
+ORD-50188,Home Organization,Shelf Basket,2,125.0,0.15,77.55,212.5,155.1,57.4
+ORD-50189,Stationery,Notebook Set,1,67.5,0.05,43.6,64.12,43.6,20.52
+ORD-50189,Stationery,Geometry Set,2,95.0,0.0,58.54,190.0,117.08,72.92
+ORD-50190,Cleaning,Microfiber Cloth,3,65.0,0.05,42.6,185.25,127.8,57.45
+ORD-50191,Home Organization,Shelf Basket,1,125.0,0.0,77.55,125.0,77.55,47.45
+ORD-50191,Toys,Bubble Toy,1,81.0,0.1,61.0,72.9,61.0,11.9
+ORD-50191,Home Organization,Shelf Basket,2,125.0,0.0,94.24,250.0,188.48,61.52
+ORD-50192,Cleaning,Dish Brush,1,47.25,0.15,28.95,40.16,28.95,11.21
+ORD-50193,Home Organization,Storage Box,1,140.0,0.05,91.12,133.0,91.12,41.88
+ORD-50194,Home Organization,Drawer Organizer,2,180.0,0.15,138.37,306.0,276.74,29.26
+ORD-50194,Drinkware,Thermal Flask,3,336.0,0.0,198.23,1008.0,594.69,413.31
+ORD-50195,Toys,Stacking Cups,1,136.5,0.1,92.88,122.85,92.88,29.97
+ORD-50195,Toys,Connect Game,1,242.0,0.1,190.34,217.8,190.34,27.46
+ORD-50196,Kitchenware,Knife Set,1,290.0,0.0,228.42,290.0,228.42,61.58
+ORD-50197,Cleaning,Microfiber Cloth,2,65.0,0.0,38.68,130.0,77.36,52.64
+ORD-50197,Toys,Stacking Cups,1,143.0,0.15,92.24,121.55,92.24,29.31
+ORD-50198,Toys,Connect Game,3,242.0,0.0,184.12,726.0,552.36,173.64
+ORD-50199,Kitchenware,Knife Set,3,290.0,0.1,188.99,783.0,566.97,216.03
+ORD-50200,Drinkware,Glass Set,2,231.0,0.0,166.24,462.0,332.48,129.52
+ORD-50201,Kitchenware,Frying Pan,2,342.0,0.05,277.65,649.8,555.3,94.5
+ORD-50201,Stationery,Color Pencils,1,110.0,0.0,64.07,110.0,64.07,45.93
+ORD-50202,Home Organization,Shelf Basket,2,131.25,0.0,79.05,262.5,158.1,104.4
+ORD-50202,Toys,Stacking Cups,2,117.0,0.0,80.07,234.0,160.14,73.86
+ORD-50202,Stationery,Notebook Set,1,75.0,0.1,56.23,67.5,56.23,11.27
+ORD-50203,Toys,Stacking Cups,2,130.0,0.0,85.57,260.0,171.14,88.86
+ORD-50203,Home Organization,Storage Box,1,126.0,0.1,74.17,113.4,74.17,39.23
+ORD-50203,Cleaning,Mop Set,1,234.0,0.0,176.29,234.0,176.29,57.71
+ORD-50204,Stationery,Notebook Set,3,75.0,0.0,51.07,225.0,153.21,71.79
+ORD-50204,Drinkware,Water Bottle,3,104.5,0.0,71.89,313.5,215.67,97.83
+ORD-50205,Home Organization,Shelf Basket,3,112.5,0.0,81.96,337.5,245.88,91.62
+ORD-50206,Kitchenware,Frying Pan,1,418.0,0.15,272.26,355.3,272.26,83.04
+ORD-50207,Drinkware,Glass Set,1,210.0,0.1,134.24,189.0,134.24,54.76
+ORD-50208,Toys,Connect Game,2,231.0,0.05,167.1,438.9,334.2,104.7
+ORD-50209,Drinkware,Glass Set,1,220.5,0.05,162.28,209.48,162.28,47.2
+ORD-50209,Toys,Stacking Cups,1,130.0,0.05,96.84,123.5,96.84,26.66
+ORD-50209,Drinkware,Glass Set,2,231.0,0.1,134.94,415.8,269.88,145.92
+ORD-50210,Stationery,Geometry Set,2,95.0,0.0,67.42,190.0,134.84,55.16
+ORD-50210,Home Organization,Storage Box,1,140.0,0.1,93.05,126.0,93.05,32.95
+ORD-50210,Home Organization,Storage Box,1,140.0,0.0,106.02,140.0,106.02,33.98
+ORD-50211,Home Organization,Shelf Basket,1,125.0,0.1,94.83,112.5,94.83,17.67
+ORD-50211,Toys,Stacking Cups,1,130.0,0.0,90.68,130.0,90.68,39.32
+ORD-50211,Home Organization,Storage Box,1,154.0,0.15,100.28,130.9,100.28,30.62
+ORD-50212,Toys,Stacking Cups,2,117.0,0.0,84.25,234.0,168.5,65.5
+ORD-50212,Home Organization,Shelf Basket,1,131.25,0.0,86.58,131.25,86.58,44.67
+ORD-50213,Stationery,Notebook Set,1,75.0,0.0,56.26,75.0,56.26,18.74
+ORD-50214,Home Organization,Storage Box,2,140.0,0.0,112.53,280.0,225.06,54.94
+ORD-50215,Home Organization,Shelf Basket,1,131.25,0.15,88.07,111.56,88.07,23.49
+ORD-50215,Home Organization,Storage Box,1,126.0,0.1,79.12,113.4,79.12,34.28
+ORD-50216,Kitchenware,Frying Pan,3,399.0,0.1,309.07,1077.3,927.21,150.09
+ORD-50217,Stationery,Geometry Set,1,99.75,0.0,80.66,99.75,80.66,19.09
+ORD-50217,Toys,Bubble Toy,1,90.0,0.15,62.59,76.5,62.59,13.91
+ORD-50218,Kitchenware,Knife Set,3,319.0,0.0,254.08,957.0,762.24,194.76
+ORD-50219,Toys,Bubble Toy,1,94.5,0.0,68.15,94.5,68.15,26.35
+ORD-50219,Cleaning,Dish Brush,2,49.5,0.0,31.99,99.0,63.98,35.02
+ORD-50220,Drinkware,Thermal Flask,1,336.0,0.0,217.13,336.0,217.13,118.87
+ORD-50220,Home Organization,Storage Box,3,140.0,0.0,98.15,420.0,294.45,125.55
+ORD-50220,Toys,Bubble Toy,2,90.0,0.0,63.17,180.0,126.34,53.66
+ORD-50221,Stationery,Color Pencils,1,99.0,0.0,73.02,99.0,73.02,25.98
+ORD-50222,Home Organization,Storage Box,1,147.0,0.0,94.47,147.0,94.47,52.53
+ORD-50222,Cleaning,Mop Set,1,273.0,0.0,167.21,273.0,167.21,105.79
+ORD-50223,Kitchenware,Frying Pan,1,399.0,0.0,309.35,399.0,309.35,89.65
+ORD-50223,Drinkware,Water Bottle,2,95.0,0.0,72.52,190.0,145.04,44.96
+ORD-50223,Stationery,Notebook Set,1,67.5,0.05,47.87,64.12,47.87,16.25
+ORD-50224,Home Organization,Storage Box,1,140.0,0.0,89.44,140.0,89.44,50.56
+ORD-50224,Cleaning,Microfiber Cloth,1,58.5,0.0,38.51,58.5,38.51,19.99
+ORD-50225,Toys,Stacking Cups,1,117.0,0.0,82.12,117.0,82.12,34.88
+ORD-50225,Cleaning,Microfiber Cloth,1,65.0,0.0,53.16,65.0,53.16,11.84
+ORD-50226,Home Organization,Drawer Organizer,1,198.0,0.0,160.04,198.0,160.04,37.96
+ORD-50226,Kitchenware,Frying Pan,1,380.0,0.15,302.37,323.0,302.37,20.63
+ORD-50226,Drinkware,Glass Set,1,220.5,0.0,162.89,220.5,162.89,57.61
+ORD-50227,Cleaning,Microfiber Cloth,1,65.0,0.0,38.07,65.0,38.07,26.93
+ORD-50228,Cleaning,Dish Brush,2,49.5,0.15,40.22,84.15,80.44,3.71
+ORD-50228,Home Organization,Storage Box,1,140.0,0.05,84.29,133.0,84.29,48.71
+ORD-50228,Kitchenware,Storage Jar,1,89.25,0.0,64.54,89.25,64.54,24.71
+ORD-50229,Stationery,Color Pencils,1,115.5,0.15,78.29,98.18,78.29,19.89
+ORD-50230,Kitchenware,Frying Pan,1,399.0,0.15,321.61,339.15,321.61,17.54
+ORD-50230,Kitchenware,Storage Jar,1,89.25,0.15,57.22,75.86,57.22,18.64
+ORD-50231,Drinkware,Water Bottle,3,95.0,0.15,59.62,242.25,178.86,63.39
+ORD-50231,Toys,Stacking Cups,2,117.0,0.1,88.15,210.6,176.3,34.3
+ORD-50231,Drinkware,Thermal Flask,1,320.0,0.0,245.8,320.0,245.8,74.2
+ORD-50232,Stationery,Geometry Set,2,95.0,1.3,61.26,190.0,122.52,67.48
+ORD-50232,Drinkware,Glass Set,1,189.0,0.0,135.42,189.0,135.42,53.58
+ORD-50232,Toys,Connect Game,2,-100.0,0.0,155.88,440.0,311.76,128.24
+ORD-50233,Drinkware,Water Bottle,3,95.0,0.0,75.13,285.0,225.39,59.61
+ORD-50233,Kitchenware,Storage Jar,1,76.5,0.0,46.49,76.5,46.49,30.01
+ORD-50233,Drinkware,Glass Set,1,210.0,0.0,137.63,210.0,137.63,72.37
+ORD-50234,Toys,Stacking Cups,2,130.0,0.15,95.49,221.0,190.98,30.02
+ORD-50235,Toys,Stacking Cups,1,130.0,0.0,97.77,130.0,97.77,32.23
+ORD-50235,Drinkware,Thermal Flask,1,320.0,0.1,235.6,288.0,235.6,52.4
+ORD-50236,Kitchenware,Frying Pan,3,380.0,0.0,264.33,1140.0,792.99,347.01
+ORD-50236,Drinkware,Glass Set,3,210.0,0.05,136.38,598.5,409.14,189.36
+ORD-50236,Home Organization,Drawer Organizer,1,162.0,0.0,111.24,162.0,111.24,50.76
+ORD-50237,Kitchenware,Knife Set,3,304.5,0.1,200.07,822.15,600.21,221.94
+ORD-50237,Toys,Connect Game,2,198.0,0.15,156.11,336.6,312.22,24.38
+ORD-50238,Toys,Stacking Cups,1,117.0,0.1,81.89,105.3,81.89,23.41
+ORD-50238,Cleaning,Microfiber Cloth,1,65.0,0.0,40.75,65.0,40.75,24.25
+ORD-50239,Stationery,Notebook Set,1,75.0,0.0,56.78,75.0,56.78,18.22
+ORD-50239,Home Organization,Shelf Basket,1,131.25,0.15,107.13,111.56,107.13,4.43
+ORD-50240,Stationery,Notebook Set,1,75.0,0.0,44.45,75.0,44.45,30.55
+ORD-50240,Kitchenware,Knife Set,1,290.0,0.0,185.43,290.0,185.43,104.57
+ORD-50240,Drinkware,Glass Set,1,189.0,0.0,121.28,189.0,121.28,67.72
+ORD-50241,Stationery,Color Pencils,1,121.0,0.0,89.17,121.0,89.17,31.83
+ORD-50242,Kitchenware,Storage Jar,3,85.0,0.0,60.07,255.0,180.21,74.79
+ORD-50243,Home Organization,Drawer Organizer,1,162.0,0.05,121.2,153.9,121.2,32.7
+ORD-50243,Toys,Stacking Cups,2,130.0,0.0,93.23,260.0,186.46,73.54
+ORD-50244,Kitchenware,Frying Pan,1,399.0,0.05,277.07,379.05,277.07,101.98
+ORD-50244,Drinkware,Thermal Flask,2,352.0,0.1,253.89,633.6,507.78,125.82
+ORD-50244,Toys,Stacking Cups,2,143.0,0.1,97.91,257.4,195.82,61.58
+ORD-50245,Stationery,Color Pencils,3,121.0,0.15,86.0,308.55,258.0,50.55
+ORD-50245,Kitchenware,Storage Jar,2,85.0,0.1,59.36,153.0,118.72,34.28
+ORD-50245,Cleaning,Microfiber Cloth,2,58.5,0.0,44.81,117.0,89.62,27.38
+ORD-50246,Drinkware,Thermal Flask,2,336.0,0.0,259.52,672.0,519.04,152.96
+ORD-50247,Drinkware,Water Bottle,2,95.0,0.0,66.99,190.0,133.98,56.02
+ORD-50247,Drinkware,Thermal Flask,1,352.0,0.0,277.1,352.0,277.1,74.9
+ORD-50248,Stationery,Notebook Set,2,82.5,0.0,65.66,165.0,131.32,33.68
+ORD-50248,Kitchenware,Frying Pan,1,380.0,0.0,281.12,380.0,281.12,98.88
+ORD-50249,Kitchenware,Frying Pan,2,380.0,0.0,225.15,760.0,450.3,309.7
+ORD-50249,Cleaning,Microfiber Cloth,2,71.5,0.0,50.67,143.0,101.34,41.66
+ORD-50250,Kitchenware,Frying Pan,1,418.0,0.15,328.4,355.3,328.4,26.9
+ORD-50251,Cleaning,Dish Brush,2,40.5,0.0,25.42,81.0,50.84,30.16
+ORD-50251,Stationery,Geometry Set,2,95.0,0.0,59.39,190.0,118.78,71.22
+ORD-50251,Stationery,Notebook Set,1,75.0,0.1,60.59,67.5,60.59,6.91
+ORD-50252,Toys,Stacking Cups,2,117.0,0.15,90.85,198.9,181.7,17.2
+ORD-50253,Toys,Connect Game,2,242.0,0.0,142.4,484.0,284.8,199.2
+ORD-50253,Kitchenware,Storage Jar,3,89.25,0.0,61.86,267.75,185.58,82.17
+ORD-50254,Cleaning,Microfiber Cloth,2,58.5,0.05,35.87,111.15,71.74,39.41
+ORD-50255,Drinkware,Glass Set,1,210.0,0.1,132.33,189.0,132.33,56.67
+ORD-50255,Stationery,Notebook Set,1,82.5,0.15,50.29,70.12,50.29,19.83
+ORD-50255,Toys,Stacking Cups,2,130.0,0.0,86.38,260.0,172.76,87.24
+ORD-50256,Home Organization,Drawer Organizer,1,180.0,0.1,110.5,162.0,110.5,51.5
+ORD-50257,Stationery,Color Pencils,1,110.0,0.0,87.8,110.0,87.8,22.2
+ORD-50257,Stationery,Notebook Set,1,67.5,0.0,54.34,67.5,54.34,13.16
+ORD-50258,Drinkware,Thermal Flask,1,336.0,0.0,233.56,336.0,233.56,102.44
+ORD-50258,Kitchenware,Frying Pan,2,418.0,0.0,251.78,836.0,503.56,332.44
+ORD-50258,Drinkware,Glass Set,2,220.5,0.0,155.86,441.0,311.72,129.28
+ORD-50259,Drinkware,Thermal Flask,2,336.0,0.1,216.04,604.8,432.08,172.72
+ORD-50259,Drinkware,Thermal Flask,3,320.0,0.0,221.7,960.0,665.1,294.9
+ORD-50260,Drinkware,Thermal Flask,1,288.0,0.15,194.13,244.8,194.13,50.67
+ORD-50260,Stationery,Geometry Set,3,85.5,0.0,52.07,256.5,156.21,100.29
+ORD-50261,Cleaning,Dish Brush,1,45.0,0.0,29.01,45.0,29.01,15.99
+ORD-50261,Drinkware,Water Bottle,1,85.5,0.0,55.56,85.5,55.56,29.94
+ORD-50262,Cleaning,Microfiber Cloth,1,65.0,0.0,51.03,65.0,51.03,13.97
+ORD-50262,Cleaning,Microfiber Cloth,1,65.0,0.05,49.18,61.75,49.18,12.57
+ORD-50262,Kitchenware,Storage Jar,2,93.5,0.15,59.07,158.95,118.14,40.81
+ORD-50263,Kitchenware,Storage Jar,2,85.0,0.05,58.55,161.5,117.1,44.4
+ORD-50264,Home Organization,Shelf Basket,1,137.5,0.05,84.52,130.62,84.52,46.1
+ORD-50264,Home Organization,Drawer Organizer,2,180.0,0.0,109.09,360.0,218.18,141.82
+ORD-50265,Cleaning,Mop Set,2,260.0,0.0,191.04,520.0,382.08,137.92
+ORD-50265,Toys,Bubble Toy,3,90.0,0.0,57.01,270.0,171.03,98.97
+ORD-50266,Home Organization,Storage Box,1,140.0,0.0,97.04,140.0,97.04,42.96
+ORD-50266,Cleaning,Mop Set,1,260.0,0.15,203.07,221.0,203.07,17.93
+ORD-50267,Toys,Connect Game,1,198.0,0.0,149.52,198.0,149.52,48.48
+ORD-50267,Kitchenware,Storage Jar,1,89.25,0.05,71.08,84.79,71.08,13.71
+ORD-50267,Toys,Stacking Cups,1,130.0,0.1,95.65,117.0,95.65,21.35
+ORD-50268,Home Organization,Storage Box,2,140.0,0.15,86.73,238.0,173.46,64.54
+ORD-50268,Stationery,Notebook Set,1,67.5,0.15,53.87,57.38,53.87,3.51
+ORD-50269,Stationery,Geometry Set,1,95.0,0.0,77.3,95.0,77.3,17.7
+ORD-50269,Stationery,Notebook Set,2,82.5,0.0,54.51,165.0,109.02,55.98
+ORD-50270,Cleaning,Mop Set,2,273.0,0.15,191.32,464.1,382.64,81.46
+ORD-50270,Cleaning,Microfiber Cloth,1,58.5,0.05,36.55,55.58,36.55,19.03
+ORD-50271,Toys,Bubble Toy,3,94.5,0.0,65.91,283.5,197.73,85.77
+ORD-50271,Kitchenware,Storage Jar,1,93.5,0.0,64.75,93.5,64.75,28.75
+ORD-50272,Toys,Stacking Cups,1,130.0,0.0,85.09,130.0,85.09,44.91
+ORD-50272,Toys,Connect Game,3,231.0,0.15,183.84,589.05,551.52,37.53
+ORD-50272,Stationery,Notebook Set,2,78.75,0.0,62.82,157.5,125.64,31.86
+ORD-50273,Stationery,Color Pencils,2,99.0,0.0,60.8,198.0,121.6,76.4
+ORD-50274,Home Organization,Drawer Organizer,1,198.0,0.0,156.97,198.0,156.97,41.03
+ORD-50274,Cleaning,Dish Brush,1,40.5,0.05,31.49,38.48,31.49,6.99
+ORD-50274,Home Organization,Drawer Organizer,1,198.0,0.15,130.6,168.3,130.6,37.7
+ORD-50275,Cleaning,Dish Brush,3,45.0,0.0,28.02,135.0,84.06,50.94
+ORD-50276,Cleaning,Mop Set,2,234.0,0.1,137.64,421.2,275.28,145.92
+ORD-50277,Stationery,Geometry Set,2,95.0,0.0,55.69,190.0,111.38,78.62
+ORD-50277,Stationery,Notebook Set,1,75.0,0.0,55.69,75.0,55.69,19.31
+ORD-50278,Cleaning,Dish Brush,3,47.25,0.0,28.12,141.75,84.36,57.39
+ORD-50278,Drinkware,Water Bottle,2,99.75,0.0,65.45,199.5,130.9,68.6
+ORD-50279,Cleaning,Dish Brush,1,45.0,0.0,31.87,45.0,31.87,13.13
+ORD-50280,Home Organization,Storage Box,2,126.0,0.0,93.42,252.0,186.84,65.16
+ORD-50280,Drinkware,Glass Set,3,189.0,0.0,151.83,567.0,455.49,111.51
+ORD-50280,Toys,Connect Game,3,220.0,0.05,170.81,627.0,512.43,114.57
+ORD-50281,Stationery,Notebook Set,2,78.75,0.0,63.19,157.5,126.38,31.12
+ORD-50281,Toys,Bubble Toy,2,99.0,0.0,64.01,198.0,128.02,69.98
+ORD-50281,Home Organization,Shelf Basket,1,137.5,0.05,79.84,130.62,79.84,50.78
+ORD-50282,Drinkware,Water Bottle,1,95.0,0.0,70.39,95.0,70.39,24.61
+ORD-50282,Cleaning,Mop Set,2,273.0,0.0,171.6,546.0,343.2,202.8
+ORD-50282,Kitchenware,Storage Jar,2,76.5,0.1,45.34,137.7,90.68,47.02
+ORD-50283,Home Organization,Storage Box,2,140.0,0.05,102.93,266.0,205.86,60.14
+ORD-50283,Cleaning,Mop Set,2,286.0,0.05,185.69,543.4,371.38,172.02
+ORD-50283,Drinkware,Glass Set,3,210.0,0.15,169.17,535.5,507.51,27.99
+ORD-50284,Stationery,Color Pencils,1,115.5,0.0,75.16,115.5,75.16,40.34
+ORD-50284,Drinkware,Water Bottle,1,85.5,0.05,56.21,81.22,56.21,25.01
+ORD-50284,Drinkware,Glass Set,1,231.0,0.05,148.15,219.45,148.15,71.3
+ORD-50285,Home Organization,Shelf Basket,2,125.0,0.0,79.01,250.0,158.02,91.98
+ORD-50286,Cleaning,Dish Brush,3,47.25,0.05,35.36,134.66,106.08,28.58
+ORD-50286,Kitchenware,Storage Jar,2,85.0,0.0,53.34,170.0,106.68,63.32
+ORD-50287,Cleaning,Dish Brush,2,49.5,0.0,32.95,99.0,65.9,33.1
+ORD-50287,Cleaning,Microfiber Cloth,3,71.5,0.0,44.59,214.5,133.77,80.73
+ORD-50288,Toys,Bubble Toy,3,99.0,0.0,70.71,297.0,212.13,84.87
+ORD-50288,Stationery,Geometry Set,3,99.75,0.0,77.97,299.25,233.91,65.34
+ORD-50288,Cleaning,Mop Set,3,260.0,0.1,210.18,702.0,630.54,71.46
+ORD-50289,Drinkware,Water Bottle,1,104.5,0.0,85.66,104.5,85.66,18.84
+ORD-50289,Stationery,Geometry Set,3,95.0,0.0,67.24,285.0,201.72,83.28
+ORD-50290,Home Organization,Storage Box,1,126.0,0.1,75.87,113.4,75.87,37.53
+ORD-50290,Drinkware,Water Bottle,1,95.0,0.05,58.8,90.25,58.8,31.45
+ORD-50290,Home Organization,Shelf Basket,1,125.0,0.1,80.13,112.5,80.13,32.37
+ORD-50291,Drinkware,Thermal Flask,2,320.0,0.0,235.45,640.0,470.9,169.1
+ORD-50291,Home Organization,Drawer Organizer,1,162.0,0.15,131.48,137.7,131.48,6.22
+ORD-50291,Stationery,Notebook Set,1,82.5,0.0,50.49,82.5,50.49,32.01
+ORD-50292,Kitchenware,Knife Set,3,290.0,0.05,189.91,826.5,569.73,256.77
+ORD-50292,Home Organization,Shelf Basket,2,137.5,0.05,108.66,261.25,217.32,43.93
+ORD-50292,Toys,Connect Game,1,220.0,0.15,144.78,187.0,144.78,42.22
+ORD-50293,Drinkware,Water Bottle,3,85.5,0.0,58.44,256.5,175.32,81.18
+ORD-50293,Home Organization,Drawer Organizer,1,162.0,0.05,97.59,153.9,97.59,56.31
+ORD-50294,Home Organization,Drawer Organizer,1,162.0,0.1,127.15,145.8,127.15,18.65
+ORD-50295,Drinkware,Thermal Flask,1,320.0,0.0,199.2,320.0,199.2,120.8
+ORD-50295,Toys,Connect Game,2,220.0,0.05,138.1,418.0,276.2,141.8
+ORD-50295,Cleaning,Microfiber Cloth,1,58.5,0.15,37.16,49.72,37.16,12.56
+ORD-50296,Stationery,Color Pencils,1,115.5,0.1,68.9,103.95,68.9,35.05
+ORD-50297,Home Organization,Shelf Basket,1,125.0,0.05,98.98,118.75,98.98,19.77
+ORD-50297,Drinkware,Water Bottle,1,85.5,0.0,65.2,85.5,65.2,20.3
+ORD-50298,Toys,Connect Game,1,220.0,0.0,168.17,220.0,168.17,51.83
+ORD-50299,Drinkware,Thermal Flask,2,320.0,0.1,224.61,576.0,449.22,126.78
+ORD-50300,Kitchenware,Knife Set,3,319.0,0.1,233.33,861.3,699.99,161.31
+ORD-50300,Home Organization,Storage Box,1,154.0,0.0,93.56,154.0,93.56,60.44
+ORD-50300,Home Organization,Drawer Organizer,2,162.0,0.0,132.52,324.0,265.04,58.96
+ORD-50301,Drinkware,Water Bottle,1,104.5,0.1,84.79,94.05,84.79,9.26
+ORD-50301,Stationery,Notebook Set,1,67.5,0.15,42.74,57.38,42.74,14.64
+ORD-50302,Home Organization,Shelf Basket,2,125.0,0.0,82.02,250.0,164.04,85.96
+ORD-50302,Home Organization,Drawer Organizer,2,180.0,0.1,119.62,324.0,239.24,84.76
+ORD-50302,Drinkware,Thermal Flask,1,336.0,0.0,265.28,336.0,265.28,70.72
+ORD-50303,Stationery,Color Pencils,2,115.5,0.05,71.52,219.45,143.04,76.41
+ORD-50304,Home Organization,Storage Box,1,147.0,0.0,99.71,147.0,99.71,47.29
+ORD-50305,Stationery,Notebook Set,1,78.75,0.05,59.46,74.81,59.46,15.35
+ORD-50305,Cleaning,Mop Set,1,234.0,0.0,153.6,234.0,153.6,80.4
+ORD-50306,Toys,Stacking Cups,1,130.0,0.0,82.99,130.0,82.99,47.01
+ORD-50307,Cleaning,Microfiber Cloth,1,65.0,0.0,48.65,65.0,48.65,16.35
+ORD-50307,Kitchenware,Storage Jar,1,85.0,0.0,55.19,85.0,55.19,29.81
+ORD-50307,Cleaning,Mop Set,2,273.0,0.1,208.65,491.4,417.3,74.1
+ORD-50308,Cleaning,Microfiber Cloth,1,68.25,0.15,44.83,58.01,44.83,13.18
+ORD-50308,Stationery,Geometry Set,3,104.5,0.1,74.84,282.15,224.52,57.63
+ORD-50309,Drinkware,Water Bottle,2,104.5,0.0,76.96,209.0,153.92,55.08
+ORD-50310,Stationery,Geometry Set,1,104.5,0.1,74.6,94.05,74.6,19.45
+ORD-50310,Kitchenware,Knife Set,1,319.0,0.0,186.51,319.0,186.51,132.49
+ORD-50310,Cleaning,Microfiber Cloth,3,68.25,0.0,51.72,204.75,155.16,49.59
+ORD-50311,Cleaning,Dish Brush,2,45.0,0.0,32.45,90.0,64.9,25.1
+ORD-50311,Home Organization,Drawer Organizer,1,162.0,0.1,113.49,145.8,113.49,32.31
+ORD-50312,Toys,Stacking Cups,1,136.5,0.15,84.6,116.02,84.6,31.42
+ORD-50312,Kitchenware,Frying Pan,1,342.0,0.05,233.48,324.9,233.48,91.42
+ORD-50312,Cleaning,Mop Set,1,286.0,0.05,191.67,271.7,191.67,80.03
+ORD-50313,Home Organization,Shelf Basket,1,131.25,0.0,85.66,131.25,85.66,45.59
+ORD-50314,Toys,Bubble Toy,1,90.0,0.1,73.26,81.0,73.26,7.74
+ORD-50315,Home Organization,Shelf Basket,3,137.5,0.15,91.45,350.62,274.35,76.27
+ORD-50316,Toys,Stacking Cups,1,136.5,0.15,96.1,116.02,96.1,19.92
+ORD-50316,Home Organization,Drawer Organizer,1,189.0,0.15,154.0,160.65,154.0,6.65
+ORD-50316,Kitchenware,Storage Jar,2,89.25,0.0,52.93,178.5,105.86,72.64
+ORD-50317,Kitchenware,Frying Pan,2,418.0,0.0,288.63,836.0,577.26,258.74
+ORD-50317,Kitchenware,Frying Pan,1,380.0,0.0,255.42,380.0,255.42,124.58
+ORD-50317,Toys,Bubble Toy,2,94.5,0.0,56.79,189.0,113.58,75.42
+ORD-50318,Cleaning,Microfiber Cloth,1,71.5,0.1,49.36,64.35,49.36,14.99
+ORD-50318,Toys,Bubble Toy,2,94.5,0.0,60.48,189.0,120.96,68.04
+ORD-50319,Toys,Stacking Cups,1,130.0,0.0,77.72,130.0,77.72,52.28
+ORD-50319,Toys,Connect Game,1,242.0,0.1,157.44,217.8,157.44,60.36
+ORD-50319,Stationery,Color Pencils,2,110.0,0.0,87.99,220.0,175.98,44.02
+ORD-50320,Kitchenware,Frying Pan,2,418.0,0.0,250.53,836.0,501.06,334.94
+ORD-50320,Home Organization,Shelf Basket,2,125.0,0.05,93.7,237.5,187.4,50.1
+ORD-50320,Stationery,Notebook Set,2,82.5,0.1,67.64,148.5,135.28,13.22
+ORD-50321,Home Organization,Drawer Organizer,1,162.0,0.0,95.53,162.0,95.53,66.47
+ORD-50321,Home Organization,Shelf Basket,2,131.25,0.15,87.4,223.12,174.8,48.32
+ORD-50321,Cleaning,Mop Set,1,0.0,0.05,167.63,259.35,167.63,91.72
+ORD-50322,Kitchenware,Storage Jar,3,85.0,0.15,66.0,216.75,198.0,18.75
+ORD-50322,Toys,Connect Game,2,220.0,0.1,179.02,396.0,358.04,37.96
+ORD-50322,Home Organization,Storage Box,1,126.0,0.0,94.74,126.0,94.74,31.26
+ORD-50323,Cleaning,Microfiber Cloth,3,68.25,0.0,53.67,204.75,161.01,43.74
+ORD-50323,Home Organization,Storage Box,3,140.0,0.0,86.95,420.0,260.85,159.15
+ORD-50324,Toys,Stacking Cups,1,130.0,0.15,80.29,110.5,80.29,30.21
+ORD-50325,Kitchenware,Frying Pan,1,380.0,0.0,286.13,380.0,286.13,93.87
+ORD-50325,Cleaning,Microfiber Cloth,3,68.25,0.15,43.0,174.04,129.0,45.04
+ORD-50325,Home Organization,Drawer Organizer,2,189.0,0.15,146.95,321.3,293.9,27.4
+ORD-50326,Cleaning,Dish Brush,2,40.5,0.1,24.26,72.9,48.52,24.38
+ORD-50326,Drinkware,Thermal Flask,1,288.0,0.0,198.31,288.0,198.31,89.69
+ORD-50327,Drinkware,Glass Set,1,210.0,0.05,143.11,199.5,143.11,56.39
+ORD-50328,Stationery,Notebook Set,1,67.5,0.15,55.01,57.38,55.01,2.37
+ORD-50329,Cleaning,Mop Set,1,260.0,0.1,157.4,234.0,157.4,76.6
+ORD-50329,Kitchenware,Knife Set,1,290.0,0.0,230.51,290.0,230.51,59.49
+ORD-50329,Home Organization,Storage Box,2,126.0,0.0,84.9,252.0,169.8,82.2
+ORD-50330,Stationery,Geometry Set,1,95.0,0.15,75.06,80.75,75.06,5.69
+ORD-50330,Drinkware,Thermal Flask,1,288.0,0.0,174.31,288.0,174.31,113.69
+ORD-50331,Home Organization,Drawer Organizer,2,180.0,0.0,113.96,360.0,227.92,132.08
+ORD-50332,Drinkware,Glass Set,1,189.0,0.1,142.88,170.1,142.88,27.22
+ORD-50332,Home Organization,Storage Box,1,147.0,0.1,110.11,132.3,110.11,22.19
+ORD-50332,Toys,Bubble Toy,2,99.0,0.05,74.05,188.1,148.1,40.0
+ORD-50333,Home Organization,Drawer Organizer,1,189.0,0.05,137.05,179.55,137.05,42.5
+ORD-50333,Kitchenware,Storage Jar,3,85.0,0.1,50.78,229.5,152.34,77.16
+ORD-50334,Stationery,Color Pencils,2,99.0,0.0,64.73,198.0,129.46,68.54
+ORD-50334,Kitchenware,Knife Set,3,304.5,0.0,179.59,913.5,538.77,374.73
+ORD-50335,Drinkware,Thermal Flask,2,288.0,0.1,211.11,518.4,422.22,96.18
+ORD-50335,Cleaning,Mop Set,2,234.0,0.0,143.62,468.0,287.24,180.76
+ORD-50335,Cleaning,Dish Brush,1,49.5,0.0,39.37,49.5,39.37,10.13
+ORD-50336,Home Organization,Drawer Organizer,1,198.0,0.05,144.76,188.1,144.76,43.34
+ORD-50336,Home Organization,Shelf Basket,1,131.25,0.0,101.67,131.25,101.67,29.58
+ORD-50337,Cleaning,Dish Brush,2,40.5,0.0,26.45,81.0,52.9,28.1
+ORD-50337,Toys,Bubble Toy,2,90.0,0.05,54.84,171.0,109.68,61.32
+ORD-50337,Drinkware,Water Bottle,1,85.5,0.15,68.42,72.68,68.42,4.26
+ORD-50338,Drinkware,Water Bottle,1,85.5,0.15,56.7,72.68,56.7,15.98
+ORD-50338,Drinkware,Water Bottle,1,95.0,0.1,61.6,85.5,61.6,23.9
+ORD-50339,Drinkware,Water Bottle,3,85.5,0.1,69.84,230.85,209.52,21.33
+ORD-50339,Cleaning,Mop Set,1,260.0,0.0,190.06,260.0,190.06,69.94
+ORD-50339,Kitchenware,Storage Jar,3,85.0,0.0,55.87,255.0,167.61,87.39
+ORD-50340,Toys,Connect Game,1,231.0,0.0,145.95,231.0,145.95,85.05
+ORD-50340,Kitchenware,Storage Jar,1,76.5,0.0,46.24,76.5,46.24,30.26
+ORD-50340,Toys,Stacking Cups,1,130.0,0.0,84.32,130.0,84.32,45.68
+ORD-50341,Home Organization,Drawer Organizer,2,180.0,0.0,124.15,360.0,248.3,111.7
+ORD-50341,Home Organization,Shelf Basket,1,112.5,0.05,89.18,106.88,89.18,17.7
+ORD-50341,Kitchenware,Knife Set,1,261.0,0.1,201.05,234.9,201.05,33.85
+ORD-50342,Drinkware,Glass Set,1,231.0,0.0,138.11,231.0,138.11,92.89
+ORD-50342,Cleaning,Dish Brush,2,49.5,0.0,30.55,99.0,61.1,37.9
+ORD-50342,Home Organization,Shelf Basket,3,131.25,0.0,82.41,393.75,247.23,146.52
+ORD-50343,Home Organization,Storage Box,1,126.0,0.0,89.49,126.0,89.49,36.51
+ORD-50343,Toys,Bubble Toy,2,90.0,0.0,55.64,180.0,111.28,68.72
+ORD-50343,Stationery,Geometry Set,2,99.75,0.15,57.94,169.58,115.88,53.7
+ORD-50344,Stationery,Geometry Set,2,85.5,0.05,58.07,162.45,116.14,46.31
+ORD-50344,Cleaning,Mop Set,3,273.0,0.1,161.72,737.1,485.16,251.94
+ORD-50344,Cleaning,Mop Set,3,273.0,0.15,212.2,696.15,636.6,59.55
+ORD-50345,Home Organization,Drawer Organizer,2,189.0,0.1,119.49,340.2,238.98,101.22
+ORD-50345,Home Organization,Shelf Basket,2,112.5,0.15,73.35,191.25,146.7,44.55
+ORD-50345,Stationery,Color Pencils,2,115.5,0.1,78.53,207.9,157.06,50.84
+ORD-50346,Drinkware,Water Bottle,1,95.0,0.05,64.83,90.25,64.83,25.42
+ORD-50347,Drinkware,Water Bottle,2,99.75,0.1,64.85,179.55,129.7,49.85
+ORD-50347,Toys,Connect Game,2,220.0,0.05,150.78,418.0,301.56,116.44
+ORD-50347,Stationery,Geometry Set,3,95.0,0.1,61.11,256.5,183.33,73.17
+ORD-50348,Toys,Stacking Cups,1,136.5,0.0,105.08,136.5,105.08,31.42
+ORD-50348,Cleaning,Mop Set,1,273.0,0.15,160.16,232.05,160.16,71.89
+ORD-50348,Stationery,Color Pencils,1,121.0,0.05,98.01,114.95,98.01,16.94
+ORD-50349,Stationery,Geometry Set,1,95.0,0.1,65.22,85.5,65.22,20.28
+ORD-50349,Drinkware,Thermal Flask,3,352.0,0.0,275.65,1056.0,826.95,229.05
+ORD-50349,Kitchenware,Frying Pan,2,399.0,0.0,278.39,798.0,556.78,241.22
+ORD-50350,Cleaning,Mop Set,3,260.0,0.0,212.2,780.0,636.6,143.4
+ORD-50351,Home Organization,Drawer Organizer,2,180.0,0.15,112.9,306.0,225.8,80.2
+ORD-50351,Cleaning,Mop Set,2,260.0,0.0,162.78,520.0,325.56,194.44
+ORD-50351,Stationery,Notebook Set,2,75.0,0.0,58.61,150.0,117.22,32.78
+ORD-50352,Stationery,Notebook Set,3,75.0,0.0,45.58,225.0,136.74,88.26
+ORD-50353,Toys,Bubble Toy,3,90.0,0.0,67.45,270.0,202.35,67.65
+ORD-50353,Toys,Stacking Cups,1,143.0,0.1,107.63,128.7,107.63,21.07
+ORD-50353,Drinkware,Thermal Flask,1,288.0,0.05,217.87,273.6,217.87,55.73
+ORD-50354,Toys,Connect Game,2,220.0,0.0,150.15,440.0,300.3,139.7
+ORD-50354,Stationery,Notebook Set,1,75.0,0.0,59.83,75.0,59.83,15.17
+ORD-50355,Stationery,Geometry Set,2,104.5,0.1,75.57,188.1,151.14,36.96
+ORD-50355,Stationery,Notebook Set,2,78.75,0.0,45.78,157.5,91.56,65.94
+ORD-50356,Drinkware,Glass Set,2,189.0,0.1,113.91,340.2,227.82,112.38
+ORD-50356,Kitchenware,Storage Jar,1,89.25,0.0,54.19,89.25,54.19,35.06
+ORD-50356,Toys,Stacking Cups,2,136.5,0.0,102.37,273.0,204.74,68.26
+ORD-50357,Cleaning,Mop Set,1,234.0,0.0,152.39,234.0,152.39,81.61
+ORD-50358,Cleaning,Dish Brush,2,45.0,0.1,32.52,81.0,65.04,15.96
+ORD-50358,Kitchenware,Knife Set,1,290.0,0.05,215.98,275.5,215.98,59.52
+ORD-50358,Cleaning,Microfiber Cloth,1,58.5,0.0,47.87,58.5,47.87,10.63
+ORD-50359,Drinkware,Thermal Flask,1,336.0,0.0,265.54,336.0,265.54,70.46
+ORD-50359,Drinkware,Glass Set,2,220.5,0.05,172.54,418.95,345.08,73.87
+ORD-50360,Stationery,Color Pencils,2,110.0,0.15,86.15,187.0,172.3,14.7
+ORD-50360,Kitchenware,Knife Set,1,319.0,0.1,244.85,287.1,244.85,42.25
+ORD-50361,Stationery,Notebook Set,3,75.0,0.1,46.93,202.5,140.79,61.71
+ORD-50361,Cleaning,Microfiber Cloth,1,65.0,0.15,50.83,55.25,50.83,4.42
+ORD-50362,Drinkware,Water Bottle,2,95.0,0.0,77.62,190.0,155.24,34.76
+ORD-50363,Stationery,Geometry Set,2,99.75,0.0,75.61,199.5,151.22,48.28
+ORD-50363,Stationery,Notebook Set,2,75.0,0.15,60.53,127.5,121.06,6.44
+ORD-50363,Kitchenware,Frying Pan,2,418.0,0.0,290.51,836.0,581.02,254.98
+ORD-50364,Stationery,Color Pencils,2,115.5,0.0,80.83,231.0,161.66,69.34
+ORD-50364,Kitchenware,Knife Set,1,290.0,0.0,195.64,290.0,195.64,94.36
+ORD-50364,Stationery,Geometry Set,1,95.0,0.15,63.62,80.75,63.62,17.13
+ORD-50365,Stationery,Geometry Set,3,95.0,0.0,74.33,285.0,222.99,62.01
+ORD-50366,Kitchenware,Frying Pan,1,380.0,0.0,275.86,380.0,275.86,104.14
+ORD-50366,Kitchenware,Storage Jar,1,76.5,0.0,46.83,76.5,46.83,29.67
+ORD-50367,Toys,Bubble Toy,2,90.0,0.0,54.81,180.0,109.62,70.38
+ORD-50367,Kitchenware,Frying Pan,2,418.0,0.0,269.48,836.0,538.96,297.04
+ORD-50368,Toys,Stacking Cups,1,136.5,0.15,79.49,116.02,79.49,36.53
+ORD-50369,Cleaning,Microfiber Cloth,1,68.25,0.05,55.45,64.84,55.45,9.39
+ORD-50369,Drinkware,Thermal Flask,3,336.0,0.1,231.39,907.2,694.17,213.03
+ORD-50370,Stationery,Color Pencils,1,110.0,0.15,82.06,93.5,82.06,11.44
+ORD-50370,Toys,Bubble Toy,1,90.0,0.1,61.96,81.0,61.96,19.04
+ORD-50371,Drinkware,Water Bottle,1,85.5,0.1,63.06,76.95,63.06,13.89
+ORD-50372,Drinkware,Water Bottle,2,95.0,0.15,58.11,161.5,116.22,45.28
+ORD-50372,Stationery,Geometry Set,1,95.0,0.1,76.57,85.5,76.57,8.93
+ORD-50373,Stationery,Geometry Set,1,95.0,0.1,71.39,85.5,71.39,14.11
+ORD-50373,Toys,Connect Game,2,231.0,0.15,183.44,392.7,366.88,25.82
+ORD-50373,Home Organization,Shelf Basket,1,112.5,0.15,65.43,95.62,65.43,30.19
+ORD-50374,Drinkware,Thermal Flask,1,288.0,0.0,175.29,288.0,175.29,112.71
+ORD-50374,Drinkware,Water Bottle,1,104.5,0.05,72.38,99.28,72.38,26.9
+ORD-50374,Cleaning,Microfiber Cloth,2,71.5,0.05,48.1,135.85,96.2,39.65
+ORD-50375,Toys,Stacking Cups,3,130.0,0.1,100.03,351.0,300.09,50.91
+ORD-50375,Kitchenware,Storage Jar,1,93.5,0.0,70.03,93.5,70.03,23.47
+ORD-50375,Stationery,Geometry Set,1,85.5,0.05,63.58,81.22,63.58,17.64
+ORD-50376,Toys,Connect Game,2,242.0,0.0,167.72,484.0,335.44,148.56
+ORD-50376,Cleaning,Microfiber Cloth,2,68.25,0.0,40.6,136.5,81.2,55.3
+ORD-50376,Toys,Bubble Toy,1,99.0,0.0,69.33,99.0,69.33,29.67
+ORD-50377,Kitchenware,Knife Set,2,319.0,0.1,244.12,574.2,488.24,85.96
+ORD-50377,Stationery,Notebook Set,3,67.5,0.05,54.79,192.38,164.37,28.01
+ORD-50378,Toys,Bubble Toy,2,90.0,0.0,57.58,180.0,115.16,64.84
+ORD-50378,Kitchenware,Storage Jar,1,93.5,0.1,73.31,84.15,73.31,10.84
+ORD-50378,Drinkware,Water Bottle,3,104.5,0.0,76.95,313.5,230.85,82.65
+ORD-50379,Stationery,Notebook Set,1,78.75,0.0,62.24,78.75,62.24,16.51
+ORD-50380,Home Organization,Storage Box,2,140.0,0.1,103.85,252.0,207.7,44.3
+ORD-50381,Toys,Stacking Cups,2,130.0,0.05,98.05,247.0,196.1,50.9
+ORD-50381,Cleaning,Mop Set,2,260.0,0.0,184.67,520.0,369.34,150.66
+ORD-50381,Kitchenware,Storage Jar,2,85.0,0.1,60.44,153.0,120.88,32.12
+ORD-50382,Cleaning,Dish Brush,2,45.0,0.0,36.31,90.0,72.62,17.38
+ORD-50382,Kitchenware,Knife Set,1,319.0,0.1,253.5,287.1,253.5,33.6
+ORD-50383,Drinkware,Water Bottle,2,104.5,0.0,61.66,209.0,123.32,85.68
+ORD-50383,Home Organization,Shelf Basket,3,131.25,0.0,105.14,393.75,315.42,78.33
+ORD-50383,Toys,Bubble Toy,2,81.0,0.0,59.29,162.0,118.58,43.42
+ORD-50384,Kitchenware,Storage Jar,1,76.5,0.0,51.95,76.5,51.95,24.55
+ORD-50384,Cleaning,Dish Brush,2,45.0,0.0,27.28,90.0,54.56,35.44
+ORD-50385,Stationery,Notebook Set,1,82.5,0.0,55.81,82.5,55.81,26.69
+ORD-50385,Cleaning,Dish Brush,2,45.0,0.0,36.41,90.0,72.82,17.18
+ORD-50386,Home Organization,Shelf Basket,1,131.25,0.0,91.32,131.25,91.32,39.93
+ORD-50387,Kitchenware,Knife Set,1,304.5,0.1,178.56,274.05,178.56,95.49
+ORD-50388,Home Organization,Shelf Basket,2,137.5,0.15,112.09,233.75,224.18,9.57
+ORD-50388,Home Organization,Drawer Organizer,1,189.0,0.1,148.73,170.1,148.73,21.37
+ORD-50389,Drinkware,Thermal Flask,1,288.0,0.0,177.0,288.0,177.0,111.0
+ORD-50389,Cleaning,Dish Brush,1,45.0,0.0,26.56,45.0,26.56,18.44
+ORD-50389,Cleaning,Microfiber Cloth,2,71.5,0.0,47.91,143.0,95.82,47.18
+ORD-50390,Kitchenware,Frying Pan,2,380.0,0.1,294.28,684.0,588.56,95.44
+ORD-50391,Drinkware,Water Bottle,3,99.75,0.1,60.85,269.32,182.55,86.77
+ORD-50392,Drinkware,Glass Set,1,210.0,0.05,125.95,199.5,125.95,73.55
+ORD-50392,Home Organization,Storage Box,0,140.0,0.15,106.17,119.0,106.17,12.83
+ORD-50392,Home Organization,Storage Box,2,126.0,0.1,77.27,226.8,154.54,72.26
+ORD-50393,Stationery,Geometry Set,1,95.0,0.1,68.65,85.5,68.65,16.85
+ORD-50393,Drinkware,Water Bottle,2,104.5,0.15,64.3,177.65,128.6,49.05
+ORD-50393,Toys,Stacking Cups,2,130.0,0.0,86.48,260.0,172.96,87.04
+ORD-50394,Toys,Stacking Cups,3,136.5,0.15,94.79,348.08,284.37,63.71
+ORD-50394,Stationery,Geometry Set,1,95.0,0.0,68.05,95.0,68.05,26.95
+ORD-50394,Kitchenware,Knife Set,3,261.0,0.05,190.1,743.85,570.3,173.55
+ORD-50395,Kitchenware,Frying Pan,2,342.0,0.0,258.24,684.0,516.48,167.52
+ORD-50395,Stationery,Color Pencils,1,99.0,0.1,78.52,89.1,78.52,10.58
+ORD-50396,Drinkware,Thermal Flask,2,336.0,0.15,254.02,571.2,508.04,63.16
+ORD-50396,Cleaning,Dish Brush,1,40.5,0.05,25.89,38.48,25.89,12.59
+ORD-50397,Cleaning,Microfiber Cloth,2,65.0,0.0,49.29,130.0,98.58,31.42
+ORD-50397,Stationery,Notebook Set,3,78.75,0.0,57.92,236.25,173.76,62.49
+ORD-50397,Toys,Stacking Cups,1,136.5,0.05,100.76,129.67,100.76,28.91
+ORD-50398,Home Organization,Storage Box,1,126.0,0.05,99.32,119.7,99.32,20.38
+ORD-50399,Stationery,Geometry Set,1,85.5,0.0,62.2,85.5,62.2,23.3
+ORD-50399,Stationery,Notebook Set,1,75.0,0.0,58.5,75.0,58.5,16.5
+ORD-50400,Drinkware,Glass Set,2,210.0,0.0,155.11,420.0,310.22,109.78
+ORD-50400,Home Organization,Shelf Basket,2,137.5,0.05,108.62,261.25,217.24,44.01
+ORD-50401,Home Organization,Drawer Organizer,2,198.0,0.1,139.67,356.4,279.34,77.06
+ORD-50401,Cleaning,Dish Brush,1,40.5,0.0,30.59,40.5,30.59,9.91
+ORD-50401,Home Organization,Shelf Basket,2,112.5,0.1,66.84,202.5,133.68,68.82
+ORD-50402,Home Organization,Shelf Basket,2,125.0,0.1,84.27,225.0,168.54,56.46
+ORD-50403,Home Organization,Storage Box,1,140.0,0.0,109.25,140.0,109.25,30.75
+ORD-50403,Kitchenware,Frying Pan,1,380.0,0.15,286.54,323.0,286.54,36.46
+ORD-50403,Home Organization,Shelf Basket,1,125.0,0.05,91.62,118.75,91.62,27.13
+ORD-50404,Toys,Connect Game,1,198.0,0.0,123.96,198.0,123.96,74.04
+ORD-50405,Stationery,Notebook Set,1,67.5,0.15,46.68,57.38,46.68,10.7
+ORD-50406,Toys,Connect Game,3,242.0,0.15,162.77,617.1,488.31,128.79
+ORD-50407,Kitchenware,Storage Jar,3,85.0,0.15,59.22,216.75,177.66,39.09
+ORD-50408,Cleaning,Microfiber Cloth,2,71.5,0.0,42.17,143.0,84.34,58.66
+ORD-50408,Kitchenware,Knife Set,1,290.0,0.05,220.66,275.5,220.66,54.84
+ORD-50408,Stationery,Color Pencils,1,121.0,0.0,91.75,121.0,91.75,29.25
+ORD-50409,Toys,Connect Game,3,198.0,0.15,156.03,504.9,468.09,36.81
+ORD-50410,Stationery,Color Pencils,2,121.0,0.0,73.15,242.0,146.3,95.7
+ORD-50410,Drinkware,Thermal Flask,1,352.0,0.05,286.44,334.4,286.44,47.96
+ORD-50410,Drinkware,Glass Set,1,189.0,0.05,142.72,179.55,142.72,36.83
+ORD-50411,Drinkware,Water Bottle,1,104.5,0.05,62.78,99.28,62.78,36.5
+ORD-50411,Cleaning,Dish Brush,1,45.0,0.1,34.18,40.5,34.18,6.32
+ORD-50412,Toys,Connect Game,1,231.0,0.05,165.65,219.45,165.65,53.8
+ORD-50412,Drinkware,Glass Set,2,210.0,0.15,123.95,357.0,247.9,109.1
+ORD-50413,Drinkware,Thermal Flask,1,336.0,0.15,213.93,285.6,213.93,71.67
+ORD-50413,Home Organization,Storage Box,1,140.0,0.0,90.81,140.0,90.81,49.19
+ORD-50414,Home Organization,Drawer Organizer,3,180.0,0.1,104.62,486.0,313.86,172.14
+ORD-50415,Kitchenware,Knife Set,1,290.0,0.1,232.15,261.0,232.15,28.85
+ORD-50415,Drinkware,Water Bottle,1,95.0,0.15,61.38,80.75,61.38,19.37
+ORD-50415,Home Organization,Storage Box,2,126.0,0.05,98.07,239.4,196.14,43.26
+ORD-50416,Drinkware,Glass Set,1,210.0,0.0,148.65,210.0,148.65,61.35
+ORD-50416,Stationery,Notebook Set,1,82.5,0.15,59.97,70.12,59.97,10.15
+ORD-50416,Stationery,Geometry Set,2,95.0,0.0,63.91,190.0,127.82,62.18
+ORD-50417,Toys,Stacking Cups,2,130.0,0.0,93.36,260.0,186.72,73.28
+ORD-50418,Drinkware,Glass Set,2,220.5,0.0,167.32,441.0,334.64,106.36
+ORD-50419,Home Organization,Drawer Organizer,2,189.0,0.15,119.73,321.3,239.46,81.84
+ORD-50419,Cleaning,Dish Brush,2,47.25,0.15,28.39,80.32,56.78,23.54
+ORD-50420,Stationery,Color Pencils,1,99.0,0.05,72.07,94.05,72.07,21.98
+ORD-50420,Toys,Bubble Toy,1,90.0,0.1,71.87,81.0,71.87,9.13
+ORD-50420,Home Organization,Drawer Organizer,1,180.0,0.15,147.4,153.0,147.4,5.6
+ORD-50421,Drinkware,Thermal Flask,1,288.0,0.15,173.95,244.8,173.95,70.85
+ORD-50421,Cleaning,Mop Set,1,273.0,0.0,190.24,273.0,190.24,82.76
+ORD-50421,Home Organization,Shelf Basket,1,137.5,0.0,86.91,137.5,86.91,50.59
+ORD-50422,Kitchenware,Frying Pan,1,380.0,0.15,230.73,323.0,230.73,92.27
+ORD-50422,Kitchenware,Frying Pan,3,342.0,0.0,276.47,1026.0,829.41,196.59
+ORD-50423,Home Organization,Shelf Basket,3,131.25,0.0,89.0,393.75,267.0,126.75
+ORD-50423,Kitchenware,Frying Pan,1,342.0,0.15,247.2,290.7,247.2,43.5
+ORD-50423,Drinkware,Glass Set,2,210.0,0.05,153.89,399.0,307.78,91.22
+ORD-50424,Cleaning,Microfiber Cloth,1,68.25,0.0,53.95,68.25,53.95,14.3
+ORD-50424,Stationery,Color Pencils,1,99.0,0.1,72.33,89.1,72.33,16.77
+ORD-50425,Kitchenware,Knife Set,2,261.0,0.0,160.15,522.0,320.3,201.7
+ORD-50426,Kitchenware,Knife Set,3,290.0,0.15,237.16,739.5,711.48,28.02
+ORD-50426,Stationery,Notebook Set,2,78.75,0.15,57.49,133.88,114.98,18.9
+ORD-50426,Toys,Bubble Toy,2,94.5,0.15,58.7,160.65,117.4,43.25
+ORD-50427,Home Organization,Drawer Organizer,2,162.0,0.0,125.41,324.0,250.82,73.18
+ORD-50428,Kitchenware,Knife Set,3,290.0,0.0,184.99,870.0,554.97,315.03
+ORD-50429,Kitchenware,Storage Jar,2,76.5,0.15,61.68,130.05,123.36,6.69
+ORD-50429,Kitchenware,Frying Pan,3,380.0,0.05,308.21,1083.0,924.63,158.37
+ORD-50430,Drinkware,Water Bottle,1,95.0,0.15,69.78,80.75,69.78,10.97
+ORD-50431,Drinkware,Thermal Flask,1,336.0,0.0,248.31,336.0,248.31,87.69
+ORD-50431,Home Organization,Storage Box,1,147.0,0.0,99.22,147.0,99.22,47.78
+ORD-50431,Kitchenware,Frying Pan,3,418.0,0.05,263.34,1191.3,790.02,401.28
+ORD-50432,Stationery,Color Pencils,1,121.0,0.1,77.12,108.9,77.12,31.78
+ORD-50433,Stationery,Notebook Set,2,82.5,0.1,66.46,148.5,132.92,15.58
+ORD-50433,Kitchenware,Storage Jar,1,93.5,0.0,74.75,93.5,74.75,18.75
+ORD-50433,Kitchenware,Knife Set,2,319.0,0.0,260.8,638.0,521.6,116.4
+ORD-50434,Kitchenware,Frying Pan,1,399.0,0.0,294.16,399.0,294.16,104.84
+ORD-50434,Cleaning,Dish Brush,1,40.5,0.15,24.33,34.42,24.33,10.09
+ORD-50435,Cleaning,Dish Brush,3,45.0,0.0,32.55,135.0,97.65,37.35
+ORD-50436,Cleaning,Mop Set,1,260.0,0.0,152.56,260.0,152.56,107.44
+ORD-50436,Home Organization,Drawer Organizer,2,180.0,0.15,127.65,306.0,255.3,50.7
+ORD-50436,Kitchenware,Knife Set,1,290.0,0.0,197.61,290.0,197.61,92.39
+ORD-50437,Cleaning,Dish Brush,1,45.0,0.15,30.07,38.25,30.07,8.18
+ORD-50437,Toys,Stacking Cups,1,136.5,0.0,79.65,136.5,79.65,56.85
+ORD-50438,Kitchenware,Knife Set,1,319.0,0.0,257.56,319.0,257.56,61.44
+ORD-50439,Stationery,Notebook Set,2,75.0,0.0,44.1,150.0,88.2,61.8
+ORD-50440,Drinkware,Water Bottle,3,104.5,0.1,82.72,282.15,248.16,33.99
+ORD-50441,Cleaning,Mop Set,1,260.0,0.0,181.92,260.0,181.92,78.08
+ORD-50441,Home Organization,Shelf Basket,2,137.5,0.15,111.02,233.75,222.04,11.71
+ORD-50442,Home Organization,Storage Box,2,126.0,0.0,89.95,252.0,179.9,72.1
+ORD-50442,Drinkware,Water Bottle,1,104.5,0.0,81.24,104.5,81.24,23.26
+ORD-50442,Kitchenware,Knife Set,1,261.0,0.15,192.7,221.85,192.7,29.15
+ORD-50443,Toys,Stacking Cups,2,136.5,0.05,98.64,259.35,197.28,62.07
+ORD-50443,Kitchenware,Knife Set,1,304.5,0.15,225.16,258.82,225.16,33.66
+ORD-50443,Toys,Bubble Toy,2,94.5,0.0,71.31,189.0,142.62,46.38
+ORD-50444,Toys,Stacking Cups,2,130.0,0.0,95.91,260.0,191.82,68.18
+ORD-50444,Cleaning,Mop Set,3,234.0,0.0,171.44,702.0,514.32,187.68
+ORD-50444,Stationery,Notebook Set,1,75.0,0.15,58.37,63.75,58.37,5.38
+ORD-50445,Home Organization,Drawer Organizer,2,189.0,0.0,112.7,378.0,225.4,152.6
+ORD-50446,Cleaning,Mop Set,1,273.0,0.0,191.92,273.0,191.92,81.08
+ORD-50446,Cleaning,Dish Brush,1,40.5,0.0,27.5,40.5,27.5,13.0
+ORD-50447,Home Organization,Storage Box,2,126.0,0.0,92.37,252.0,184.74,67.26
+ORD-50447,Toys,Stacking Cups,3,136.5,0.15,81.96,348.08,245.88,102.2
+ORD-50448,Cleaning,Dish Brush,2,45.0,0.15,26.82,76.5,53.64,22.86
+ORD-50449,Kitchenware,Knife Set,1,319.0,0.05,254.72,303.05,254.72,48.33
+ORD-50450,Drinkware,Glass Set,1,231.0,0.0,146.25,231.0,146.25,84.75
+ORD-50451,Kitchenware,Storage Jar,3,89.25,0.0,54.2,267.75,162.6,105.15
+ORD-50451,Kitchenware,Knife Set,1,304.5,0.0,234.64,304.5,234.64,69.86
+ORD-50452,Home Organization,Shelf Basket,2,125.0,0.05,95.03,237.5,190.06,47.44
+ORD-50452,Home Organization,Storage Box,2,126.0,0.1,96.83,226.8,193.66,33.14
+ORD-50453,Kitchenware,Storage Jar,2,85.0,0.1,58.42,153.0,116.84,36.16
+ORD-50453,Toys,Connect Game,3,220.0,0.1,147.0,594.0,441.0,153.0
+ORD-50453,Cleaning,Dish Brush,1,49.5,0.15,39.28,42.08,39.28,2.8
+ORD-50454,Drinkware,Thermal Flask,2,352.0,0.0,228.67,704.0,457.34,246.66
+ORD-50454,Drinkware,Thermal Flask,2,288.0,0.0,203.15,576.0,406.3,169.7
+ORD-50454,Cleaning,Microfiber Cloth,2,58.5,0.1,44.24,105.3,88.48,16.82
+ORD-50455,Drinkware,Thermal Flask,1,336.0,0.0,224.2,336.0,224.2,111.8
+ORD-50456,Kitchenware,Storage Jar,1,85.0,0.0,58.58,85.0,58.58,26.42
+ORD-50457,Drinkware,Water Bottle,1,104.5,0.1,60.89,94.05,60.89,33.16
+ORD-50457,Kitchenware,Frying Pan,1,380.0,0.0,289.84,380.0,289.84,90.16
+ORD-50458,Cleaning,Mop Set,3,273.0,0.0,179.02,819.0,537.06,281.94
+ORD-50458,Cleaning,Microfiber Cloth,2,71.5,0.0,47.01,143.0,94.02,48.98
+ORD-50459,Kitchenware,Storage Jar,2,85.0,0.05,68.19,161.5,136.38,25.12
+ORD-50459,Drinkware,Water Bottle,1,85.5,0.0,68.4,85.5,68.4,17.1
+ORD-50460,Drinkware,Glass Set,1,210.0,0.0,140.31,210.0,140.31,69.69
+ORD-50461,Stationery,Color Pencils,1,121.0,0.0,71.64,121.0,71.64,49.36
+ORD-50461,Kitchenware,Storage Jar,2,93.5,0.15,76.12,158.95,152.24,6.71
+ORD-50461,Home Organization,Shelf Basket,1,112.5,0.0,90.52,112.5,90.52,21.98
+ORD-50462,Cleaning,Dish Brush,1,45.0,0.0,35.0,45.0,35.0,10.0
+ORD-50462,Cleaning,Mop Set,1,260.0,0.0,172.34,260.0,172.34,87.66
+ORD-50463,Cleaning,Microfiber Cloth,1,58.5,0.05,36.75,55.58,36.75,18.83
+ORD-50463,Cleaning,Mop Set,1,234.0,0.0,144.15,234.0,144.15,89.85
+ORD-50463,Toys,Stacking Cups,2,130.0,0.05,78.29,247.0,156.58,90.42
+ORD-50464,Drinkware,Glass Set,1,210.0,0.0,138.9,210.0,138.9,71.1
+ORD-50465,Stationery,Notebook Set,2,67.5,0.1,49.51,121.5,99.02,22.48
+ORD-50465,Stationery,Geometry Set,1,85.5,0.1,54.12,76.95,54.12,22.83
+ORD-50465,Cleaning,Dish Brush,2,49.5,0.0,40.5,99.0,81.0,18.0
+ORD-50466,Home Organization,Drawer Organizer,1,162.0,0.1,104.16,145.8,104.16,41.64
+ORD-50467,Drinkware,Glass Set,1,231.0,0.05,163.25,219.45,163.25,56.2
+ORD-50467,Toys,Connect Game,3,198.0,0.0,119.46,594.0,358.38,235.62
+ORD-50467,Home Organization,Drawer Organizer,3,180.0,0.0,117.49,540.0,352.47,187.53
+ORD-50468,Toys,Connect Game,1,220.0,0.05,177.08,209.0,177.08,31.92
+ORD-50469,Cleaning,Dish Brush,1,40.5,0.0,24.62,40.5,24.62,15.88
+ORD-50469,Stationery,Geometry Set,1,85.5,0.15,68.01,72.68,68.01,4.67
+ORD-50470,Toys,Connect Game,1,198.0,0.0,123.46,198.0,123.46,74.54
+ORD-50470,Toys,Stacking Cups,1,143.0,0.0,84.74,143.0,84.74,58.26
+ORD-50471,Drinkware,Water Bottle,2,104.5,0.15,75.68,177.65,151.36,26.29
+ORD-50472,Home Organization,Drawer Organizer,1,180.0,0.0,141.59,180.0,141.59,38.41
+ORD-50473,Cleaning,Dish Brush,1,49.5,0.0,28.97,49.5,28.97,20.53
+ORD-50473,Kitchenware,Storage Jar,3,89.25,0.0,62.5,267.75,187.5,80.25
+ORD-50473,Cleaning,Dish Brush,3,45.0,0.15,27.35,114.75,82.05,32.7
+ORD-50474,Toys,Connect Game,2,220.0,0.0,128.28,440.0,256.56,183.44
+ORD-50474,Cleaning,Dish Brush,3,45.0,0.0,35.57,135.0,106.71,28.29
+ORD-50475,Stationery,Geometry Set,1,99.75,0.1,76.51,89.78,76.51,13.27
+ORD-50475,Toys,Stacking Cups,1,143.0,0.15,91.75,121.55,91.75,29.8
+ORD-50475,Stationery,Color Pencils,2,121.0,0.1,95.5,217.8,191.0,26.8
+ORD-50476,Toys,Stacking Cups,1,143.0,0.05,109.92,135.85,109.92,25.93
+ORD-50476,Kitchenware,Storage Jar,2,85.0,0.15,56.39,144.5,112.78,31.72
+ORD-50476,Home Organization,Shelf Basket,1,125.0,0.1,80.33,112.5,80.33,32.17
+ORD-50477,Kitchenware,Frying Pan,1,418.0,0.05,320.25,397.1,320.25,76.85
+ORD-50477,Cleaning,Dish Brush,1,49.5,0.15,36.32,42.08,36.32,5.76
+ORD-50478,Cleaning,Mop Set,1,234.0,0.0,144.19,234.0,144.19,89.81
+ORD-50478,Home Organization,Drawer Organizer,1,180.0,0.05,135.76,171.0,135.76,35.24
+ORD-50478,Home Organization,Shelf Basket,2,112.5,0.15,88.86,191.25,177.72,13.53
+ORD-50479,Home Organization,Drawer Organizer,1,180.0,0.15,111.97,153.0,111.97,41.03
+ORD-50480,Home Organization,Drawer Organizer,3,180.0,0.0,110.65,540.0,331.95,208.05
+ORD-50480,Cleaning,Mop Set,2,286.0,0.15,216.3,486.2,432.6,53.6
+ORD-50480,Kitchenware,Knife Set,1,304.5,0.0,216.3,304.5,216.3,88.2
+ORD-50481,Cleaning,Microfiber Cloth,3,65.0,0.1,46.47,175.5,139.41,36.09
+ORD-50481,Toys,Connect Game,1,231.0,0.0,146.3,231.0,146.3,84.7
+ORD-50481,Kitchenware,Knife Set,2,290.0,0.05,208.62,551.0,417.24,133.76
+ORD-50482,Stationery,Color Pencils,3,-100.0,0.0,71.19,297.0,213.57,83.43
+ORD-50483,Drinkware,Glass Set,1,210.0,0.0,142.98,210.0,142.98,67.02
+ORD-50483,Kitchenware,Storage Jar,2,89.25,0.05,62.12,169.58,124.24,45.34
+ORD-50483,Home Organization,Storage Box,1,140.0,0.1,87.59,126.0,87.59,38.41
+ORD-50484,Kitchenware,Knife Set,2,290.0,0.0,194.39,580.0,388.78,191.22
+ORD-50484,Cleaning,Dish Brush,3,45.0,0.05,32.49,128.25,97.47,30.78
+ORD-50485,Cleaning,Dish Brush,1,45.0,0.0,32.94,45.0,32.94,12.06
+ORD-50485,Cleaning,Microfiber Cloth,1,58.5,0.0,46.99,58.5,46.99,11.51
+ORD-50485,Drinkware,Glass Set,1,231.0,0.1,173.22,207.9,173.22,34.68
+ORD-50486,Home Organization,Storage Box,1,126.0,0.15,94.68,107.1,94.68,12.42
+ORD-50486,Toys,Connect Game,2,231.0,0.0,169.8,462.0,339.6,122.4
+ORD-50486,Toys,Stacking Cups,3,130.0,0.15,77.98,331.5,233.94,97.56
+ORD-50487,Kitchenware,Knife Set,3,319.0,0.05,208.94,909.15,626.82,282.33
+ORD-50487,Cleaning,Dish Brush,1,49.5,0.0,36.36,49.5,36.36,13.14
+ORD-50488,Drinkware,Water Bottle,2,95.0,0.0,62.92,190.0,125.84,64.16
+ORD-50489,Drinkware,Glass Set,2,210.0,0.15,142.5,357.0,285.0,72.0
+ORD-50489,Stationery,Notebook Set,2,75.0,0.1,43.83,135.0,87.66,47.34
+ORD-50489,Home Organization,Storage Box,2,126.0,0.0,76.36,252.0,152.72,99.28
+ORD-50490,Kitchenware,Frying Pan,2,380.0,0.0,258.92,760.0,517.84,242.16
+ORD-50490,Toys,Stacking Cups,1,117.0,0.0,71.26,117.0,71.26,45.74
+ORD-50491,Kitchenware,Knife Set,1,290.0,0.15,236.81,246.5,236.81,9.69
+ORD-50491,Cleaning,Microfiber Cloth,3,58.5,0.0,43.18,175.5,129.54,45.96
+ORD-50491,Cleaning,Mop Set,1,260.0,0.0,194.49,260.0,194.49,65.51
+ORD-50492,Cleaning,Mop Set,1,273.0,0.15,205.7,232.05,205.7,26.35
+ORD-50492,Home Organization,Drawer Organizer,1,180.0,0.15,119.81,153.0,119.81,33.19
+ORD-50493,Kitchenware,Frying Pan,2,418.0,0.15,329.57,710.6,659.14,51.46
+ORD-50493,Toys,Stacking Cups,2,117.0,0.0,76.98,234.0,153.96,80.04
+ORD-50494,Home Organization,Shelf Basket,3,112.5,0.15,81.17,286.88,243.51,43.37
+ORD-50494,Home Organization,Drawer Organizer,2,189.0,0.0,142.22,378.0,284.44,93.56
+ORD-50494,Cleaning,Mop Set,1,234.0,0.15,187.4,198.9,187.4,11.5
+ORD-50495,Kitchenware,Storage Jar,1,76.5,0.0,46.35,76.5,46.35,30.15
+ORD-50495,Toys,Bubble Toy,1,81.0,0.15,59.91,68.85,59.91,8.94
+ORD-50496,Stationery,Geometry Set,3,95.0,0.0,74.28,285.0,222.84,62.16
+ORD-50496,Drinkware,Water Bottle,2,95.0,0.1,68.86,171.0,137.72,33.28
+ORD-50497,Kitchenware,Frying Pan,3,342.0,0.0,259.43,1026.0,778.29,247.71
+ORD-50497,Kitchenware,Storage Jar,2,85.0,0.0,65.66,170.0,131.32,38.68
+ORD-50498,Drinkware,Glass Set,2,220.5,0.0,150.6,441.0,301.2,139.8
+ORD-50498,Toys,Stacking Cups,1,143.0,0.0,92.09,143.0,92.09,50.91
+ORD-50498,Home Organization,Storage Box,2,154.0,0.1,124.94,277.2,249.88,27.32
+ORD-50499,Stationery,Notebook Set,1,75.0,0.05,58.84,71.25,58.84,12.41
+ORD-50499,Home Organization,Shelf Basket,1,125.0,0.0,82.93,125.0,82.93,42.07
+ORD-50500,Drinkware,Glass Set,1,210.0,0.0,162.17,210.0,162.17,47.83
+ORD-50500,Home Organization,Storage Box,2,147.0,0.05,104.47,279.3,208.94,70.36
+ORD-50500,Home Organization,Storage Box,1,140.0,0.0,113.76,140.0,113.76,26.24
+ORD-50501,Drinkware,Glass Set,2,189.0,0.1,130.48,340.2,260.96,79.24
+ORD-50501,Drinkware,Glass Set,2,210.0,0.0,131.82,420.0,263.64,156.36
+ORD-50502,Drinkware,Glass Set,1,220.5,0.0,174.48,220.5,174.48,46.02
+ORD-50502,Toys,Connect Game,1,242.0,0.0,195.31,242.0,195.31,46.69
+ORD-50502,Drinkware,Thermal Flask,1,288.0,0.1,216.69,259.2,216.69,42.51
+ORD-50503,Cleaning,Dish Brush,1,49.5,0.15,32.62,42.08,32.62,9.46
+ORD-50503,Home Organization,Storage Box,1,126.0,0.0,77.31,126.0,77.31,48.69
+ORD-50503,Stationery,Notebook Set,1,82.5,0.0,57.26,82.5,57.26,25.24
+ORD-50504,Cleaning,Microfiber Cloth,1,65.0,0.0,53.14,65.0,53.14,11.86
+ORD-50504,Stationery,Notebook Set,2,82.5,0.0,63.7,165.0,127.4,37.6
+ORD-50505,Stationery,Geometry Set,2,85.5,0.0,52.72,171.0,105.44,65.56
+ORD-50506,Home Organization,Storage Box,1,126.0,0.05,77.72,119.7,77.72,41.98
+ORD-50506,Stationery,Notebook Set,1,67.5,0.15,43.85,57.38,43.85,13.53
+ORD-50507,Cleaning,Microfiber Cloth,1,65.0,0.0,44.62,65.0,44.62,20.38
+ORD-50507,Kitchenware,Knife Set,1,319.0,0.0,201.41,319.0,201.41,117.59
+ORD-50507,Home Organization,Drawer Organizer,2,189.0,0.0,122.3,378.0,244.6,133.4
+ORD-50508,Drinkware,Glass Set,1,231.0,0.15,171.16,196.35,171.16,25.19
+ORD-50508,Toys,Connect Game,1,231.0,0.0,152.76,231.0,152.76,78.24
+ORD-50508,Toys,Connect Game,2,220.0,0.15,133.63,374.0,267.26,106.74
+ORD-50509,Home Organization,Storage Box,2,147.0,0.0,104.58,294.0,209.16,84.84
+ORD-50510,Cleaning,Dish Brush,1,45.0,0.15,33.64,38.25,33.64,4.61
+ORD-50510,Toys,Bubble Toy,2,90.0,0.0,72.35,180.0,144.7,35.3
+ORD-50511,Toys,Bubble Toy,1,81.0,0.1,52.22,72.9,52.22,20.68
+ORD-50511,Toys,Stacking Cups,1,136.5,0.1,99.96,122.85,99.96,22.89
+ORD-50512,Cleaning,Microfiber Cloth,1,71.5,0.05,43.6,67.92,43.6,24.32
+ORD-50512,Toys,Bubble Toy,1,94.5,0.1,67.9,85.05,67.9,17.15
+ORD-50512,Home Organization,Shelf Basket,3,125.0,0.0,90.29,375.0,270.87,104.13
+ORD-50513,Toys,Stacking Cups,3,117.0,0.0,90.71,351.0,272.13,78.87
+ORD-50513,Kitchenware,Storage Jar,1,85.0,0.0,51.5,85.0,51.5,33.5
+ORD-50513,Toys,Connect Game,1,220.0,0.05,153.58,209.0,153.58,55.42
+ORD-50514,Drinkware,Glass Set,2,210.0,0.15,122.21,357.0,244.42,112.58
+ORD-50514,Toys,Bubble Toy,2,90.0,0.15,57.51,153.0,115.02,37.98
+ORD-50514,Cleaning,Microfiber Cloth,3,65.0,0.05,37.74,185.25,113.22,72.03
+ORD-50515,Stationery,Color Pencils,1,99.0,0.0,65.09,99.0,65.09,33.91
+ORD-50515,Cleaning,Mop Set,2,286.0,0.0,166.87,572.0,333.74,238.26
+ORD-50516,Toys,Bubble Toy,1,99.0,0.0,59.78,99.0,59.78,39.22
+ORD-50516,Cleaning,Dish Brush,2,40.5,0.05,25.02,76.95,50.04,26.91
+ORD-50517,Cleaning,Mop Set,2,234.0,0.0,159.76,468.0,319.52,148.48
+ORD-50517,Stationery,Color Pencils,2,110.0,0.0,83.74,220.0,167.48,52.52
+ORD-50517,Cleaning,Dish Brush,2,45.0,0.05,33.54,85.5,67.08,18.42
+ORD-50518,Cleaning,Mop Set,3,260.0,0.15,177.73,663.0,533.19,129.81
+ORD-50519,Toys,Connect Game,1,220.0,0.05,172.88,209.0,172.88,36.12
+ORD-50519,Home Organization,Shelf Basket,1,137.5,0.1,95.6,123.75,95.6,28.15
+ORD-50519,Drinkware,Glass Set,2,220.5,0.0,160.85,441.0,321.7,119.3
+ORD-50520,Cleaning,Dish Brush,2,45.0,0.1,29.68,81.0,59.36,21.64
+ORD-50520,Toys,Bubble Toy,2,90.0,0.05,54.22,171.0,108.44,62.56
+ORD-50520,Home Organization,Storage Box,3,126.0,0.05,86.34,359.1,259.02,100.08
+ORD-50521,Cleaning,Dish Brush,2,49.5,0.0,38.21,99.0,76.42,22.58
+ORD-50522,Cleaning,Dish Brush,1,47.25,0.0,29.47,47.25,29.47,17.78
+ORD-50522,Cleaning,Microfiber Cloth,1,65.0,0.0,40.98,65.0,40.98,24.02
+ORD-50523,Stationery,Notebook Set,1,67.5,0.0,47.06,67.5,47.06,20.44
+ORD-50524,Toys,Bubble Toy,2,90.0,0.1,58.28,162.0,116.56,45.44
+ORD-50524,Home Organization,Drawer Organizer,1,180.0,0.15,122.5,153.0,122.5,30.5
+ORD-50524,Kitchenware,Frying Pan,1,380.0,0.0,254.68,380.0,254.68,125.32
+ORD-50525,Drinkware,Thermal Flask,1,320.0,0.05,212.92,304.0,212.92,91.08
+ORD-50526,Home Organization,Shelf Basket,1,131.25,0.0,78.97,131.25,78.97,52.28
+ORD-50526,Home Organization,Storage Box,2,147.0,0.15,85.99,249.9,171.98,77.92
+ORD-50527,Stationery,Color Pencils,1,99.0,1.3,76.67,94.05,76.67,17.38
+ORD-50527,Home Organization,Shelf Basket,3,112.5,0.05,87.14,320.62,261.42,59.2
+ORD-50528,Home Organization,Shelf Basket,1,131.25,0.0,94.06,131.25,94.06,37.19
+ORD-50529,Drinkware,Thermal Flask,3,336.0,0.15,235.51,856.8,706.53,150.27
+ORD-50530,Cleaning,Mop Set,2,234.0,0.0,186.78,468.0,373.56,94.44
+ORD-50530,Toys,Connect Game,2,231.0,0.1,170.47,415.8,340.94,74.86
+ORD-50530,Home Organization,Shelf Basket,3,112.5,0.05,80.88,320.62,242.64,77.98
+ORD-50531,Drinkware,Thermal Flask,0,288.0,0.0,220.01,288.0,220.01,67.99
+ORD-50531,Cleaning,Mop Set,1,273.0,0.05,171.25,259.35,171.25,88.1
+ORD-50532,Stationery,Color Pencils,1,121.0,0.05,79.79,114.95,79.79,35.16
+ORD-50532,Stationery,Notebook Set,1,75.0,0.15,48.54,63.75,48.54,15.21
+ORD-50532,Toys,Bubble Toy,2,90.0,0.1,66.77,162.0,133.54,28.46
+ORD-50533,Kitchenware,Knife Set,2,290.0,0.0,199.8,580.0,399.6,180.4
+ORD-50533,Stationery,Color Pencils,2,110.0,0.0,69.75,220.0,139.5,80.5
+ORD-50533,Drinkware,Thermal Flask,1,320.0,0.15,241.41,272.0,241.41,30.59
+ORD-50534,Kitchenware,Frying Pan,2,380.0,0.0,227.72,760.0,455.44,304.56
+ORD-50534,Toys,Connect Game,2,220.0,0.0,136.02,440.0,272.04,167.96
+ORD-50535,Cleaning,Microfiber Cloth,2,65.0,0.1,46.72,117.0,93.44,23.56
+ORD-50535,Cleaning,Dish Brush,1,40.5,0.05,27.85,38.48,27.85,10.63
+ORD-50535,Home Organization,Storage Box,3,140.0,0.0,82.06,420.0,246.18,173.82
+ORD-50536,Cleaning,Dish Brush,3,45.0,0.0,30.62,135.0,91.86,43.14
+ORD-50536,Cleaning,Dish Brush,2,40.5,0.0,30.5,81.0,61.0,20.0
+ORD-50537,Stationery,Notebook Set,1,82.5,0.1,66.35,74.25,66.35,7.9
+ORD-50537,Home Organization,Shelf Basket,3,125.0,0.0,92.83,375.0,278.49,96.51
+ORD-50538,Stationery,Notebook Set,1,67.5,0.05,44.16,64.12,44.16,19.96
+ORD-50538,Cleaning,Microfiber Cloth,2,58.5,0.1,35.69,105.3,71.38,33.92
+ORD-50539,Drinkware,Glass Set,3,210.0,0.0,156.03,630.0,468.09,161.91
+ORD-50539,Toys,Bubble Toy,3,99.0,0.0,72.85,297.0,218.55,78.45
+ORD-50540,Stationery,Color Pencils,1,99.0,0.05,71.57,94.05,71.57,22.48
+ORD-50541,Drinkware,Glass Set,2,210.0,0.0,135.29,420.0,270.58,149.42
+ORD-50541,Home Organization,Shelf Basket,2,125.0,0.0,95.69,250.0,191.38,58.62
+ORD-50541,Cleaning,Mop Set,1,273.0,0.1,188.28,245.7,188.28,57.42
+ORD-50542,Cleaning,Dish Brush,2,45.0,0.0,30.17,90.0,60.34,29.66
+ORD-50543,Kitchenware,Frying Pan,1,418.0,0.0,313.68,418.0,313.68,104.32
+ORD-50543,Toys,Connect Game,1,198.0,0.1,131.64,178.2,131.64,46.56
+ORD-50544,Cleaning,Microfiber Cloth,1,65.0,0.1,43.97,58.5,43.97,14.53
+ORD-50545,Kitchenware,Frying Pan,1,380.0,0.05,297.82,361.0,297.82,63.18
+ORD-50545,Cleaning,Dish Brush,1,45.0,0.0,27.18,45.0,27.18,17.82
+ORD-50546,Toys,Bubble Toy,1,99.0,0.0,71.62,99.0,71.62,27.38
+ORD-50547,Toys,Stacking Cups,1,136.5,0.0,89.38,136.5,89.38,47.12
+ORD-50548,Drinkware,Glass Set,1,189.0,0.15,135.55,160.65,135.55,25.1
+ORD-50549,Drinkware,Water Bottle,3,95.0,0.1,60.31,256.5,180.93,75.57
+ORD-50549,Toys,Stacking Cups,1,130.0,0.1,104.96,117.0,104.96,12.04
+ORD-50550,Cleaning,Mop Set,2,273.0,0.05,172.29,518.7,344.58,174.12
+ORD-50550,Home Organization,Drawer Organizer,2,162.0,0.1,126.86,291.6,253.72,37.88
+ORD-50550,Drinkware,Water Bottle,2,85.5,0.0,50.13,171.0,100.26,70.74
+ORD-50551,Toys,Connect Game,1,198.0,0.0,125.81,198.0,125.81,72.19
+ORD-50551,Kitchenware,Knife Set,2,290.0,0.1,207.29,522.0,414.58,107.42
+ORD-50552,Kitchenware,Storage Jar,3,93.5,0.15,71.57,238.42,214.71,23.71
+ORD-50553,Kitchenware,Storage Jar,2,85.0,0.15,63.64,144.5,127.28,17.22
+ORD-50553,Drinkware,Glass Set,2,189.0,0.0,130.02,378.0,260.04,117.96
+ORD-50553,Cleaning,Dish Brush,2,45.0,0.1,28.3,81.0,56.6,24.4
+ORD-50554,Kitchenware,Storage Jar,3,93.5,0.05,55.9,266.47,167.7,98.77
+ORD-50554,Toys,Stacking Cups,1,130.0,0.0,100.76,130.0,100.76,29.24
+ORD-50554,Kitchenware,Knife Set,1,290.0,0.0,175.95,290.0,175.95,114.05
+ORD-50555,Home Organization,Drawer Organizer,2,189.0,0.15,111.41,321.3,222.82,98.48
+ORD-50556,Home Organization,Shelf Basket,1,112.5,0.0,82.48,112.5,82.48,30.02
+ORD-50556,Home Organization,Storage Box,3,126.0,0.0,87.07,378.0,261.21,116.79
+ORD-50557,Drinkware,Water Bottle,2,95.0,0.1,65.53,171.0,131.06,39.94
+ORD-50557,Toys,Stacking Cups,2,136.5,0.1,105.14,245.7,210.28,35.42
+ORD-50558,Cleaning,Dish Brush,1,45.0,0.0,36.6,45.0,36.6,8.4
+ORD-50558,Stationery,Notebook Set,1,67.5,0.0,47.09,67.5,47.09,20.41
+ORD-50559,Cleaning,Dish Brush,2,45.0,0.15,28.13,76.5,56.26,20.24
+ORD-50560,Cleaning,Dish Brush,3,47.25,0.15,33.38,120.49,100.14,20.35
+ORD-50560,Stationery,Geometry Set,1,95.0,0.05,70.41,90.25,70.41,19.84
+ORD-50561,Stationery,Notebook Set,1,82.5,0.1,62.03,74.25,62.03,12.22
+ORD-50562,Home Organization,Drawer Organizer,2,198.0,0.1,162.14,356.4,324.28,32.12
+ORD-50563,Cleaning,Microfiber Cloth,2,65.0,0.0,51.65,130.0,103.3,26.7
+ORD-50563,Home Organization,Shelf Basket,2,125.0,0.05,89.82,237.5,179.64,57.86
+ORD-50563,Kitchenware,Storage Jar,2,76.5,0.0,55.93,153.0,111.86,41.14
+ORD-50564,Home Organization,Shelf Basket,1,125.0,0.1,80.23,112.5,80.23,32.27
+ORD-50564,Home Organization,Storage Box,1,147.0,0.0,94.84,147.0,94.84,52.16
+ORD-50564,Drinkware,Water Bottle,1,85.5,0.0,60.02,85.5,60.02,25.48
+ORD-50565,Stationery,Color Pencils,1,110.0,0.15,80.34,93.5,80.34,13.16
+ORD-50565,Cleaning,Dish Brush,1,47.25,0.15,33.86,40.16,33.86,6.3
+ORD-50566,Toys,Connect Game,1,242.0,0.15,171.63,205.7,171.63,34.07
+ORD-50566,Toys,Bubble Toy,2,90.0,0.0,67.74,180.0,135.48,44.52
+ORD-50566,Drinkware,Water Bottle,1,95.0,0.1,55.28,85.5,55.28,30.22
+ORD-50567,Kitchenware,Frying Pan,2,342.0,0.0,255.57,684.0,511.14,172.86
+ORD-50567,Drinkware,Water Bottle,2,99.75,0.15,65.49,169.58,130.98,38.6
+ORD-50567,Stationery,Geometry Set,3,95.0,0.15,62.36,242.25,187.08,55.17
+ORD-50568,Stationery,Color Pencils,2,99.0,0.0,72.03,198.0,144.06,53.94
+ORD-50569,Cleaning,Mop Set,2,286.0,0.0,228.92,572.0,457.84,114.16
+ORD-50569,Home Organization,Drawer Organizer,1,162.0,0.1,120.06,145.8,120.06,25.74
+ORD-50570,Cleaning,Microfiber Cloth,2,58.5,0.1,36.01,105.3,72.02,33.28
+ORD-50570,Toys,Stacking Cups,2,130.0,0.0,98.59,260.0,197.18,62.82
+ORD-50571,Drinkware,Thermal Flask,1,336.0,0.0,244.95,336.0,244.95,91.05
+ORD-50571,Stationery,Notebook Set,1,75.0,0.0,59.3,75.0,59.3,15.7
+ORD-50571,Drinkware,Water Bottle,2,104.5,0.15,72.66,177.65,145.32,32.33
+ORD-50572,Cleaning,Microfiber Cloth,1,58.5,0.0,39.23,58.5,39.23,19.27
+ORD-50572,Kitchenware,Frying Pan,1,380.0,0.1,269.84,342.0,269.84,72.16
+ORD-50572,Kitchenware,Knife Set,1,319.0,0.0,193.52,319.0,193.52,125.48
+ORD-50573,Toys,Connect Game,1,231.0,0.0,134.62,231.0,134.62,96.38
+ORD-50573,Kitchenware,Frying Pan,1,380.0,0.05,293.99,361.0,293.99,67.01
+ORD-50573,Drinkware,Thermal Flask,1,336.0,0.1,209.33,302.4,209.33,93.07
+ORD-50574,Cleaning,Microfiber Cloth,2,58.5,0.05,41.75,111.15,83.5,27.65
+ORD-50574,Home Organization,Storage Box,1,140.0,0.0,101.68,140.0,101.68,38.32
+ORD-50574,Kitchenware,Knife Set,2,319.0,0.0,217.86,638.0,435.72,202.28
+ORD-50575,Stationery,Notebook Set,3,78.75,0.0,58.51,236.25,175.53,60.72
+ORD-50576,Drinkware,Water Bottle,1,95.0,0.0,69.25,95.0,69.25,25.75
+ORD-50577,Drinkware,Water Bottle,3,95.0,0.0,76.14,285.0,228.42,56.58
+ORD-50578,Toys,Stacking Cups,1,117.0,0.1,94.91,105.3,94.91,10.39
+ORD-50578,Drinkware,Thermal Flask,2,336.0,0.15,255.37,571.2,510.74,60.46
+ORD-50578,Drinkware,Water Bottle,1,104.5,0.0,62.62,104.5,62.62,41.88
+ORD-50579,Stationery,Notebook Set,1,67.5,0.05,51.72,64.12,51.72,12.4
+ORD-50579,Kitchenware,Storage Jar,1,85.0,0.0,53.18,85.0,53.18,31.82
+ORD-50579,Toys,Stacking Cups,2,130.0,0.0,84.19,260.0,168.38,91.62
+ORD-50580,Home Organization,Storage Box,1,147.0,0.1,89.35,132.3,89.35,42.95
+ORD-50580,Kitchenware,Storage Jar,1,89.25,0.05,70.48,84.79,70.48,14.31
+ORD-50581,Toys,Stacking Cups,2,130.0,0.0,77.78,260.0,155.56,104.44
+ORD-50581,Toys,Connect Game,1,198.0,0.0,137.29,198.0,137.29,60.71
+ORD-50582,Home Organization,Drawer Organizer,3,162.0,0.15,110.27,413.1,330.81,82.29
+ORD-50582,Toys,Connect Game,1,242.0,0.1,154.49,217.8,154.49,63.31
+ORD-50583,Toys,Bubble Toy,2,81.0,0.0,62.04,162.0,124.08,37.92
+ORD-50584,Stationery,Geometry Set,1,104.5,0.0,84.85,104.5,84.85,19.65
+ORD-50585,Toys,Stacking Cups,3,136.5,0.15,100.91,348.08,302.73,45.35
+ORD-50586,Cleaning,Dish Brush,1,49.5,0.0,35.35,49.5,35.35,14.15
+ORD-50587,Toys,Bubble Toy,2,99.0,0.15,59.14,168.3,118.28,50.02
+ORD-50587,Kitchenware,Storage Jar,1,93.5,0.0,68.73,93.5,68.73,24.77
+ORD-50587,Kitchenware,Knife Set,2,304.5,0.1,227.24,548.1,454.48,93.62
+ORD-50588,Kitchenware,Frying Pan,1,342.0,0.0,266.01,342.0,266.01,75.99
+ORD-50588,Toys,Connect Game,3,231.0,0.0,143.22,693.0,429.66,263.34
+ORD-50588,Stationery,Color Pencils,1,115.5,0.1,80.92,103.95,80.92,23.03
+ORD-50589,Toys,Connect Game,1,231.0,0.05,177.03,219.45,177.03,42.42
+ORD-50589,Stationery,Notebook Set,1,67.5,0.0,50.57,67.5,50.57,16.93
+ORD-50590,Cleaning,Microfiber Cloth,1,65.0,0.0,46.53,65.0,46.53,18.47
+ORD-50590,Stationery,Color Pencils,1,110.0,0.0,74.28,110.0,74.28,35.72
+ORD-50590,Kitchenware,Storage Jar,2,85.0,0.05,49.85,161.5,99.7,61.8
+ORD-50591,Home Organization,Shelf Basket,3,137.5,0.0,105.39,412.5,316.17,96.33
+ORD-50592,Kitchenware,Knife Set,1,304.5,0.1,248.78,274.05,248.78,25.27
+ORD-50592,Kitchenware,Storage Jar,3,85.0,0.15,60.33,216.75,180.99,35.76
+ORD-50593,Home Organization,Drawer Organizer,2,180.0,0.0,137.66,360.0,275.32,84.68
+ORD-50593,Stationery,Notebook Set,2,82.5,0.0,62.34,165.0,124.68,40.32
+ORD-50593,Toys,Connect Game,3,242.0,0.15,165.97,617.1,497.91,119.19
+ORD-50594,Home Organization,Shelf Basket,1,112.5,0.0,91.56,112.5,91.56,20.94
+ORD-50594,Kitchenware,Storage Jar,1,85.0,0.1,54.73,76.5,54.73,21.77
+ORD-50595,Drinkware,Glass Set,2,189.0,0.0,125.84,378.0,251.68,126.32
+ORD-50595,Toys,Connect Game,2,220.0,0.0,147.32,440.0,294.64,145.36
+ORD-50595,Toys,Stacking Cups,2,117.0,0.0,70.64,234.0,141.28,92.72
+ORD-50596,Toys,Bubble Toy,1,90.0,0.0,60.0,90.0,60.0,30.0
+ORD-50596,Cleaning,Mop Set,2,260.0,0.15,188.16,442.0,376.32,65.68
+ORD-50597,Cleaning,Dish Brush,2,47.25,0.1,38.71,85.05,77.42,7.63
+ORD-50597,Stationery,Color Pencils,2,115.5,0.05,77.48,219.45,154.96,64.49
+ORD-50598,Home Organization,Drawer Organizer,1,189.0,0.0,145.85,189.0,145.85,43.15
+ORD-50598,Cleaning,Mop Set,3,260.0,0.0,212.75,780.0,638.25,141.75
+ORD-50598,Home Organization,Drawer Organizer,1,198.0,0.15,151.12,168.3,151.12,17.18
+ORD-50599,Cleaning,Dish Brush,1,45.0,0.0,31.79,45.0,31.79,13.21
+ORD-50599,Drinkware,Water Bottle,2,99.75,0.0,74.96,199.5,149.92,49.58
+ORD-50600,Home Organization,Shelf Basket,1,137.5,0.15,108.76,116.88,108.76,8.12
+ORD-50600,Drinkware,Water Bottle,1,99.75,0.05,58.5,94.76,58.5,36.26
+ORD-50600,Drinkware,Glass Set,3,220.5,0.05,145.38,628.42,436.14,192.28
+ORD-50601,Drinkware,Glass Set,3,220.5,0.1,164.6,595.35,493.8,101.55
+ORD-50601,Toys,Connect Game,2,231.0,0.1,146.84,415.8,293.68,122.12
+ORD-50601,Drinkware,Glass Set,1,210.0,0.1,149.14,189.0,149.14,39.86
+ORD-50602,Stationery,Color Pencils,1,110.0,0.1,71.79,99.0,71.79,27.21
+ORD-50602,Toys,Stacking Cups,1,136.5,0.0,87.97,136.5,87.97,48.53
+ORD-50603,Toys,Connect Game,1,198.0,0.0,134.19,198.0,134.19,63.81
+ORD-50604,Toys,Bubble Toy,2,94.5,0.1,63.23,170.1,126.46,43.64
+ORD-50604,Cleaning,Dish Brush,2,45.0,0.0,36.5,90.0,73.0,17.0
+ORD-50605,Stationery,Geometry Set,2,85.5,0.0,54.19,171.0,108.38,62.62
+ORD-50605,Home Organization,Storage Box,1,140.0,0.15,106.54,119.0,106.54,12.46
+ORD-50606,Home Organization,Storage Box,1,140.0,0.0,84.39,140.0,84.39,55.61
+ORD-50606,Home Organization,Storage Box,1,140.0,0.0,91.28,140.0,91.28,48.72
+ORD-50607,Drinkware,Thermal Flask,3,288.0,0.05,206.72,820.8,620.16,200.64
+ORD-50608,Drinkware,Glass Set,2,220.5,0.15,133.63,374.85,267.26,107.59
+ORD-50608,Drinkware,Glass Set,2,231.0,0.1,158.72,415.8,317.44,98.36
+ORD-50608,Cleaning,Dish Brush,2,45.0,0.05,28.01,85.5,56.02,29.48
+ORD-50609,Cleaning,Microfiber Cloth,3,65.0,0.05,39.65,185.25,118.95,66.3
+ORD-50609,Stationery,Color Pencils,1,115.5,0.0,67.39,115.5,67.39,48.11
+ORD-50609,Home Organization,Shelf Basket,2,112.5,0.0,77.93,225.0,155.86,69.14
+ORD-50610,Drinkware,Glass Set,2,210.0,0.0,125.21,420.0,250.42,169.58
+ORD-50611,Drinkware,Glass Set,2,189.0,0.1,148.47,340.2,296.94,43.26
+ORD-50612,Kitchenware,Frying Pan,1,342.0,0.0,259.05,342.0,259.05,82.95
+ORD-50612,Kitchenware,Knife Set,2,261.0,0.1,160.9,469.8,321.8,148.0
+ORD-50613,Toys,Stacking Cups,2,136.5,0.0,80.73,273.0,161.46,111.54
+ORD-50614,Stationery,Color Pencils,3,115.5,0.1,89.9,311.85,269.7,42.15
+ORD-50615,Home Organization,Storage Box,3,140.0,0.05,113.25,399.0,339.75,59.25
+ORD-50616,Stationery,Color Pencils,1,110.0,0.15,71.15,93.5,71.15,22.35
+ORD-50616,Cleaning,Microfiber Cloth,1,65.0,0.1,39.5,58.5,39.5,19.0
+ORD-50617,Drinkware,Thermal Flask,1,288.0,0.1,180.85,259.2,180.85,78.35
+ORD-50618,Drinkware,Glass Set,3,210.0,0.15,129.63,535.5,388.89,146.61
+ORD-50619,Home Organization,Drawer Organizer,2,180.0,0.0,145.45,360.0,290.9,69.1
+ORD-50620,Home Organization,Shelf Basket,2,125.0,0.1,91.83,225.0,183.66,41.34
+ORD-50620,Kitchenware,Knife Set,1,304.5,0.0,248.58,304.5,248.58,55.92
+ORD-50621,Kitchenware,Storage Jar,1,93.5,0.0,56.03,93.5,56.03,37.47
+ORD-50621,Toys,Bubble Toy,2,90.0,0.15,55.64,153.0,111.28,41.72
+ORD-50622,Toys,Bubble Toy,1,94.5,0.15,76.44,80.32,76.44,3.88
+ORD-50622,Drinkware,Water Bottle,2,85.5,0.15,52.05,145.35,104.1,41.25
+ORD-50622,Cleaning,Dish Brush,2,40.5,0.0,31.61,81.0,63.22,17.78
+ORD-50623,Stationery,Color Pencils,2,99.0,0.15,67.26,168.3,134.52,33.78
+ORD-50624,Kitchenware,Frying Pan,2,418.0,0.0,278.36,836.0,556.72,279.28
+ORD-50624,Kitchenware,Storage Jar,1,89.25,0.15,62.66,75.86,62.66,13.2
+ORD-50624,Kitchenware,Knife Set,2,319.0,0.0,217.31,638.0,434.62,203.38
+ORD-50625,Home Organization,Shelf Basket,1,112.5,0.0,90.05,112.5,90.05,22.45
+ORD-50626,Drinkware,Glass Set,1,210.0,0.15,160.72,178.5,160.72,17.78
+ORD-50627,Home Organization,Storage Box,2,147.0,0.05,98.94,279.3,197.88,81.42
+ORD-50627,Drinkware,Thermal Flask,3,320.0,0.0,200.43,960.0,601.29,358.71
+ORD-50628,Stationery,Geometry Set,3,95.0,0.05,68.59,270.75,205.77,64.98
+ORD-50629,Stationery,Geometry Set,2,85.5,0.0,64.24,171.0,128.48,42.52
+ORD-50629,Drinkware,Thermal Flask,3,288.0,0.0,216.04,864.0,648.12,215.88
+ORD-50630,Kitchenware,Knife Set,3,319.0,0.0,252.55,957.0,757.65,199.35
+ORD-50630,Home Organization,Shelf Basket,1,137.5,0.1,110.61,123.75,110.61,13.14
+ORD-50631,Stationery,Color Pencils,2,121.0,0.1,80.11,217.8,160.22,57.58
+ORD-50631,Cleaning,Dish Brush,3,45.0,0.0,30.34,135.0,91.02,43.98
+ORD-50631,Toys,Bubble Toy,1,90.0,0.1,62.1,81.0,62.1,18.9
+ORD-50632,Cleaning,Microfiber Cloth,1,58.5,0.15,38.29,49.72,38.29,11.43
+ORD-50632,Toys,Connect Game,1,220.0,0.0,152.76,220.0,152.76,67.24
+ORD-50633,Kitchenware,Frying Pan,1,342.0,0.15,258.67,290.7,258.67,32.03
+ORD-50634,Kitchenware,Frying Pan,2,380.0,0.0,258.82,760.0,517.64,242.36
+ORD-50634,Home Organization,Drawer Organizer,1,162.0,0.05,110.37,153.9,110.37,43.53
+ORD-50635,Toys,Bubble Toy,1,94.5,0.1,63.78,85.05,63.78,21.27
+ORD-50635,Home Organization,Shelf Basket,2,137.5,0.0,83.87,275.0,167.74,107.26
+ORD-50635,Toys,Connect Game,2,220.0,0.05,177.88,418.0,355.76,62.24
+ORD-50636,Toys,Bubble Toy,2,99.0,0.15,63.66,168.3,127.32,40.98
+ORD-50636,Cleaning,Microfiber Cloth,1,65.0,0.0,41.12,65.0,41.12,23.88
+ORD-50637,Kitchenware,Knife Set,2,304.5,0.1,225.71,548.1,451.42,96.68
+ORD-50638,Toys,Bubble Toy,2,99.0,0.0,64.21,198.0,128.42,69.58
+ORD-50638,Cleaning,Mop Set,2,286.0,0.0,228.3,572.0,456.6,115.4
+ORD-50639,Drinkware,Thermal Flask,2,352.0,0.15,281.66,598.4,563.32,35.08
+ORD-50639,Drinkware,Thermal Flask,3,352.0,0.1,283.93,950.4,851.79,98.61
+ORD-50639,Home Organization,Drawer Organizer,2,180.0,0.05,136.91,342.0,273.82,68.18
+ORD-50640,Stationery,Geometry Set,1,95.0,0.0,56.86,95.0,56.86,38.14
+ORD-50640,Toys,Bubble Toy,1,99.0,0.1,72.21,89.1,72.21,16.89
+ORD-50640,Toys,Stacking Cups,3,143.0,0.0,95.38,429.0,286.14,142.86
+ORD-50641,Stationery,Geometry Set,2,104.5,0.15,81.06,177.65,162.12,15.53
+ORD-50641,Home Organization,Drawer Organizer,1,180.0,0.0,146.59,180.0,146.59,33.41
+ORD-50641,Home Organization,Drawer Organizer,2,180.0,0.0,121.46,360.0,242.92,117.08
+ORD-50642,Stationery,Color Pencils,3,110.0,0.15,77.61,280.5,232.83,47.67
+ORD-50642,Cleaning,Mop Set,3,260.0,0.0,211.13,780.0,633.39,146.61
+ORD-50643,Kitchenware,Storage Jar,2,85.0,0.15,68.66,144.5,137.32,7.18
+ORD-50643,Kitchenware,Knife Set,2,290.0,0.15,212.06,493.0,424.12,68.88
+ORD-50643,Toys,Stacking Cups,2,130.0,0.0,87.72,260.0,175.44,84.56
+ORD-50644,Stationery,Notebook Set,2,82.5,0.0,64.42,165.0,128.84,36.16
+ORD-50644,Home Organization,Drawer Organizer,2,189.0,0.05,120.07,359.1,240.14,118.96
+ORD-50645,Stationery,Color Pencils,1,110.0,0.15,70.96,93.5,70.96,22.54
+ORD-50646,Cleaning,Microfiber Cloth,3,68.25,0.0,44.5,204.75,133.5,71.25
+ORD-50646,Drinkware,Water Bottle,1,95.0,0.1,65.71,85.5,65.71,19.79
+ORD-50647,Kitchenware,Frying Pan,2,342.0,0.05,277.43,649.8,554.86,94.94
+ORD-50648,Cleaning,Dish Brush,1,45.0,0.0,35.44,45.0,35.44,9.56
+ORD-50648,Cleaning,Dish Brush,1,49.5,0.0,31.36,49.5,31.36,18.14
+ORD-50649,Toys,Bubble Toy,3,90.0,0.15,63.11,229.5,189.33,40.17
+ORD-50650,Stationery,Geometry Set,3,95.0,0.1,66.59,256.5,199.77,56.73
+ORD-50650,Home Organization,Shelf Basket,1,137.5,0.05,90.46,130.62,90.46,40.16
+ORD-50650,Home Organization,Shelf Basket,2,125.0,0.0,80.56,250.0,161.12,88.88
+ORD-50651,Cleaning,Mop Set,2,286.0,0.15,216.17,486.2,432.34,53.86
+ORD-50652,Toys,Stacking Cups,2,130.0,0.0,98.88,260.0,197.76,62.24
+ORD-50653,Cleaning,Mop Set,1,260.0,0.1,210.36,234.0,210.36,23.64
+ORD-50653,Home Organization,Storage Box,3,140.0,0.1,100.99,378.0,302.97,75.03
+ORD-50653,Drinkware,Glass Set,1,231.0,0.0,175.76,231.0,175.76,55.24
+ORD-50654,Kitchenware,Knife Set,1,261.0,0.0,166.79,261.0,166.79,94.21
+ORD-50654,Toys,Connect Game,2,242.0,0.15,172.23,411.4,344.46,66.94
+ORD-50654,Stationery,Geometry Set,1,95.0,0.0,76.25,95.0,76.25,18.75
+ORD-50655,Drinkware,Thermal Flask,2,320.0,0.15,230.1,544.0,460.2,83.8
+ORD-50655,Toys,Bubble Toy,1,90.0,0.0,58.07,90.0,58.07,31.93
+ORD-50655,Kitchenware,Storage Jar,1,76.5,0.05,55.94,72.68,55.94,16.74
+ORD-50656,Toys,Connect Game,3,198.0,0.0,119.95,594.0,359.85,234.15
+ORD-50657,Home Organization,Storage Box,1,126.0,0.0,82.2,126.0,82.2,43.8
+ORD-50658,Toys,Stacking Cups,2,143.0,0.05,89.71,271.7,179.42,92.28
+ORD-50658,Cleaning,Microfiber Cloth,1,65.0,0.05,46.96,61.75,46.96,14.79
+ORD-50658,Home Organization,Drawer Organizer,3,162.0,0.0,113.26,486.0,339.78,146.22
+ORD-50659,Cleaning,Mop Set,3,286.0,0.05,184.78,815.1,554.34,260.76
+ORD-50659,Kitchenware,Knife Set,3,319.0,0.05,260.4,909.15,781.2,127.95
+ORD-50660,Kitchenware,Knife Set,3,290.0,0.0,207.69,870.0,623.07,246.93
+ORD-50660,Home Organization,Shelf Basket,1,131.25,0.15,88.02,111.56,88.02,23.54
+ORD-50661,Drinkware,Glass Set,1,189.0,0.0,117.95,189.0,117.95,71.05
+ORD-50661,Toys,Stacking Cups,3,117.0,0.1,82.66,315.9,247.98,67.92
+ORD-50661,Cleaning,Mop Set,3,273.0,0.0,218.92,819.0,656.76,162.24
+ORD-50662,Cleaning,Microfiber Cloth,3,71.5,0.05,42.93,203.77,128.79,74.98
+ORD-50662,Toys,Connect Game,3,242.0,0.0,170.65,726.0,511.95,214.05
+ORD-50662,Toys,Bubble Toy,1,81.0,0.0,50.12,81.0,50.12,30.88
+ORD-50663,Home Organization,Storage Box,1,126.0,0.0,96.39,126.0,96.39,29.61
+ORD-50663,Cleaning,Mop Set,3,234.0,0.15,148.01,596.7,444.03,152.67
+ORD-50664,Kitchenware,Knife Set,2,304.5,0.05,221.1,578.55,442.2,136.35
+ORD-50664,Home Organization,Drawer Organizer,1,198.0,0.0,129.92,198.0,129.92,68.08
+ORD-50665,Toys,Bubble Toy,3,90.0,0.05,65.92,256.5,197.76,58.74
+ORD-50665,Cleaning,Dish Brush,1,40.5,0.15,28.48,34.42,28.48,5.94
+ORD-50666,Stationery,Geometry Set,3,95.0,0.1,56.57,256.5,169.71,86.79
+ORD-50667,Toys,Stacking Cups,1,136.5,0.0,82.94,136.5,82.94,53.56
+ORD-50668,Drinkware,Glass Set,3,220.5,0.05,152.6,628.42,457.8,170.62
+ORD-50668,Toys,Stacking Cups,3,143.0,0.0,97.61,429.0,292.83,136.17
+ORD-50668,Drinkware,Glass Set,2,210.0,0.0,160.32,420.0,320.64,99.36
+ORD-50669,Home Organization,Drawer Organizer,1,198.0,0.05,132.86,188.1,132.86,55.24
+ORD-50669,Stationery,Color Pencils,1,110.0,0.0,71.98,110.0,71.98,38.02
+ORD-50669,Cleaning,Mop Set,2,260.0,0.0,194.26,520.0,388.52,131.48
+ORD-50670,Toys,Stacking Cups,1,130.0,0.1,91.22,117.0,91.22,25.78
+ORD-50671,Drinkware,Water Bottle,1,85.5,0.05,53.9,81.22,53.9,27.32
+ORD-50671,Toys,Bubble Toy,3,90.0,0.05,72.84,256.5,218.52,37.98
+ORD-50672,Drinkware,Thermal Flask,1,320.0,0.0,237.21,320.0,237.21,82.79
+ORD-50672,Kitchenware,Knife Set,1,290.0,0.0,171.03,290.0,171.03,118.97
+ORD-50673,Cleaning,Dish Brush,1,45.0,0.0,30.89,45.0,30.89,14.11
+ORD-50673,Kitchenware,Storage Jar,3,76.5,0.0,50.78,229.5,152.34,77.16
+ORD-50674,Home Organization,Drawer Organizer,1,162.0,0.1,101.24,145.8,101.24,44.56
+ORD-50675,Stationery,Color Pencils,2,121.0,0.0,78.91,242.0,157.82,84.18
+ORD-50675,Cleaning,Microfiber Cloth,1,68.25,0.1,50.23,61.42,50.23,11.19
+ORD-50676,Kitchenware,Storage Jar,3,93.5,0.0,73.65,280.5,220.95,59.55
+ORD-50676,Stationery,Color Pencils,3,99.0,0.15,75.58,252.45,226.74,25.71
+ORD-50676,Toys,Bubble Toy,1,90.0,0.05,69.94,85.5,69.94,15.56
+ORD-50677,Kitchenware,Storage Jar,2,93.5,0.0,66.79,187.0,133.58,53.42
+ORD-50677,Home Organization,Shelf Basket,2,125.0,0.15,76.63,212.5,153.26,59.24
+ORD-50678,Home Organization,Storage Box,2,140.0,0.15,82.06,238.0,164.12,73.88
+ORD-50679,Kitchenware,Frying Pan,1,380.0,0.0,237.69,380.0,237.69,142.31
+ORD-50680,Cleaning,Microfiber Cloth,2,65.0,0.0,48.88,130.0,97.76,32.24
+ORD-50680,Stationery,Geometry Set,2,95.0,0.1,70.92,171.0,141.84,29.16
+ORD-50680,Kitchenware,Frying Pan,1,342.0,0.1,258.28,307.8,258.28,49.52
+ORD-50681,Stationery,Color Pencils,1,99.0,0.0,64.26,99.0,64.26,34.74
+ORD-50681,Home Organization,Drawer Organizer,2,162.0,0.15,107.48,275.4,214.96,60.44
+ORD-50682,Drinkware,Water Bottle,1,99.75,0.05,80.87,94.76,80.87,13.89
+ORD-50682,Drinkware,Thermal Flask,1,320.0,0.1,231.95,288.0,231.95,56.05
+ORD-50682,Kitchenware,Frying Pan,2,399.0,0.05,275.17,758.1,550.34,207.76
+ORD-50683,Drinkware,Water Bottle,2,85.5,0.0,50.25,171.0,100.5,70.5
+ORD-50683,Stationery,Color Pencils,2,115.5,0.0,77.27,231.0,154.54,76.46
+ORD-50683,Stationery,Notebook Set,3,75.0,0.05,61.04,213.75,183.12,30.63
+ORD-50684,Toys,Stacking Cups,1,130.0,0.1,82.37,117.0,82.37,34.63
+ORD-50684,Kitchenware,Frying Pan,3,380.0,0.0,222.82,1140.0,668.46,471.54
+ORD-50684,Home Organization,Shelf Basket,3,125.0,0.0,76.43,375.0,229.29,145.71
+ORD-50685,Kitchenware,Knife Set,-2,304.5,0.15,237.48,258.82,237.48,21.34
+ORD-50685,Kitchenware,Frying Pan,3,380.0,0.0,244.9,1140.0,734.7,405.3
+ORD-50685,Cleaning,Mop Set,2,273.0,0.1,218.74,491.4,437.48,53.92
+ORD-50686,Drinkware,Thermal Flask,1,336.0,0.0,208.77,336.0,208.77,127.23
+ORD-50686,Home Organization,Shelf Basket,3,125.0,0.1,78.12,337.5,234.36,103.14
+ORD-50687,Toys,Connect Game,2,220.0,0.15,148.79,374.0,297.58,76.42
+ORD-50687,Cleaning,Mop Set,2,234.0,0.15,155.49,397.8,310.98,86.82
+ORD-50687,Home Organization,Storage Box,1,154.0,0.0,107.23,154.0,107.23,46.77
+ORD-50688,Cleaning,Dish Brush,2,45.0,0.05,27.23,85.5,54.46,31.04
+ORD-50688,Home Organization,Shelf Basket,1,125.0,0.05,90.54,118.75,90.54,28.21
+ORD-50689,Home Organization,Drawer Organizer,1,180.0,0.05,116.5,171.0,116.5,54.5
+ORD-50690,Drinkware,Glass Set,1,231.0,0.15,188.47,196.35,188.47,7.88
+ORD-50690,Toys,Stacking Cups,3,130.0,0.1,96.34,351.0,289.02,61.98
+ORD-50691,Cleaning,Microfiber Cloth,3,71.5,0.0,50.24,214.5,150.72,63.78
+ORD-50691,Drinkware,Glass Set,2,210.0,0.0,134.28,420.0,268.56,151.44
+ORD-50691,Stationery,Geometry Set,1,95.0,0.1,73.01,85.5,73.01,12.49
+ORD-50692,Cleaning,Mop Set,1,234.0,0.05,188.01,222.3,188.01,34.29
+ORD-50692,Toys,Bubble Toy,2,99.0,0.15,63.59,168.3,127.18,41.12
+ORD-50692,Stationery,Color Pencils,1,115.5,0.0,91.39,115.5,91.39,24.11
+ORD-50693,Cleaning,Dish Brush,2,49.5,0.0,32.29,99.0,64.58,34.42
+ORD-50693,Toys,Connect Game,1,231.0,0.0,154.23,231.0,154.23,76.77
+ORD-50694,Home Organization,Shelf Basket,3,137.5,0.0,80.57,412.5,241.71,170.79
+ORD-50694,Cleaning,Dish Brush,1,45.0,0.15,27.64,38.25,27.64,10.61
+ORD-50695,Toys,Stacking Cups,2,130.0,0.1,91.41,234.0,182.82,51.18
+ORD-50695,Toys,Connect Game,3,231.0,0.0,168.52,693.0,505.56,187.44
+ORD-50696,Toys,Connect Game,3,220.0,0.1,154.63,594.0,463.89,130.11
+ORD-50696,Stationery,Notebook Set,3,67.5,0.0,48.72,202.5,146.16,56.34
+ORD-50696,Stationery,Notebook Set,3,82.5,0.0,48.06,247.5,144.18,103.32
+ORD-50697,Cleaning,Microfiber Cloth,3,58.5,0.0,44.31,175.5,132.93,42.57
+ORD-50697,Toys,Bubble Toy,1,94.5,0.05,70.04,89.78,70.04,19.74
+ORD-50698,Toys,Bubble Toy,1,81.0,0.1,50.92,72.9,50.92,21.98
+ORD-50699,Kitchenware,Storage Jar,2,89.25,0.05,55.29,169.58,110.58,59.0
+ORD-50699,Stationery,Color Pencils,2,110.0,0.0,71.7,220.0,143.4,76.6
+ORD-50699,Cleaning,Microfiber Cloth,1,65.0,0.0,42.74,65.0,42.74,22.26
+ORD-50700,Toys,Connect Game,1,231.0,0.1,162.77,207.9,162.77,45.13
+ORD-50700,Kitchenware,Frying Pan,1,399.0,0.05,245.69,379.05,245.69,133.36
+ORD-50701,Home Organization,Storage Box,1,154.0,0.1,109.12,138.6,109.12,29.48
+ORD-50701,Kitchenware,Frying Pan,2,342.0,0.0,272.89,684.0,545.78,138.22
+ORD-50701,Stationery,Geometry Set,2,85.5,0.1,52.25,153.9,104.5,49.4
+ORD-50702,Home Organization,Drawer Organizer,1,198.0,0.15,140.73,168.3,140.73,27.57
+ORD-50702,Home Organization,Shelf Basket,2,112.5,0.1,67.67,202.5,135.34,67.16
+ORD-50703,Cleaning,Mop Set,1,260.0,0.15,183.23,221.0,183.23,37.77
+ORD-50704,Cleaning,Microfiber Cloth,3,71.5,0.05,41.75,203.77,125.25,78.52
+ORD-50704,Stationery,Notebook Set,1,78.75,0.15,53.5,66.94,53.5,13.44
+ORD-50704,Toys,Connect Game,1,242.0,0.1,194.89,217.8,194.89,22.91
+ORD-50705,Kitchenware,Frying Pan,2,418.0,0.0,320.67,836.0,641.34,194.66
+ORD-50705,Drinkware,Water Bottle,2,95.0,0.1,69.14,171.0,138.28,32.72
+ORD-50705,Stationery,Notebook Set,3,67.5,0.0,51.16,202.5,153.48,49.02
+ORD-50706,Drinkware,Glass Set,2,189.0,0.05,135.07,359.1,270.14,88.96
+ORD-50707,Cleaning,Microfiber Cloth,2,58.5,0.0,34.58,117.0,69.16,47.84
+ORD-50708,Home Organization,Drawer Organizer,1,198.0,0.15,142.33,168.3,142.33,25.97
+ORD-50709,Stationery,Notebook Set,2,82.5,0.1,48.75,148.5,97.5,51.0
+ORD-50710,Home Organization,Shelf Basket,3,131.25,0.0,96.77,393.75,290.31,103.44
+ORD-50710,Home Organization,Drawer Organizer,1,180.0,0.1,143.2,162.0,143.2,18.8
+ORD-50710,Drinkware,Water Bottle,1,99.75,0.0,58.77,99.75,58.77,40.98
+ORD-50711,Kitchenware,Storage Jar,3,76.5,0.1,58.07,206.55,174.21,32.34
+ORD-50711,Home Organization,Shelf Basket,2,112.5,0.0,91.15,225.0,182.3,42.7
+ORD-50711,Kitchenware,Storage Jar,2,76.5,0.05,53.34,145.35,106.68,38.67
+ORD-50712,Cleaning,Dish Brush,2,49.5,0.0,33.45,99.0,66.9,32.1
+ORD-50712,Kitchenware,Storage Jar,1,93.5,0.1,60.04,84.15,60.04,24.11
+ORD-50712,Stationery,Notebook Set,3,82.5,0.05,51.89,235.12,155.67,79.45
+ORD-50713,Cleaning,Mop Set,2,234.0,0.1,170.53,421.2,341.06,80.14
+ORD-50714,Cleaning,Dish Brush,2,45.0,0.0,28.32,90.0,56.64,33.36
+ORD-50714,Kitchenware,Frying Pan,1,342.0,0.1,253.45,307.8,253.45,54.35
+ORD-50715,Toys,Connect Game,2,242.0,0.0,172.19,484.0,344.38,139.62
+ORD-50716,Kitchenware,Knife Set,2,290.0,0.0,193.05,580.0,386.1,193.9
+ORD-50716,Cleaning,Dish Brush,3,45.0,0.05,29.18,128.25,87.54,40.71
+ORD-50716,Toys,Stacking Cups,2,117.0,0.15,91.93,198.9,183.86,15.04
+ORD-50717,Kitchenware,Frying Pan,2,380.0,0.0,287.88,760.0,575.76,184.24
+ORD-50717,Kitchenware,Knife Set,1,261.0,0.0,189.26,261.0,189.26,71.74
+ORD-50717,Cleaning,Microfiber Cloth,1,65.0,0.0,40.47,65.0,40.47,24.53
+ORD-50718,Stationery,Color Pencils,3,110.0,0.0,65.76,330.0,197.28,132.72
+ORD-50718,Kitchenware,Knife Set,3,290.0,-0.2,182.2,870.0,546.6,323.4
+ORD-50718,Toys,Stacking Cups,2,136.5,0.0,81.09,273.0,162.18,110.82
+ORD-50719,Home Organization,Storage Box,3,140.0,0.1,105.71,378.0,317.13,60.87
+ORD-50719,Cleaning,Dish Brush,2,40.5,0.0,27.1,81.0,54.2,26.8
+ORD-50719,Cleaning,Dish Brush,1,47.25,0.15,27.7,40.16,27.7,12.46
+ORD-50720,Kitchenware,Knife Set,1,290.0,0.0,221.05,290.0,221.05,68.95
+ORD-50720,Home Organization,Storage Box,3,147.0,0.0,100.2,441.0,300.6,140.4
+ORD-50721,Drinkware,Glass Set,1,210.0,0.1,157.6,189.0,157.6,31.4
+ORD-50722,Stationery,Geometry Set,1,95.0,0.0,63.39,95.0,63.39,31.61
+ORD-50722,Drinkware,Glass Set,1,189.0,0.0,153.61,189.0,153.61,35.39
+ORD-50722,Home Organization,Storage Box,3,154.0,0.15,110.31,392.7,330.93,61.77
+ORD-50723,Kitchenware,Knife Set,3,319.0,0.15,244.88,813.45,734.64,78.81
+ORD-50723,Toys,Connect Game,1,220.0,0.1,167.56,198.0,167.56,30.44
+ORD-50723,Kitchenware,Storage Jar,3,85.0,0.0,68.35,255.0,205.05,49.95
+ORD-50724,Cleaning,Dish Brush,1,45.0,0.15,27.18,38.25,27.18,11.07
+ORD-50725,Kitchenware,Frying Pan,1,380.0,0.1,224.49,342.0,224.49,117.51
+ORD-50726,Kitchenware,Storage Jar,1,93.5,0.0,59.21,93.5,59.21,34.29
+ORD-50727,Cleaning,Microfiber Cloth,1,58.5,0.0,34.04,58.5,34.04,24.46
+ORD-50728,Stationery,Color Pencils,2,99.0,0.05,76.79,188.1,153.58,34.52
+ORD-50728,Kitchenware,Knife Set,2,290.0,0.15,197.89,493.0,395.78,97.22
+ORD-50729,Cleaning,Dish Brush,1,45.0,0.0,35.13,45.0,35.13,9.87
+ORD-50730,Home Organization,Drawer Organizer,1,162.0,0.05,106.37,153.9,106.37,47.53
+ORD-50730,Cleaning,Microfiber Cloth,1,68.25,0.0,43.53,68.25,43.53,24.72
+ORD-50730,Toys,Bubble Toy,3,90.0,0.0,73.51,270.0,220.53,49.47
+ORD-50731,Drinkware,Thermal Flask,1,352.0,0.05,205.25,334.4,205.25,129.15
+ORD-50731,Cleaning,Microfiber Cloth,1,65.0,0.15,42.66,55.25,42.66,12.59
+ORD-50731,Stationery,Color Pencils,1,99.0,0.05,60.77,94.05,60.77,33.28
+ORD-50732,Kitchenware,Knife Set,1,319.0,0.0,259.92,319.0,259.92,59.08
+ORD-50732,Home Organization,Drawer Organizer,2,180.0,0.1,119.52,324.0,239.04,84.96
+ORD-50733,Kitchenware,Storage Jar,1,85.0,0.0,63.69,85.0,63.69,21.31
+ORD-50734,Kitchenware,Knife Set,3,290.0,0.15,198.01,739.5,594.03,145.47
+ORD-50734,Toys,Bubble Toy,1,90.0,0.1,66.58,81.0,66.58,14.42
+ORD-50735,Toys,Stacking Cups,2,130.0,0.05,79.22,247.0,158.44,88.56
+ORD-50735,Home Organization,Drawer Organizer,1,162.0,0.0,103.68,162.0,103.68,58.32
+ORD-50735,Cleaning,Dish Brush,2,40.5,0.0,30.89,81.0,61.78,19.22
+ORD-50736,Home Organization,Drawer Organizer,2,162.0,0.1,100.26,291.6,200.52,91.08
+ORD-50737,Cleaning,Dish Brush,1,47.25,0.05,31.07,44.89,31.07,13.82
+ORD-50738,Toys,Bubble Toy,1,81.0,0.0,58.32,81.0,58.32,22.68
+ORD-50738,Toys,Stacking Cups,2,130.0,0.0,95.76,260.0,191.52,68.48
+ORD-50738,Home Organization,Storage Box,1,140.0,0.05,109.6,133.0,109.6,23.4
+ORD-50739,Home Organization,Drawer Organizer,1,162.0,0.1,101.44,145.8,101.44,44.36
+ORD-50740,Home Organization,Drawer Organizer,2,198.0,0.15,160.28,336.6,320.56,16.04
+ORD-50740,Toys,Stacking Cups,2,130.0,0.0,83.83,260.0,167.66,92.34
+ORD-50741,Home Organization,Shelf Basket,2,137.5,0.0,84.09,275.0,168.18,106.82
+ORD-50741,Kitchenware,Storage Jar,2,89.25,0.0,56.57,178.5,113.14,65.36
+ORD-50741,Stationery,Geometry Set,1,85.5,0.15,63.17,72.68,63.17,9.51
+ORD-50742,Kitchenware,Knife Set,1,290.0,0.15,169.42,246.5,169.42,77.08
+ORD-50742,Home Organization,Storage Box,2,154.0,0.0,119.9,308.0,239.8,68.2
+ORD-50742,Kitchenware,Frying Pan,1,342.0,0.1,205.22,307.8,205.22,102.58
+ORD-50743,Toys,Bubble Toy,2,81.0,0.0,56.28,162.0,112.56,49.44
+ORD-50744,Drinkware,Thermal Flask,3,352.0,0.05,269.19,1003.2,807.57,195.63
+ORD-50744,Home Organization,Shelf Basket,2,112.5,0.1,73.08,202.5,146.16,56.34
+ORD-50745,Toys,Connect Game,1,220.0,0.0,129.37,220.0,129.37,90.63
+ORD-50746,Stationery,Notebook Set,2,82.5,0.05,58.56,156.75,117.12,39.63
+ORD-50746,Toys,Bubble Toy,3,81.0,0.0,49.94,243.0,149.82,93.18
+ORD-50746,Home Organization,Drawer Organizer,2,198.0,0.0,141.21,396.0,282.42,113.58
+ORD-50747,Cleaning,Mop Set,1,286.0,0.05,213.74,271.7,213.74,57.96
+ORD-50747,Toys,Stacking Cups,2,130.0,0.15,88.56,221.0,177.12,43.88
+ORD-50747,Kitchenware,Knife Set,1,290.0,0.15,218.85,246.5,218.85,27.65
+ORD-50748,Drinkware,Water Bottle,1,95.0,0.15,58.9,80.75,58.9,21.85
+ORD-50748,Cleaning,Mop Set,1,234.0,0.1,184.72,210.6,184.72,25.88
+ORD-50749,Kitchenware,Knife Set,3,319.0,0.1,251.11,861.3,753.33,107.97
+ORD-50749,Toys,Stacking Cups,1,136.5,0.05,92.35,129.67,92.35,37.32
+ORD-50749,Cleaning,Microfiber Cloth,3,65.0,0.05,53.11,185.25,159.33,25.92
+ORD-50750,Drinkware,Glass Set,2,210.0,0.0,168.03,420.0,336.06,83.94
+ORD-50750,Cleaning,Dish Brush,2,47.25,0.0,29.56,94.5,59.12,35.38
+ORD-50751,Drinkware,Thermal Flask,1,320.0,0.0,218.72,320.0,218.72,101.28
+ORD-50751,Toys,Bubble Toy,1,94.5,0.15,70.35,80.32,70.35,9.97
+ORD-50751,Drinkware,Thermal Flask,2,288.0,0.0,209.22,576.0,418.44,157.56
+ORD-50752,Toys,Connect Game,3,242.0,0.0,147.83,726.0,443.49,282.51
+ORD-50752,Kitchenware,Knife Set,1,290.0,0.15,199.2,246.5,199.2,47.3
+ORD-50753,Drinkware,Water Bottle,1,104.5,0.0,81.62,104.5,81.62,22.88
+ORD-50753,Home Organization,Shelf Basket,3,125.0,0.1,80.42,337.5,241.26,96.24
+ORD-50754,Toys,Stacking Cups,2,130.0,0.15,94.42,221.0,188.84,32.16
+ORD-50754,Cleaning,Microfiber Cloth,1,65.0,0.0,44.8,65.0,44.8,20.2
+ORD-50754,Drinkware,Glass Set,1,210.0,0.05,171.21,199.5,171.21,28.29
+ORD-50755,Toys,Bubble Toy,2,94.5,0.0,73.57,189.0,147.14,41.86
+ORD-50755,Toys,Bubble Toy,3,81.0,0.0,56.71,243.0,170.13,72.87
+ORD-50755,Stationery,Notebook Set,3,75.0,0.0,53.29,225.0,159.87,65.13
+ORD-50756,Kitchenware,Storage Jar,1,76.5,0.05,60.08,72.68,60.08,12.6
+ORD-50756,Cleaning,Microfiber Cloth,1,65.0,0.15,40.84,55.25,40.84,14.41
+ORD-50756,Kitchenware,Knife Set,3,319.0,0.0,250.74,957.0,752.22,204.78
+ORD-50757,Stationery,Geometry Set,2,104.5,0.15,73.35,177.65,146.7,30.95
+ORD-50757,Drinkware,Water Bottle,2,99.75,0.15,75.08,169.58,150.16,19.42
+ORD-50758,Kitchenware,Storage Jar,2,76.5,0.0,62.48,153.0,124.96,28.04
+ORD-50759,Cleaning,Microfiber Cloth,1,58.5,0.0,39.38,58.5,39.38,19.12
+ORD-50759,Kitchenware,Knife Set,3,261.0,0.0,155.07,783.0,465.21,317.79
+ORD-50759,Home Organization,Drawer Organizer,1,189.0,0.1,135.46,170.1,135.46,34.64
+ORD-50760,Kitchenware,Frying Pan,2,342.0,0.0,251.36,684.0,502.72,181.28
+ORD-50760,Cleaning,Dish Brush,2,49.5,0.1,37.69,89.1,75.38,13.72
+ORD-50760,Drinkware,Glass Set,1,189.0,0.15,138.1,160.65,138.1,22.55
+ORD-50761,Toys,Connect Game,1,231.0,0.05,151.85,219.45,151.85,67.6
+ORD-50761,Drinkware,Thermal Flask,1,352.0,0.0,226.66,352.0,226.66,125.34
+ORD-50762,Stationery,Geometry Set,3,95.0,0.0,67.11,285.0,201.33,83.67
+ORD-50762,Cleaning,Mop Set,1,260.0,0.15,200.54,221.0,200.54,20.46
+ORD-50763,Drinkware,Thermal Flask,1,352.0,0.15,234.05,299.2,234.05,65.15
+ORD-50764,Cleaning,Dish Brush,1,47.25,0.15,31.04,40.16,31.04,9.12
+ORD-50765,Home Organization,Shelf Basket,1,131.25,0.1,93.0,118.12,93.0,25.12
+ORD-50766,Kitchenware,Frying Pan,1,380.0,0.0,270.62,380.0,270.62,109.38
+ORD-50767,Kitchenware,Knife Set,2,319.0,0.15,190.17,542.3,380.34,161.96
+ORD-50767,Stationery,Geometry Set,2,104.5,0.0,65.15,209.0,130.3,78.7
+ORD-50768,Kitchenware,Knife Set,3,290.0,0.05,189.22,826.5,567.66,258.84
+ORD-50769,Toys,Stacking Cups,2,136.5,0.05,84.32,259.35,168.64,90.71
+ORD-50770,Kitchenware,Knife Set,3,290.0,0.05,235.45,826.5,706.35,120.15
+ORD-50770,Toys,Bubble Toy,1,90.0,0.05,56.61,85.5,56.61,28.89
+ORD-50770,Cleaning,Microfiber Cloth,1,71.5,0.0,55.24,71.5,55.24,16.26
+ORD-50771,Kitchenware,Frying Pan,3,380.0,0.15,269.88,969.0,809.64,159.36
+ORD-50772,Kitchenware,Knife Set,2,319.0,0.05,197.64,606.1,395.28,210.82
+ORD-50772,Stationery,Color Pencils,2,115.5,0.0,69.82,231.0,139.64,91.36
+ORD-50773,Kitchenware,Knife Set,2,290.0,0.0,237.69,580.0,475.38,104.62
+ORD-50773,Cleaning,Dish Brush,1,49.5,0.05,37.34,47.02,37.34,9.68
+ORD-50773,Drinkware,Thermal Flask,2,320.0,0.15,250.55,544.0,501.1,42.9
+ORD-50774,Stationery,Notebook Set,1,82.5,0.0,57.19,82.5,57.19,25.31
+ORD-50774,Toys,Stacking Cups,1,130.0,0.05,75.63,123.5,75.63,47.87
+ORD-50774,Stationery,Notebook Set,3,78.75,0.05,57.86,224.44,173.58,50.86
+ORD-50775,Cleaning,Microfiber Cloth,1,71.5,0.15,54.21,60.78,54.21,6.57
+ORD-50776,Stationery,Color Pencils,2,121.0,0.0,74.83,242.0,149.66,92.34
+ORD-50777,Cleaning,Dish Brush,2,47.25,0.0,33.88,94.5,67.76,26.74
+ORD-50777,Stationery,Notebook Set,2,78.75,0.1,57.97,141.75,115.94,25.81
+ORD-50777,Drinkware,Water Bottle,3,95.0,0.1,75.08,256.5,225.24,31.26
+ORD-50778,Home Organization,Storage Box,2,126.0,0.0,83.57,252.0,167.14,84.86
+ORD-50779,Home Organization,Drawer Organizer,1,180.0,0.05,111.54,171.0,111.54,59.46
+ORD-50779,Toys,Bubble Toy,1,94.5,0.0,64.11,94.5,64.11,30.39
+ORD-50780,Drinkware,Water Bottle,3,85.5,0.0,64.32,256.5,192.96,63.54
+ORD-50780,Kitchenware,Knife Set,3,261.0,0.0,180.44,783.0,541.32,241.68
+ORD-50780,Stationery,Notebook Set,3,67.5,0.05,44.13,192.38,132.39,59.99
+ORD-50781,Drinkware,Water Bottle,3,95.0,0.15,76.67,242.25,230.01,12.24
+ORD-50782,Cleaning,Microfiber Cloth,2,68.25,0.1,54.33,122.85,108.66,14.19
+ORD-50783,Kitchenware,Frying Pan,1,418.0,0.1,258.22,376.2,258.22,117.98
+ORD-50783,Toys,Connect Game,3,242.0,0.15,170.23,617.1,510.69,106.41
+ORD-50784,Toys,Stacking Cups,1,130.0,0.0,88.67,130.0,88.67,41.33
+ORD-50785,Home Organization,Shelf Basket,2,131.25,0.0,77.27,262.5,154.54,107.96
+ORD-50785,Cleaning,Mop Set,1,234.0,0.15,155.57,198.9,155.57,43.33
+ORD-50786,Cleaning,Microfiber Cloth,3,65.0,0.0,38.72,195.0,116.16,78.84
+ORD-50786,Toys,Connect Game,2,198.0,0.15,125.4,336.6,250.8,85.8
+ORD-50786,Home Organization,Drawer Organizer,1,180.0,0.0,144.05,180.0,144.05,35.95
+ORD-50787,Cleaning,Dish Brush,1,45.0,0.1,32.44,40.5,32.44,8.06
+ORD-50787,Cleaning,Mop Set,2,234.0,0.1,191.32,421.2,382.64,38.56
+ORD-50787,Drinkware,Water Bottle,2,85.5,0.1,59.34,153.9,118.68,35.22
+ORD-50788,Cleaning,Dish Brush,3,40.5,0.0,30.48,121.5,91.44,30.06
+ORD-50788,Drinkware,Glass Set,2,189.0,0.1,119.73,340.2,239.46,100.74
+ORD-50788,Cleaning,Mop Set,3,260.0,0.05,158.62,741.0,475.86,265.14
+ORD-50789,Cleaning,Dish Brush,2,45.0,0.0,26.16,90.0,52.32,37.68
+ORD-50789,Toys,Connect Game,3,220.0,0.15,147.72,561.0,443.16,117.84
+ORD-50789,Kitchenware,Storage Jar,2,89.25,0.05,55.02,169.58,110.04,59.54
+ORD-50790,Toys,Bubble Toy,1,99.0,0.1,72.79,89.1,72.79,16.31
+ORD-50790,Drinkware,Glass Set,2,210.0,0.05,161.27,399.0,322.54,76.46
+ORD-50790,Kitchenware,Frying Pan,1,380.0,0.0,291.79,380.0,291.79,88.21
+ORD-50791,Stationery,Color Pencils,2,110.0,0.05,80.17,209.0,160.34,48.66
+ORD-50791,Kitchenware,Frying Pan,2,418.0,0.0,317.47,836.0,634.94,201.06
+ORD-50792,Stationery,Color Pencils,2,121.0,0.15,81.25,205.7,162.5,43.2
+ORD-50792,Drinkware,Water Bottle,1,95.0,0.0,69.64,95.0,69.64,25.36
+ORD-50792,Kitchenware,Knife Set,2,290.0,0.05,217.06,551.0,434.12,116.88
+ORD-50793,Kitchenware,Frying Pan,2,380.0,0.0,279.81,760.0,559.62,200.38
+ORD-50794,Stationery,Geometry Set,2,95.0,0.05,71.46,180.5,142.92,37.58
+ORD-50794,Toys,Bubble Toy,1,90.0,0.0,67.88,90.0,67.88,22.12
+ORD-50795,Kitchenware,Storage Jar,2,93.5,0.1,54.54,168.3,109.08,59.22
+ORD-50795,Cleaning,Mop Set,1,273.0,0.05,187.77,259.35,187.77,71.58
+ORD-50796,Cleaning,Mop Set,3,260.0,0.05,160.85,741.0,482.55,258.45
+ORD-50796,Toys,Stacking Cups,1,-100.0,0.0,90.59,130.0,90.59,39.41
+ORD-50796,Stationery,Notebook Set,2,75.0,0.15,44.18,127.5,88.36,39.14
+ORD-50797,Cleaning,Mop Set,1,273.0,0.15,174.8,232.05,174.8,57.25
+ORD-50798,Drinkware,Glass Set,3,220.5,0.1,162.36,595.35,487.08,108.27
+ORD-50798,Home Organization,Shelf Basket,1,125.0,0.0,97.66,125.0,97.66,27.34
+ORD-50798,Drinkware,Thermal Flask,3,336.0,0.0,207.47,1008.0,622.41,385.59
+ORD-50799,Drinkware,Glass Set,3,220.5,0.05,138.5,628.42,415.5,212.92
+ORD-50799,Cleaning,Dish Brush,2,49.5,0.15,39.7,84.15,79.4,4.75
+ORD-50799,Cleaning,Mop Set,1,234.0,0.15,148.7,198.9,148.7,50.2
+ORD-50800,Toys,Connect Game,1,198.0,0.1,130.03,178.2,130.03,48.17
+ORD-50800,Kitchenware,Storage Jar,1,85.0,0.0,61.1,85.0,61.1,23.9
+ORD-50800,Home Organization,Drawer Organizer,2,180.0,0.15,130.64,306.0,261.28,44.72
+ORD-50801,Toys,Stacking Cups,1,136.5,0.1,100.31,122.85,100.31,22.54
+ORD-50801,Cleaning,Mop Set,2,273.0,0.05,215.55,518.7,431.1,87.6
+ORD-50801,Toys,Bubble Toy,2,90.0,0.1,57.79,162.0,115.58,46.42
+ORD-50802,Home Organization,Storage Box,1,140.0,0.0,111.08,140.0,111.08,28.92
+ORD-50803,Cleaning,Mop Set,1,273.0,0.05,168.89,259.35,168.89,90.46
+ORD-50803,Cleaning,Mop Set,2,260.0,0.0,197.29,520.0,394.58,125.42
+ORD-50803,Stationery,Color Pencils,1,110.0,0.0,78.09,110.0,78.09,31.91
+ORD-50804,Home Organization,Shelf Basket,2,125.0,0.15,82.45,212.5,164.9,47.6
+ORD-50804,Toys,Connect Game,2,220.0,0.15,154.1,374.0,308.2,65.8
+ORD-50804,Kitchenware,Knife Set,1,319.0,0.0,228.31,319.0,228.31,90.69
+ORD-50805,Kitchenware,Knife Set,3,319.0,0.0,218.38,957.0,655.14,301.86
+ORD-50805,Toys,Stacking Cups,2,143.0,0.1,98.4,257.4,196.8,60.6
+ORD-50806,Home Organization,Shelf Basket,1,112.5,0.15,76.21,95.62,76.21,19.41
+ORD-50806,Stationery,Geometry Set,1,104.5,0.1,79.28,94.05,79.28,14.77
+ORD-50806,Stationery,Notebook Set,1,75.0,0.05,59.09,71.25,59.09,12.16
+ORD-50807,Stationery,Notebook Set,1,82.5,0.0,61.76,82.5,61.76,20.74
+ORD-50807,Drinkware,Glass Set,1,189.0,0.15,123.56,160.65,123.56,37.09
+ORD-50808,Cleaning,Mop Set,1,234.0,0.05,165.0,222.3,165.0,57.3
+ORD-50809,Stationery,Geometry Set,1,99.75,0.0,62.21,99.75,62.21,37.54
+ORD-50810,Toys,Connect Game,2,220.0,0.1,130.57,396.0,261.14,134.86
+ORD-50810,Cleaning,Dish Brush,2,45.0,0.0,30.58,90.0,61.16,28.84
+ORD-50810,Kitchenware,Frying Pan,1,342.0,0.1,239.75,307.8,239.75,68.05
+ORD-50811,Toys,Bubble Toy,2,81.0,0.1,64.46,145.8,128.92,16.88
+ORD-50811,Toys,Bubble Toy,2,90.0,0.0,60.03,180.0,120.06,59.94
+ORD-50811,Home Organization,Storage Box,3,126.0,0.0,101.65,378.0,304.95,73.05
+ORD-50812,Home Organization,Storage Box,2,140.0,0.0,95.39,280.0,190.78,89.22
+ORD-50812,Toys,Connect Game,1,198.0,0.0,136.16,198.0,136.16,61.84
+ORD-50812,Stationery,Color Pencils,1,110.0,0.0,77.85,110.0,77.85,32.15
+ORD-50813,Drinkware,Glass Set,3,231.0,0.0,145.85,693.0,437.55,255.45
+ORD-50813,Kitchenware,Frying Pan,1,380.0,0.0,302.44,380.0,302.44,77.56
+ORD-50814,Drinkware,Thermal Flask,3,336.0,0.0,198.07,1008.0,594.21,413.79
+ORD-50814,Kitchenware,Frying Pan,1,399.0,0.15,304.01,339.15,304.01,35.14
+ORD-50814,Drinkware,Thermal Flask,1,320.0,0.0,202.49,320.0,202.49,117.51
+ORD-50815,Cleaning,Dish Brush,2,47.25,0.15,37.78,80.32,75.56,4.76
+ORD-50816,Drinkware,Water Bottle,1,95.0,0.0,58.37,95.0,58.37,36.63
+ORD-50816,Home Organization,Drawer Organizer,2,189.0,0.0,146.8,378.0,293.6,84.4
+ORD-50817,Cleaning,Mop Set,1,260.0,0.0,208.05,260.0,208.05,51.95
+ORD-50817,Stationery,Geometry Set,1,95.0,0.0,76.97,95.0,76.97,18.03
+ORD-50818,Toys,Stacking Cups,1,136.5,0.15,86.27,116.02,86.27,29.75
+ORD-50818,Cleaning,Microfiber Cloth,2,71.5,0.05,52.61,135.85,105.22,30.63
+ORD-50818,Toys,Stacking Cups,1,130.0,0.0,76.98,130.0,76.98,53.02
+ORD-50819,Kitchenware,Frying Pan,1,342.0,0.0,270.62,342.0,270.62,71.38
+ORD-50819,Cleaning,Microfiber Cloth,2,65.0,0.1,42.77,117.0,85.54,31.46
+ORD-50819,Kitchenware,Frying Pan,1,380.0,0.0,272.98,380.0,272.98,107.02
+ORD-50820,Toys,Stacking Cups,2,136.5,0.0,83.31,273.0,166.62,106.38
+ORD-50821,Toys,Connect Game,2,242.0,0.0,197.95,484.0,395.9,88.1
+ORD-50822,Stationery,Geometry Set,1,99.75,0.0,79.8,99.75,79.8,19.95
+ORD-50823,Home Organization,Storage Box,1,140.0,0.15,97.55,119.0,97.55,21.45
+ORD-50823,Home Organization,Storage Box,1,154.0,0.15,99.03,130.9,99.03,31.87
+ORD-50823,Kitchenware,Storage Jar,2,85.0,0.05,58.94,161.5,117.88,43.62
+ORD-50824,Cleaning,Dish Brush,1,40.5,0.1,28.44,36.45,28.44,8.01
+ORD-50825,Home Organization,Drawer Organizer,1,180.0,0.0,111.55,180.0,111.55,68.45
+ORD-50825,Kitchenware,Frying Pan,1,399.0,0.0,279.51,399.0,279.51,119.49
+ORD-50826,Drinkware,Glass Set,1,210.0,0.15,125.22,178.5,125.22,53.28
+ORD-50827,Stationery,Notebook Set,2,78.75,0.0,60.68,157.5,121.36,36.14
+ORD-50827,Kitchenware,Storage Jar,1,93.5,0.05,69.46,88.82,69.46,19.36
+ORD-50828,Cleaning,Mop Set,3,273.0,0.0,169.33,819.0,507.99,311.01
+ORD-50828,Home Organization,Drawer Organizer,3,180.0,0.0,122.75,540.0,368.25,171.75
+ORD-50828,Cleaning,Mop Set,3,260.0,0.0,196.24,780.0,588.72,191.28
+ORD-50829,Cleaning,Microfiber Cloth,1,68.25,0.0,50.71,68.25,50.71,17.54
+ORD-50830,Stationery,Geometry Set,3,95.0,0.15,77.53,242.25,232.59,9.66
+ORD-50830,Cleaning,Mop Set,1,286.0,0.0,196.39,286.0,196.39,89.61
+ORD-50830,Drinkware,Water Bottle,2,104.5,0.0,77.47,209.0,154.94,54.06
+ORD-50831,Stationery,Notebook Set,1,75.0,0.0,60.39,75.0,60.39,14.61
+ORD-50831,Cleaning,Mop Set,1,260.0,0.0,196.53,260.0,196.53,63.47
+ORD-50832,Drinkware,Glass Set,2,189.0,0.1,127.89,340.2,255.78,84.42
+ORD-50832,Home Organization,Drawer Organizer,3,189.0,0.0,144.72,567.0,434.16,132.84
+ORD-50832,Toys,Stacking Cups,2,136.5,0.1,82.54,245.7,165.08,80.62
+ORD-50833,Cleaning,Microfiber Cloth,3,65.0,0.0,46.8,195.0,140.4,54.6
+ORD-50833,Kitchenware,Knife Set,3,304.5,0.0,222.19,913.5,666.57,246.93
+ORD-50833,Cleaning,Microfiber Cloth,1,68.25,0.1,45.86,61.42,45.86,15.56
+ORD-50834,Kitchenware,Knife Set,1,290.0,0.05,205.3,275.5,205.3,70.2
+ORD-50834,Home Organization,Drawer Organizer,3,180.0,0.0,106.93,540.0,320.79,219.21
+ORD-50835,Drinkware,Water Bottle,1,99.75,0.1,67.53,89.78,67.53,22.25
+ORD-50835,Toys,Stacking Cups,1,136.5,0.1,93.84,122.85,93.84,29.01
+ORD-50835,Drinkware,Glass Set,1,231.0,0.0,149.16,231.0,149.16,81.84
+ORD-50836,Drinkware,Glass Set,2,189.0,0.05,149.39,359.1,298.78,60.32
+ORD-50836,Cleaning,Mop Set,1,273.0,0.15,160.22,232.05,160.22,71.83
+ORD-50836,Cleaning,Microfiber Cloth,1,58.5,0.15,37.49,49.72,37.49,12.23
+ORD-50837,Cleaning,Microfiber Cloth,2,68.25,0.0,46.88,136.5,93.76,42.74
+ORD-50837,Kitchenware,Frying Pan,3,380.0,0.05,275.4,1083.0,826.2,256.8
+ORD-50837,Kitchenware,Frying Pan,3,418.0,0.0,254.34,1254.0,763.02,490.98
+ORD-50838,Drinkware,Water Bottle,1,95.0,0.15,77.56,80.75,77.56,3.19
+ORD-50839,Toys,Connect Game,3,242.0,0.15,155.36,617.1,466.08,151.02
+ORD-50840,Kitchenware,Storage Jar,1,0.0,0.1,47.24,68.85,47.24,21.61
+ORD-50840,Cleaning,Dish Brush,2,40.5,0.0,24.92,81.0,49.84,31.16
+ORD-50840,Stationery,Geometry Set,2,104.5,0.0,83.44,209.0,166.88,42.12
+ORD-50841,Toys,Stacking Cups,2,130.0,0.1,101.17,234.0,202.34,31.66
+ORD-50841,Kitchenware,Frying Pan,2,380.0,0.05,257.89,722.0,515.78,206.22
+ORD-50841,Kitchenware,Storage Jar,2,85.0,0.15,55.77,144.5,111.54,32.96
+ORD-50842,Drinkware,Water Bottle,1,95.0,0.05,66.43,90.25,66.43,23.82
+ORD-50842,Cleaning,Mop Set,1,260.0,0.05,199.17,247.0,199.17,47.83
+ORD-50843,Kitchenware,Knife Set,1,304.5,0.05,189.66,289.27,189.66,99.61
+ORD-50843,Kitchenware,Storage Jar,1,85.0,0.0,56.23,85.0,56.23,28.77
+ORD-50844,Cleaning,Microfiber Cloth,2,65.0,0.05,37.79,123.5,75.58,47.92
+ORD-50845,Toys,Connect Game,1,220.0,0.0,161.02,220.0,161.02,58.98
+ORD-50846,Stationery,Geometry Set,1,95.0,0.0,70.73,95.0,70.73,24.27
+ORD-50846,Cleaning,Mop Set,2,286.0,0.0,223.35,572.0,446.7,125.3
+ORD-50847,Home Organization,Shelf Basket,2,131.25,0.0,99.55,262.5,199.1,63.4
+ORD-50848,Kitchenware,Knife Set,1,290.0,0.0,172.35,290.0,172.35,117.65
+ORD-50848,Cleaning,Mop Set,2,260.0,0.0,181.82,520.0,363.64,156.36
+ORD-50848,Drinkware,Water Bottle,1,85.5,0.0,57.55,85.5,57.55,27.95
+ORD-50849,Cleaning,Microfiber Cloth,3,65.0,0.1,37.78,175.5,113.34,62.16
+ORD-50849,Cleaning,Microfiber Cloth,1,68.25,0.15,47.81,58.01,47.81,10.2
+ORD-50849,Toys,Connect Game,1,231.0,0.0,186.37,231.0,186.37,44.63
+ORD-50850,Stationery,Geometry Set,1,104.5,0.0,63.33,104.5,63.33,41.17
+ORD-50851,Cleaning,Mop Set,1,260.0,0.05,199.97,247.0,199.97,47.03
+ORD-50852,Drinkware,Thermal Flask,2,320.0,0.0,200.81,640.0,401.62,238.38
+ORD-50852,Cleaning,Microfiber Cloth,1,68.25,0.15,42.45,58.01,42.45,15.56
+ORD-50853,Drinkware,Glass Set,1,231.0,0.1,184.99,207.9,184.99,22.91
+ORD-50853,Cleaning,Microfiber Cloth,1,58.5,0.15,40.66,49.72,40.66,9.06
+ORD-50854,Cleaning,Dish Brush,2,49.5,0.15,39.58,84.15,79.16,4.99
+ORD-50855,Toys,Stacking Cups,2,136.5,0.0,84.55,273.0,169.1,103.9
+ORD-50855,Drinkware,Thermal Flask,1,320.0,0.0,187.18,320.0,187.18,132.82
+ORD-50856,Drinkware,Water Bottle,2,85.5,0.05,59.68,162.45,119.36,43.09
+ORD-50857,Cleaning,Microfiber Cloth,2,68.25,0.05,42.33,129.67,84.66,45.01
+ORD-50857,Cleaning,Dish Brush,1,45.0,0.0,31.32,45.0,31.32,13.68
+ORD-50857,Drinkware,Glass Set,1,231.0,0.0,176.13,231.0,176.13,54.87
+ORD-50858,Toys,Stacking Cups,1,130.0,0.0,79.52,130.0,79.52,50.48
+ORD-50858,Home Organization,Storage Box,3,140.0,0.0,94.5,420.0,283.5,136.5
+ORD-50859,Cleaning,Microfiber Cloth,1,65.0,0.0,50.26,65.0,50.26,14.74
+ORD-50860,Home Organization,Shelf Basket,1,112.5,0.0,86.67,112.5,86.67,25.83
+ORD-50860,Cleaning,Mop Set,1,286.0,0.15,196.69,243.1,196.69,46.41
+ORD-50860,Toys,Stacking Cups,1,117.0,0.15,95.69,99.45,95.69,3.76
+ORD-50861,Toys,Bubble Toy,1,94.5,0.0,58.15,94.5,58.15,36.35
+ORD-50861,Drinkware,Thermal Flask,2,320.0,0.1,188.47,576.0,376.94,199.06
+ORD-50862,Drinkware,Water Bottle,2,95.0,0.05,59.86,180.5,119.72,60.78
+ORD-50863,Kitchenware,Frying Pan,2,342.0,0.0,242.29,684.0,484.58,199.42
+ORD-50863,Stationery,Geometry Set,1,99.75,0.05,76.27,94.76,76.27,18.49
+ORD-50863,Drinkware,Thermal Flask,1,352.0,0.0,269.09,352.0,269.09,82.91
+ORD-50864,Toys,Stacking Cups,2,130.0,0.15,100.77,221.0,201.54,19.46
+ORD-50864,Cleaning,Mop Set,1,273.0,0.1,197.05,245.7,197.05,48.65
+ORD-50864,Stationery,Color Pencils,3,121.0,0.0,93.34,363.0,280.02,82.98
+ORD-50865,Drinkware,Water Bottle,1,95.0,0.15,72.17,80.75,72.17,8.58
+ORD-50865,Stationery,Geometry Set,2,95.0,0.0,70.53,190.0,141.06,48.94
+ORD-50865,Drinkware,Glass Set,2,220.5,0.15,155.31,374.85,310.62,64.23
+ORD-50866,Drinkware,Water Bottle,1,95.0,0.0,75.13,95.0,75.13,19.87
+ORD-50866,Toys,Connect Game,2,242.0,0.0,182.43,484.0,364.86,119.14
+ORD-50867,Kitchenware,Storage Jar,1,93.5,0.15,61.26,79.47,61.26,18.21
+ORD-50868,Drinkware,Water Bottle,3,104.5,0.15,64.09,266.47,192.27,74.2
+ORD-50869,Kitchenware,Storage Jar,1,93.5,0.05,66.98,88.82,66.98,21.84
+ORD-50869,Toys,Bubble Toy,2,94.5,0.0,68.6,189.0,137.2,51.8
+ORD-50870,Stationery,Notebook Set,2,75.0,0.0,43.77,150.0,87.54,62.46
+ORD-50870,Cleaning,Mop Set,3,234.0,0.0,187.66,702.0,562.98,139.02
+ORD-50871,Home Organization,Storage Box,1,140.0,0.0,108.56,140.0,108.56,31.44
+ORD-50872,Drinkware,Glass Set,1,189.0,0.15,131.89,160.65,131.89,28.76
+ORD-50873,Toys,Stacking Cups,1,117.0,0.0,73.83,117.0,73.83,43.17
+ORD-50873,Toys,Bubble Toy,1,90.0,0.0,54.5,90.0,54.5,35.5
+ORD-50874,Drinkware,Water Bottle,3,95.0,0.0,74.75,285.0,224.25,60.75
+ORD-50874,Drinkware,Water Bottle,2,95.0,0.05,57.69,180.5,115.38,65.12
+ORD-50874,Stationery,Geometry Set,1,95.0,0.1,57.49,85.5,57.49,28.01
+ORD-50875,Toys,Bubble Toy,2,90.0,0.0,62.65,180.0,125.3,54.7
+ORD-50876,Home Organization,Shelf Basket,3,125.0,0.0,87.56,375.0,262.68,112.32
+ORD-50877,Stationery,Geometry Set,2,95.0,0.0,62.05,190.0,124.1,65.9
+ORD-50878,Home Organization,Storage Box,2,147.0,0.05,91.18,279.3,182.36,96.94
+ORD-50879,Home Organization,Drawer Organizer,1,162.0,0.1,126.97,145.8,126.97,18.83
+ORD-50880,Toys,Bubble Toy,1,81.0,0.0,64.06,81.0,64.06,16.94
+ORD-50880,Kitchenware,Knife Set,2,290.0,0.15,178.44,493.0,356.88,136.12
+ORD-50880,Home Organization,Shelf Basket,1,125.0,0.05,99.31,118.75,99.31,19.44
+ORD-50881,Toys,Connect Game,2,242.0,0.0,147.25,484.0,294.5,189.5
+ORD-50881,Stationery,Geometry Set,3,99.75,0.0,80.66,299.25,241.98,57.27
+ORD-50881,Home Organization,Storage Box,1,140.0,0.05,113.91,133.0,113.91,19.09
+ORD-50882,Toys,Stacking Cups,2,130.0,0.1,80.12,234.0,160.24,73.76
+ORD-50882,Kitchenware,Storage Jar,1,85.0,0.0,52.4,85.0,52.4,32.6
+ORD-50882,Stationery,Geometry Set,2,95.0,0.0,67.9,190.0,135.8,54.2
+ORD-50883,Cleaning,Mop Set,1,273.0,0.0,211.0,273.0,211.0,62.0
+ORD-50883,Home Organization,Shelf Basket,2,125.0,0.0,94.53,250.0,189.06,60.94
+ORD-50883,Kitchenware,Knife Set,2,261.0,0.0,156.27,522.0,312.54,209.46
+ORD-50884,Stationery,Notebook Set,1,67.5,0.0,42.82,67.5,42.82,24.68
+ORD-50884,Stationery,Geometry Set,3,85.5,0.0,61.25,256.5,183.75,72.75
+ORD-50885,Drinkware,Glass Set,2,189.0,0.05,150.36,359.1,300.72,58.38
+ORD-50885,Cleaning,Microfiber Cloth,2,65.0,0.15,40.16,110.5,80.32,30.18
+ORD-50885,Drinkware,Glass Set,1,220.5,0.0,156.07,220.5,156.07,64.43
+ORD-50886,Home Organization,Shelf Basket,1,137.5,0.05,90.75,130.62,90.75,39.87
+ORD-50886,Stationery,Color Pencils,2,121.0,0.05,77.79,229.9,155.58,74.32
+ORD-50887,Stationery,Color Pencils,2,121.0,0.05,91.05,229.9,182.1,47.8
+ORD-50887,Cleaning,Dish Brush,2,49.5,0.0,29.04,99.0,58.08,40.92
+ORD-50888,Kitchenware,Knife Set,3,290.0,0.0,178.13,870.0,534.39,335.61
+ORD-50888,Stationery,Geometry Set,2,85.5,0.15,50.19,145.35,100.38,44.97
+ORD-50888,Kitchenware,Storage Jar,1,89.25,0.1,60.79,80.32,60.79,19.53
+ORD-50889,Kitchenware,Knife Set,2,319.0,0.0,227.62,638.0,455.24,182.76
+ORD-50889,Kitchenware,Knife Set,2,261.0,0.0,203.31,522.0,406.62,115.38
+ORD-50889,Home Organization,Drawer Organizer,1,180.0,0.1,143.34,162.0,143.34,18.66
+ORD-50890,Toys,Stacking Cups,2,130.0,0.0,99.15,260.0,198.3,61.7
+ORD-50890,Home Organization,Drawer Organizer,3,189.0,0.0,126.83,567.0,380.49,186.51
+ORD-50891,Kitchenware,Storage Jar,1,93.5,0.15,57.06,79.47,57.06,22.41
+ORD-50891,Cleaning,Mop Set,1,234.0,0.0,157.37,234.0,157.37,76.63
+ORD-50891,Drinkware,Thermal Flask,1,352.0,0.0,239.12,352.0,239.12,112.88
+ORD-50892,Kitchenware,Knife Set,2,304.5,0.0,225.57,609.0,451.14,157.86
+ORD-50892,Toys,Bubble Toy,3,81.0,0.0,57.87,243.0,173.61,69.39
+ORD-50893,Cleaning,Mop Set,2,234.0,0.15,160.71,397.8,321.42,76.38
+ORD-50893,Drinkware,Water Bottle,1,99.75,0.0,62.99,99.75,62.99,36.76
+ORD-50893,Cleaning,Mop Set,3,234.0,0.0,180.12,702.0,540.36,161.64
+ORD-50894,Cleaning,Mop Set,2,234.0,0.1,143.36,421.2,286.72,134.48
+ORD-50894,Drinkware,Thermal Flask,2,320.0,0.1,204.08,576.0,408.16,167.84
+ORD-50895,Cleaning,Dish Brush,3,40.5,0.1,30.73,109.35,92.19,17.16
+ORD-50896,Toys,Stacking Cups,1,130.0,0.15,87.08,110.5,87.08,23.42
+ORD-50896,Kitchenware,Knife Set,2,261.0,0.15,157.09,443.7,314.18,129.52
+ORD-50897,Toys,Connect Game,1,242.0,0.0,171.11,242.0,171.11,70.89
+ORD-50898,Stationery,Color Pencils,3,99.0,0.15,79.73,252.45,239.19,13.26
+ORD-50899,Toys,Stacking Cups,3,117.0,0.05,87.01,333.45,261.03,72.42
+ORD-50899,Stationery,Color Pencils,1,99.0,0.0,72.36,99.0,72.36,26.64
+ORD-50899,Cleaning,Dish Brush,3,40.5,0.1,31.42,109.35,94.26,15.09
+ORD-50900,Kitchenware,Storage Jar,1,85.0,0.0,62.53,85.0,62.53,22.47
+ORD-50900,Cleaning,Microfiber Cloth,1,58.5,0.0,43.2,58.5,43.2,15.3
+ORD-50900,Toys,Stacking Cups,1,130.0,0.1,85.74,117.0,85.74,31.26
+ORD-50901,Drinkware,Water Bottle,1,95.0,0.15,60.4,80.75,60.4,20.35
+ORD-50902,Toys,Bubble Toy,3,90.0,0.0,63.92,270.0,191.76,78.24
+ORD-50903,Cleaning,Dish Brush,2,45.0,0.15,29.81,76.5,59.62,16.88
+ORD-50903,Stationery,Color Pencils,1,99.0,0.05,60.18,94.05,60.18,33.87
+ORD-50903,Cleaning,Dish Brush,2,40.5,0.0,31.09,81.0,62.18,18.82
+ORD-50904,Kitchenware,Storage Jar,3,85.0,0.15,51.58,216.75,154.74,62.01
+ORD-50905,Cleaning,Dish Brush,2,47.25,0.0,30.55,94.5,61.1,33.4
+ORD-50905,Drinkware,Water Bottle,3,95.0,0.0,66.73,285.0,200.19,84.81
+ORD-50906,Kitchenware,Storage Jar,1,85.0,0.0,69.14,85.0,69.14,15.86
+ORD-50906,Drinkware,Thermal Flask,1,352.0,0.0,210.73,352.0,210.73,141.27
+ORD-50907,Home Organization,Storage Box,1,126.0,0.05,91.76,119.7,91.76,27.94
+ORD-50907,Toys,Stacking Cups,2,117.0,0.0,76.65,234.0,153.3,80.7
+ORD-50908,Cleaning,Dish Brush,3,45.0,0.0,29.15,135.0,87.45,47.55
+ORD-50908,Home Organization,Drawer Organizer,1,180.0,0.05,142.47,171.0,142.47,28.53
+ORD-50908,Drinkware,Thermal Flask,1,320.0,0.15,211.14,272.0,211.14,60.86
+ORD-50909,Drinkware,Glass Set,1,231.0,0.15,165.76,196.35,165.76,30.59
+ORD-50910,Drinkware,Thermal Flask,2,352.0,0.0,219.87,704.0,439.74,264.26
+ORD-50910,Stationery,Notebook Set,1,67.5,0.0,50.07,67.5,50.07,17.43
+ORD-50910,Stationery,Notebook Set,1,67.5,0.0,41.36,67.5,41.36,26.14
+ORD-50911,Cleaning,Mop Set,2,260.0,0.0,208.2,520.0,416.4,103.6
+ORD-50911,Toys,Stacking Cups,1,136.5,0.0,93.86,136.5,93.86,42.64
+ORD-50911,Stationery,Notebook Set,2,75.0,0.0,45.75,150.0,91.5,58.5
+ORD-50912,Home Organization,Drawer Organizer,1,180.0,0.1,106.87,162.0,106.87,55.13
+ORD-50912,Home Organization,Drawer Organizer,2,180.0,0.0,120.36,360.0,240.72,119.28
+ORD-50913,Drinkware,Glass Set,1,210.0,0.0,134.81,210.0,134.81,75.19
+ORD-50913,Home Organization,Drawer Organizer,1,162.0,0.0,111.57,162.0,111.57,50.43
+ORD-50913,Drinkware,Thermal Flask,1,320.0,0.1,213.54,288.0,213.54,74.46
+ORD-50914,Drinkware,Thermal Flask,1,288.0,0.0,210.52,288.0,210.52,77.48
+ORD-50914,Drinkware,Thermal Flask,1,352.0,0.15,259.41,299.2,259.41,39.79
+ORD-50915,Drinkware,Thermal Flask,2,320.0,0.0,218.68,640.0,437.36,202.64
+ORD-50916,Stationery,Geometry Set,1,99.75,0.0,70.57,99.75,70.57,29.18
+ORD-50916,Toys,Connect Game,2,242.0,0.05,148.0,459.8,296.0,163.8
+ORD-50916,Stationery,Geometry Set,3,99.75,0.15,62.57,254.36,187.71,66.65
+ORD-50917,Cleaning,Microfiber Cloth,1,68.25,0.1,54.24,61.42,54.24,7.18
+ORD-50918,Toys,Bubble Toy,2,99.0,0.0,78.03,198.0,156.06,41.94
+ORD-50919,Drinkware,Water Bottle,3,99.75,0.0,58.06,299.25,174.18,125.07
+ORD-50919,Home Organization,Shelf Basket,1,125.0,0.0,81.45,125.0,81.45,43.55
+ORD-50919,Kitchenware,Storage Jar,2,85.0,0.1,65.82,153.0,131.64,21.36
+ORD-50920,Cleaning,Mop Set,1,273.0,0.15,159.8,232.05,159.8,72.25
+ORD-50920,Cleaning,Microfiber Cloth,1,65.0,0.0,41.64,65.0,41.64,23.36
+ORD-50920,Kitchenware,Storage Jar,1,93.5,0.0,75.57,93.5,75.57,17.93
+ORD-50921,Stationery,Geometry Set,2,99.75,0.0,76.57,199.5,153.14,46.36
+ORD-50922,Kitchenware,Frying Pan,2,380.0,0.0,221.49,760.0,442.98,317.02
+ORD-50923,Drinkware,Thermal Flask,1,320.0,0.0,251.98,320.0,251.98,68.02
+ORD-50923,Stationery,Geometry Set,3,95.0,0.0,59.71,285.0,179.13,105.87
+ORD-50924,Drinkware,Water Bottle,1,99.75,0.0,71.84,99.75,71.84,27.91
+ORD-50924,Cleaning,Dish Brush,2,45.0,0.15,35.14,76.5,70.28,6.22
+ORD-50924,Drinkware,Thermal Flask,2,320.0,0.05,228.15,608.0,456.3,151.7
+ORD-50925,Stationery,Notebook Set,2,67.5,0.05,43.55,128.25,87.1,41.15
+ORD-50926,Home Organization,Drawer Organizer,2,180.0,0.0,115.8,360.0,231.6,128.4
+ORD-50926,Toys,Bubble Toy,1,90.0,0.05,54.7,85.5,54.7,30.8
+ORD-50926,Toys,Connect Game,1,220.0,0.0,176.52,220.0,176.52,43.48
+ORD-50927,Toys,Connect Game,1,198.0,0.05,157.47,188.1,157.47,30.63
+ORD-50927,Toys,Bubble Toy,1,99.0,0.15,78.33,84.15,78.33,5.82
+ORD-50927,Stationery,Color Pencils,3,115.5,0.05,85.23,329.18,255.69,73.49
+ORD-50928,Cleaning,Mop Set,2,273.0,0.0,206.84,546.0,413.68,132.32
+ORD-50928,Drinkware,Water Bottle,1,99.75,0.15,65.6,84.79,65.6,19.19
+ORD-50928,Cleaning,Mop Set,1,260.0,0.05,199.06,247.0,199.06,47.94
+ORD-50929,Cleaning,Microfiber Cloth,3,65.0,0.05,45.52,185.25,136.56,48.69
+ORD-50930,Cleaning,Mop Set,2,273.0,0.0,184.15,546.0,368.3,177.7
+ORD-50930,Kitchenware,Knife Set,1,261.0,0.1,159.65,234.9,159.65,75.25
+ORD-50930,Drinkware,Glass Set,1,210.0,0.0,156.56,210.0,156.56,53.44
+ORD-50931,Cleaning,Microfiber Cloth,1,58.5,0.0,40.45,58.5,40.45,18.05
+ORD-50931,Kitchenware,Frying Pan,3,418.0,0.0,271.7,1254.0,815.1,438.9
+ORD-50931,Stationery,Notebook Set,1,82.5,0.15,55.4,70.12,55.4,14.72
+ORD-50932,Drinkware,Water Bottle,1,99.75,0.0,60.42,99.75,60.42,39.33
+ORD-50932,Kitchenware,Knife Set,1,319.0,0.05,211.72,303.05,211.72,91.33
+ORD-50933,Stationery,Geometry Set,2,95.0,0.0,65.52,190.0,131.04,58.96
+ORD-50933,Home Organization,Drawer Organizer,1,180.0,0.05,115.28,171.0,115.28,55.72
+ORD-50934,Drinkware,Thermal Flask,1,288.0,0.0,185.48,288.0,185.48,102.52
+ORD-50935,Kitchenware,Knife Set,3,319.0,0.1,239.72,861.3,719.16,142.14
+ORD-50936,Home Organization,Shelf Basket,1,125.0,0.05,88.06,118.75,88.06,30.69
+ORD-50937,Drinkware,Water Bottle,1,85.5,0.0,51.43,85.5,51.43,34.07
+ORD-50937,Cleaning,Dish Brush,1,47.25,0.0,28.3,47.25,28.3,18.95
+ORD-50937,Kitchenware,Knife Set,1,290.0,0.0,192.74,290.0,192.74,97.26
+ORD-50938,Home Organization,Storage Box,2,126.0,0.15,98.12,214.2,196.24,17.96
+ORD-50938,Stationery,Geometry Set,2,104.5,0.05,69.04,198.55,138.08,60.47
+ORD-50938,Toys,Stacking Cups,2,130.0,0.0,77.65,260.0,155.3,104.7
+ORD-50939,Toys,Bubble Toy,2,94.5,0.0,70.42,189.0,140.84,48.16
+ORD-50939,Home Organization,Storage Box,1,140.0,0.05,98.1,133.0,98.1,34.9
+ORD-50940,Stationery,Color Pencils,3,115.5,0.05,91.95,329.18,275.85,53.33
+ORD-50940,Cleaning,Mop Set,3,273.0,0.0,193.7,819.0,581.1,237.9
+ORD-50940,Stationery,Geometry Set,1,95.0,0.15,72.04,80.75,72.04,8.71
+ORD-50941,Toys,Stacking Cups,3,130.0,0.1,78.4,351.0,235.2,115.8
+ORD-50941,Toys,Connect Game,2,242.0,0.0,141.22,484.0,282.44,201.56
+ORD-50942,Drinkware,Thermal Flask,2,320.0,0.0,206.7,640.0,413.4,226.6
+ORD-50943,Kitchenware,Knife Set,1,290.0,0.0,216.58,290.0,216.58,73.42
+ORD-50943,Kitchenware,Knife Set,3,304.5,0.0,229.75,913.5,689.25,224.25
+ORD-50943,Stationery,Color Pencils,2,110.0,0.1,82.47,198.0,164.94,33.06
+ORD-50944,Kitchenware,Knife Set,1,290.0,0.15,184.74,246.5,184.74,61.76
+ORD-50944,Kitchenware,Storage Jar,3,93.5,0.0,68.77,280.5,206.31,74.19
+ORD-50944,Drinkware,Thermal Flask,3,336.0,0.15,203.97,856.8,611.91,244.89
+ORD-50945,Toys,Stacking Cups,2,130.0,0.15,76.07,221.0,152.14,68.86
+ORD-50945,Cleaning,Mop Set,1,260.0,0.0,197.2,260.0,197.2,62.8
+ORD-50946,Kitchenware,Frying Pan,1,380.0,0.05,297.44,361.0,297.44,63.56
+ORD-50946,Toys,Stacking Cups,2,130.0,0.15,104.18,221.0,208.36,12.64
+ORD-50947,Toys,Connect Game,2,198.0,0.0,124.01,396.0,248.02,147.98
+ORD-50948,Home Organization,Shelf Basket,2,137.5,0.0,102.48,275.0,204.96,70.04
+ORD-50949,Toys,Bubble Toy,1,90.0,0.15,63.9,76.5,63.9,12.6
+ORD-50949,Kitchenware,Frying Pan,2,418.0,0.15,335.62,710.6,671.24,39.36
+ORD-50949,Home Organization,Shelf Basket,1,131.25,1.3,104.28,131.25,104.28,26.97
+ORD-50950,Drinkware,Thermal Flask,2,288.0,0.0,198.74,576.0,397.48,178.52
+ORD-50951,Kitchenware,Frying Pan,1,380.0,0.05,283.5,361.0,283.5,77.5
+ORD-50952,Cleaning,Microfiber Cloth,3,71.5,0.15,56.5,182.32,169.5,12.82
+ORD-50952,Home Organization,Shelf Basket,1,125.0,0.0,78.35,125.0,78.35,46.65
+ORD-50952,Home Organization,Shelf Basket,3,112.5,0.0,80.11,337.5,240.33,97.17
+ORD-50953,Cleaning,Mop Set,1,273.0,0.0,184.0,273.0,184.0,89.0
+ORD-50954,Kitchenware,Storage Jar,2,76.5,0.05,52.65,145.35,105.3,40.05
+ORD-50954,Stationery,Color Pencils,2,115.5,0.1,71.09,207.9,142.18,65.72
+ORD-50954,Toys,Stacking Cups,2,117.0,0.05,73.31,222.3,146.62,75.68
+ORD-50955,Kitchenware,Frying Pan,1,418.0,0.0,314.12,418.0,314.12,103.88
+ORD-50955,Toys,Bubble Toy,3,90.0,0.1,56.38,243.0,169.14,73.86
+ORD-50956,Kitchenware,Knife Set,1,304.5,0.0,232.76,304.5,232.76,71.74
+ORD-50956,Cleaning,Mop Set,1,260.0,0.1,171.76,234.0,171.76,62.24
+ORD-50957,Cleaning,Dish Brush,1,47.25,0.05,37.29,44.89,37.29,7.6
+ORD-50957,Drinkware,Thermal Flask,2,320.0,0.15,227.03,544.0,454.06,89.94
+ORD-50957,Kitchenware,Knife Set,2,261.0,0.0,201.03,522.0,402.06,119.94
+ORD-50958,Drinkware,Glass Set,2,231.0,0.0,135.02,462.0,270.04,191.96
+ORD-50958,Kitchenware,Frying Pan,1,418.0,0.15,329.39,355.3,329.39,25.91
+ORD-50959,Drinkware,Water Bottle,1,95.0,0.0,57.4,95.0,57.4,37.6
+ORD-50959,Stationery,Notebook Set,2,75.0,0.0,55.87,150.0,111.74,38.26
+ORD-50960,Stationery,Geometry Set,2,95.0,0.05,59.9,180.5,119.8,60.7
+ORD-50960,Drinkware,Water Bottle,2,85.5,0.0,69.77,171.0,139.54,31.46
+ORD-50961,Drinkware,Water Bottle,3,95.0,0.0,67.21,285.0,201.63,83.37
+ORD-50962,Home Organization,Drawer Organizer,1,162.0,0.1,126.69,145.8,126.69,19.11
+ORD-50962,Kitchenware,Knife Set,2,261.0,0.0,200.04,522.0,400.08,121.92
+ORD-50962,Stationery,Color Pencils,1,110.0,0.0,68.71,110.0,68.71,41.29
+ORD-50963,Cleaning,Mop Set,3,260.0,0.0,190.06,780.0,570.18,209.82
+ORD-50964,Toys,Bubble Toy,1,90.0,0.15,68.9,76.5,68.9,7.6
+ORD-50964,Toys,Connect Game,2,198.0,0.1,132.58,356.4,265.16,91.24
+ORD-50964,Cleaning,Mop Set,1,234.0,0.05,179.44,222.3,179.44,42.86
+ORD-50965,Stationery,Color Pencils,2,99.0,0.1,66.45,178.2,132.9,45.3
+ORD-50966,Stationery,Color Pencils,2,110.0,0.15,75.75,187.0,151.5,35.5
+ORD-50967,Home Organization,Storage Box,2,154.0,0.15,102.16,261.8,204.32,57.48
+ORD-50968,Kitchenware,Frying Pan,1,380.0,0.0,269.39,380.0,269.39,110.61
+ORD-50969,Stationery,Color Pencils,3,121.0,0.0,89.81,363.0,269.43,93.57
+ORD-50970,Home Organization,Storage Box,3,140.0,0.0,86.09,420.0,258.27,161.73
+ORD-50970,Kitchenware,Frying Pan,3,380.0,0.05,261.36,1083.0,784.08,298.92
+ORD-50971,Stationery,Geometry Set,2,85.5,0.15,57.96,145.35,115.92,29.43
+ORD-50971,Kitchenware,Storage Jar,2,85.0,0.05,58.08,161.5,116.16,45.34
+ORD-50971,Toys,Connect Game,2,220.0,0.0,167.1,440.0,334.2,105.8
+ORD-50972,Drinkware,Glass Set,2,231.0,0.1,167.77,415.8,335.54,80.26
+ORD-50972,Kitchenware,Knife Set,1,261.0,0.05,157.85,247.95,157.85,90.1
+ORD-50973,Cleaning,Dish Brush,1,49.5,0.0,33.47,49.5,33.47,16.03
+ORD-50973,Toys,Stacking Cups,2,117.0,0.0,89.25,234.0,178.5,55.5
+ORD-50973,Toys,Connect Game,1,198.0,0.0,119.74,198.0,119.74,78.26
+ORD-50974,Stationery,Notebook Set,2,75.0,0.1,60.83,135.0,121.66,13.34
+ORD-50974,Drinkware,Thermal Flask,1,288.0,0.05,179.2,273.6,179.2,94.4
+ORD-50975,Kitchenware,Storage Jar,1,85.0,0.05,68.62,80.75,68.62,12.13
+ORD-50976,Kitchenware,Knife Set,1,304.5,0.1,204.08,274.05,204.08,69.97
+ORD-50977,Drinkware,Thermal Flask,2,288.0,0.1,210.38,518.4,420.76,97.64
+ORD-50977,Toys,Stacking Cups,2,136.5,0.0,108.02,273.0,216.04,56.96
+ORD-50977,Cleaning,Mop Set,1,234.0,0.0,145.77,234.0,145.77,88.23
+ORD-50978,Drinkware,Glass Set,2,210.0,0.0,143.64,420.0,287.28,132.72
+ORD-50978,Toys,Bubble Toy,1,81.0,0.0,61.11,81.0,61.11,19.89
+ORD-50979,Stationery,Geometry Set,1,95.0,0.0,76.95,95.0,76.95,18.05
+ORD-50979,Toys,Bubble Toy,2,81.0,0.0,52.12,162.0,104.24,57.76
+ORD-50979,Toys,Connect Game,1,220.0,0.0,168.56,220.0,168.56,51.44
+ORD-50980,Stationery,Notebook Set,1,78.75,0.0,53.27,78.75,53.27,25.48
+ORD-50980,Stationery,Notebook Set,2,78.75,0.1,54.86,141.75,109.72,32.03
+ORD-50981,Home Organization,Storage Box,3,154.0,0.0,123.48,462.0,370.44,91.56
+ORD-50981,Home Organization,Shelf Basket,1,125.0,0.05,74.94,118.75,74.94,43.81
+ORD-50982,Cleaning,Mop Set,1,234.0,0.1,190.84,210.6,190.84,19.76
+ORD-50982,Home Organization,Drawer Organizer,2,162.0,0.0,96.49,324.0,192.98,131.02
+ORD-50983,Kitchenware,Storage Jar,2,85.0,0.1,57.39,153.0,114.78,38.22
+ORD-50984,Stationery,Notebook Set,1,75.0,0.15,50.92,63.75,50.92,12.83
+ORD-50984,Cleaning,Mop Set,1,260.0,0.1,165.21,234.0,165.21,68.79
+ORD-50984,Drinkware,Water Bottle,1,104.5,0.0,82.4,104.5,82.4,22.1
+ORD-50985,Home Organization,Storage Box,1,154.0,0.0,120.48,154.0,120.48,33.52
+ORD-50985,Stationery,Geometry Set,3,99.75,0.1,61.11,269.32,183.33,85.99
+ORD-50986,Kitchenware,Frying Pan,2,380.0,0.1,282.91,684.0,565.82,118.18
+ORD-50986,Stationery,Geometry Set,1,95.0,0.15,60.87,80.75,60.87,19.88
+ORD-50987,Drinkware,Thermal Flask,2,352.0,0.05,227.48,668.8,454.96,213.84
+ORD-50988,Kitchenware,Storage Jar,1,85.0,0.15,50.03,72.25,50.03,22.22
+ORD-50988,Toys,Stacking Cups,2,136.5,0.1,82.58,245.7,165.16,80.54
+ORD-50989,Cleaning,Dish Brush,3,47.25,0.05,29.86,134.66,89.58,45.08
+ORD-50989,Drinkware,Thermal Flask,3,320.0,0.0,188.66,960.0,565.98,394.02
+ORD-50990,Toys,Stacking Cups,1,136.5,0.1,82.7,122.85,82.7,40.15
+ORD-50991,Home Organization,Drawer Organizer,1,189.0,0.0,126.29,189.0,126.29,62.71
+ORD-50991,Stationery,Color Pencils,1,121.0,0.15,94.39,102.85,94.39,8.46
+ORD-50992,Kitchenware,Knife Set,1,319.0,0.0,222.18,319.0,222.18,96.82
+ORD-50993,Toys,Stacking Cups,1,0.0,0.0,91.79,130.0,91.79,38.21
+ORD-50994,Toys,Bubble Toy,2,90.0,0.0,69.48,180.0,138.96,41.04
+ORD-50995,Home Organization,Storage Box,3,140.0,0.15,105.06,357.0,315.18,41.82
+ORD-50995,Kitchenware,Storage Jar,1,89.25,0.0,72.31,89.25,72.31,16.94
+ORD-50996,Toys,Stacking Cups,2,136.5,0.0,88.08,273.0,176.16,96.84
+ORD-50996,Cleaning,Microfiber Cloth,1,68.25,0.05,46.68,64.84,46.68,18.16
+ORD-50996,Kitchenware,Knife Set,3,290.0,0.0,171.75,870.0,515.25,354.75
+ORD-50997,Drinkware,Glass Set,3,231.0,0.0,157.34,693.0,472.02,220.98
+ORD-50998,Drinkware,Water Bottle,1,95.0,0.0,71.61,95.0,71.61,23.39
+ORD-50999,Toys,Bubble Toy,1,90.0,0.1,68.53,81.0,68.53,12.47
+ORD-51000,Toys,Connect Game,1,198.0,0.0,120.0,198.0,120.0,78.0
+ORD-51000,Home Organization,Shelf Basket,2,125.0,0.0,80.91,250.0,161.82,88.18
+ORD-51001,Home Organization,Drawer Organizer,2,180.0,0.05,129.78,342.0,259.56,82.44
+ORD-51002,Toys,Connect Game,2,220.0,0.1,144.59,396.0,289.18,106.82
+ORD-51002,Stationery,Notebook Set,2,67.5,0.15,41.46,114.75,82.92,31.83
+ORD-51002,Home Organization,Storage Box,3,154.0,0.0,103.19,462.0,309.57,152.43
+ORD-51003,Drinkware,Glass Set,1,210.0,0.05,145.63,199.5,145.63,53.87
+ORD-51004,Toys,Connect Game,2,220.0,0.1,143.35,396.0,286.7,109.3
+ORD-51004,Home Organization,Shelf Basket,2,112.5,0.05,72.65,213.75,145.3,68.45
+ORD-51004,Kitchenware,Storage Jar,2,93.5,0.05,71.69,177.65,143.38,34.27
+ORD-51005,Stationery,Color Pencils,1,110.0,0.15,72.07,93.5,72.07,21.43
+ORD-51006,Home Organization,Shelf Basket,2,131.25,0.0,76.13,262.5,152.26,110.24
+ORD-51007,Cleaning,Mop Set,2,273.0,0.1,177.93,491.4,355.86,135.54
+ORD-51007,Toys,Stacking Cups,1,130.0,0.0,90.32,130.0,90.32,39.68
+ORD-51007,Home Organization,Storage Box,3,154.0,0.0,109.34,462.0,328.02,133.98
+ORD-51008,Kitchenware,Storage Jar,2,76.5,0.0,58.98,153.0,117.96,35.04
+ORD-51009,Stationery,Color Pencils,2,115.5,0.0,70.48,231.0,140.96,90.04
+ORD-51009,Stationery,Notebook Set,2,82.5,0.0,53.28,165.0,106.56,58.44
+ORD-51009,Home Organization,Storage Box,1,154.0,0.0,108.27,154.0,108.27,45.73
+ORD-51010,Kitchenware,Knife Set,1,290.0,0.05,201.08,275.5,201.08,74.42
+ORD-51011,Cleaning,Microfiber Cloth,1,58.5,0.15,40.68,49.72,40.68,9.04
+ORD-51011,Stationery,Notebook Set,2,78.75,0.0,64.22,157.5,128.44,29.06
+ORD-51011,Kitchenware,Knife Set,1,261.0,0.1,175.02,234.9,175.02,59.88
+ORD-51012,Drinkware,Water Bottle,2,104.5,0.1,85.59,188.1,171.18,16.92
+ORD-51013,Kitchenware,Frying Pan,1,342.0,0.15,278.91,290.7,278.91,11.79
+ORD-51014,Toys,Bubble Toy,1,90.0,0.1,70.88,81.0,70.88,10.12
+ORD-51014,Toys,Stacking Cups,1,130.0,0.0,101.82,130.0,101.82,28.18
+ORD-51014,Home Organization,Storage Box,1,140.0,0.15,105.2,119.0,105.2,13.8
+ORD-51015,Home Organization,Shelf Basket,1,112.5,0.1,73.82,101.25,73.82,27.43
+ORD-51016,Drinkware,Water Bottle,1,95.0,0.15,56.0,80.75,56.0,24.75
+ORD-51017,Home Organization,Drawer Organizer,1,162.0,0.0,113.07,162.0,113.07,48.93
+ORD-51017,Home Organization,Drawer Organizer,2,162.0,0.0,98.13,324.0,196.26,127.74
+ORD-51017,Stationery,Color Pencils,3,115.5,0.05,72.66,329.18,217.98,111.2
+ORD-51018,Kitchenware,Storage Jar,2,85.0,0.0,59.67,170.0,119.34,50.66
+ORD-51018,Drinkware,Water Bottle,3,95.0,0.0,70.93,285.0,212.79,72.21
+ORD-51019,Kitchenware,Knife Set,1,319.0,0.0,221.82,319.0,221.82,97.18
+ORD-51020,Kitchenware,Knife Set,1,304.5,0.05,212.33,289.27,212.33,76.94
+ORD-51020,Stationery,Geometry Set,1,95.0,0.1,69.07,85.5,69.07,16.43
+ORD-51020,Home Organization,Shelf Basket,2,125.0,0.0,87.36,250.0,174.72,75.28
+ORD-51021,Toys,Connect Game,1,231.0,0.0,176.03,231.0,176.03,54.97
+ORD-51021,Drinkware,Thermal Flask,-2,336.0,0.15,221.07,285.6,221.07,64.53
+ORD-51022,Kitchenware,Storage Jar,1,76.5,0.0,54.03,76.5,54.03,22.47
+ORD-51022,Toys,Connect Game,1,220.0,0.0,141.09,220.0,141.09,78.91
+ORD-51023,Drinkware,Glass Set,1,189.0,0.1,123.84,170.1,123.84,46.26
+ORD-51023,Stationery,Color Pencils,2,121.0,0.1,79.59,217.8,159.18,58.62
+ORD-51024,Stationery,Notebook Set,1,67.5,0.1,53.6,60.75,53.6,7.15
+ORD-51024,Stationery,Notebook Set,2,67.5,0.05,41.45,128.25,82.9,45.35
+ORD-51024,Cleaning,Mop Set,1,260.0,0.05,178.74,247.0,178.74,68.26
+ORD-51025,Stationery,Notebook Set,1,75.0,0.0,55.87,75.0,55.87,19.13
+ORD-51026,Cleaning,Microfiber Cloth,1,68.25,0.1,39.68,61.42,39.68,21.74
+ORD-51026,Drinkware,Glass Set,2,220.5,0.05,134.12,418.95,268.24,150.71
+ORD-51026,Drinkware,Glass Set,1,210.0,0.0,150.01,210.0,150.01,59.99
+ORD-51027,Drinkware,Thermal Flask,2,320.0,0.0,221.28,640.0,442.56,197.44
+ORD-51027,Home Organization,Drawer Organizer,2,162.0,0.05,109.29,307.8,218.58,89.22
+ORD-51027,Stationery,Color Pencils,3,110.0,0.0,76.42,330.0,229.26,100.74
+ORD-51028,Kitchenware,Knife Set,2,290.0,0.1,180.59,522.0,361.18,160.82
+ORD-51028,Home Organization,Drawer Organizer,2,180.0,0.0,111.25,360.0,222.5,137.5
+ORD-51028,Home Organization,Drawer Organizer,2,180.0,0.05,113.52,342.0,227.04,114.96
+ORD-51029,Home Organization,Shelf Basket,1,125.0,0.15,88.94,106.25,88.94,17.31
+ORD-51029,Toys,Bubble Toy,3,94.5,0.15,77.05,240.98,231.15,9.83
+ORD-51029,Cleaning,Microfiber Cloth,1,58.5,0.0,35.21,58.5,35.21,23.29
+ORD-51030,Toys,Stacking Cups,1,143.0,0.15,97.29,121.55,97.29,24.26
+ORD-51030,Toys,Connect Game,2,231.0,0.0,160.07,462.0,320.14,141.86
+ORD-51031,Kitchenware,Frying Pan,2,380.0,0.0,247.56,760.0,495.12,264.88
+ORD-51032,Home Organization,Storage Box,3,140.0,0.0,112.7,420.0,338.1,81.9
+ORD-51033,Stationery,Color Pencils,3,110.0,0.1,72.57,297.0,217.71,79.29
+ORD-51033,Stationery,Color Pencils,1,115.5,0.0,80.04,115.5,80.04,35.46
+ORD-51033,Home Organization,Shelf Basket,1,112.5,0.0,70.97,112.5,70.97,41.53
+ORD-51034,Stationery,Color Pencils,1,99.0,0.05,58.97,94.05,58.97,35.08
+ORD-51035,Stationery,Color Pencils,1,110.0,0.05,84.67,104.5,84.67,19.83
+ORD-51035,Toys,Bubble Toy,1,99.0,0.15,61.01,84.15,61.01,23.14
+ORD-51035,Drinkware,Water Bottle,2,95.0,0.1,56.65,171.0,113.3,57.7
+ORD-51036,Home Organization,Storage Box,1,147.0,0.05,86.09,139.65,86.09,53.56
+ORD-51036,Toys,Stacking Cups,3,136.5,0.1,83.57,368.55,250.71,117.84
+ORD-51036,Kitchenware,Storage Jar,2,93.5,0.15,60.67,158.95,121.34,37.61
+ORD-51037,Drinkware,Water Bottle,1,95.0,0.05,58.04,90.25,58.04,32.21
+ORD-51037,Stationery,Geometry Set,3,104.5,0.0,82.02,313.5,246.06,67.44
+ORD-51037,Stationery,Geometry Set,2,85.5,0.1,64.26,153.9,128.52,25.38
+ORD-51038,Drinkware,Glass Set,1,220.5,0.0,177.5,220.5,177.5,43.0
+ORD-51038,Toys,Bubble Toy,2,81.0,0.15,59.31,137.7,118.62,19.08
+ORD-51038,Home Organization,Shelf Basket,2,137.5,0.0,112.09,275.0,224.18,50.82
+ORD-51039,Drinkware,Thermal Flask,3,288.0,0.0,178.82,864.0,536.46,327.54
+ORD-51040,Home Organization,Storage Box,1,140.0,0.0,104.51,140.0,104.51,35.49
+ORD-51040,Home Organization,Shelf Basket,2,125.0,0.05,95.48,237.5,190.96,46.54
+ORD-51040,Toys,Bubble Toy,1,94.5,0.0,65.44,94.5,65.44,29.06
+ORD-51041,Home Organization,Drawer Organizer,1,180.0,0.1,140.29,162.0,140.29,21.71
+ORD-51042,Stationery,Notebook Set,2,75.0,0.1,48.7,135.0,97.4,37.6
+ORD-51042,Cleaning,Mop Set,1,273.0,0.1,173.98,245.7,173.98,71.72
+ORD-51043,Stationery,Color Pencils,3,99.0,0.0,73.31,297.0,219.93,77.07
+ORD-51043,Home Organization,Drawer Organizer,1,180.0,0.1,111.29,162.0,111.29,50.71
+ORD-51043,Kitchenware,Knife Set,2,290.0,0.1,209.11,522.0,418.22,103.78
+ORD-51044,Stationery,Color Pencils,2,110.0,0.15,88.54,187.0,177.08,9.92
+ORD-51045,Cleaning,Microfiber Cloth,1,58.5,0.05,47.41,55.58,47.41,8.17
+ORD-51046,Drinkware,Thermal Flask,2,320.0,0.1,199.81,576.0,399.62,176.38
+ORD-51046,Cleaning,Microfiber Cloth,1,65.0,0.1,41.36,58.5,41.36,17.14
+ORD-51046,Stationery,Color Pencils,3,110.0,0.15,87.19,280.5,261.57,18.93
+ORD-51047,Stationery,Color Pencils,2,110.0,0.1,70.35,198.0,140.7,57.3
+ORD-51048,Toys,Connect Game,1,231.0,0.0,135.97,231.0,135.97,95.03
+ORD-51048,Drinkware,Thermal Flask,2,320.0,0.15,262.38,544.0,524.76,19.24
+ORD-51049,Toys,Bubble Toy,2,90.0,0.0,57.2,180.0,114.4,65.6
+ORD-51049,Kitchenware,Frying Pan,2,418.0,0.0,263.56,836.0,527.12,308.88
+ORD-51049,Stationery,Notebook Set,1,82.5,0.0,52.53,82.5,52.53,29.97
+ORD-51050,Stationery,Notebook Set,3,78.75,0.05,60.65,224.44,181.95,42.49
+ORD-51050,Drinkware,Glass Set,2,210.0,0.05,124.63,399.0,249.26,149.74
+ORD-51051,Kitchenware,Storage Jar,3,76.5,0.0,45.23,229.5,135.69,93.81
+ORD-51051,Drinkware,Glass Set,3,231.0,0.15,173.75,589.05,521.25,67.8
+ORD-51051,Toys,Stacking Cups,1,130.0,0.05,101.95,123.5,101.95,21.55
+ORD-51052,Toys,Stacking Cups,3,143.0,0.0,102.16,429.0,306.48,122.52
+ORD-51053,Toys,Connect Game,2,198.0,0.05,135.79,376.2,271.58,104.62
+ORD-51053,Drinkware,Thermal Flask,2,320.0,0.0,194.55,640.0,389.1,250.9
+ORD-51054,Cleaning,Microfiber Cloth,1,58.5,0.1,39.75,52.65,39.75,12.9
+ORD-51054,Cleaning,Microfiber Cloth,1,68.25,0.0,54.14,68.25,54.14,14.11
+ORD-51054,Toys,Stacking Cups,3,130.0,0.0,77.5,390.0,232.5,157.5
+ORD-51055,Kitchenware,Frying Pan,2,380.0,0.1,227.26,684.0,454.52,229.48
+ORD-51056,Cleaning,Dish Brush,1,47.25,0.0,34.49,47.25,34.49,12.76
+ORD-51056,Kitchenware,Storage Jar,2,85.0,0.15,60.15,144.5,120.3,24.2
+ORD-51056,Stationery,Geometry Set,1,95.0,0.0,66.41,95.0,66.41,28.59
+ORD-51057,Stationery,Color Pencils,1,99.0,0.1,67.13,89.1,67.13,21.97
+ORD-51058,Drinkware,Water Bottle,2,95.0,0.0,75.79,190.0,151.58,38.42
+ORD-51058,Cleaning,Dish Brush,1,45.0,0.0,36.22,45.0,36.22,8.78
+ORD-51058,Cleaning,Microfiber Cloth,3,68.25,0.15,54.59,174.04,163.77,10.27
+ORD-51059,Kitchenware,Frying Pan,3,418.0,0.1,337.74,1128.6,1013.22,115.38
+ORD-51059,Kitchenware,Frying Pan,1,342.0,0.0,274.5,342.0,274.5,67.5
+ORD-51059,Drinkware,Thermal Flask,2,352.0,0.0,233.65,704.0,467.3,236.7
+ORD-51060,Kitchenware,Frying Pan,1,342.0,0.15,209.62,290.7,209.62,81.08
+ORD-51060,Drinkware,Water Bottle,3,99.75,0.0,69.45,299.25,208.35,90.9
+ORD-51060,Kitchenware,Storage Jar,2,85.0,0.0,62.52,170.0,125.04,44.96
+ORD-51061,Home Organization,Shelf Basket,1,125.0,0.0,75.51,125.0,75.51,49.49
+ORD-51061,Stationery,Color Pencils,1,99.0,0.0,79.75,99.0,79.75,19.25
+ORD-51061,Kitchenware,Frying Pan,3,418.0,0.0,274.2,1254.0,822.6,431.4
+ORD-51062,Stationery,Color Pencils,1,121.0,0.0,82.98,121.0,82.98,38.02
+ORD-51062,Home Organization,Shelf Basket,1,137.5,0.0,107.97,137.5,107.97,29.53
+ORD-51063,Drinkware,Water Bottle,2,104.5,0.1,82.41,188.1,164.82,23.28
+ORD-51064,Stationery,Color Pencils,3,110.0,0.0,68.78,330.0,206.34,123.66
+ORD-51064,Cleaning,Mop Set,2,273.0,0.0,220.44,546.0,440.88,105.12
+ORD-51064,Toys,Bubble Toy,1,90.0,0.05,56.1,85.5,56.1,29.4
+ORD-51065,Stationery,Color Pencils,2,99.0,0.1,76.47,178.2,152.94,25.26
+ORD-51065,Cleaning,Dish Brush,2,49.5,0.1,29.46,89.1,58.92,30.18
+ORD-51066,Home Organization,Shelf Basket,1,137.5,0.15,107.13,116.88,107.13,9.75
+ORD-51066,Stationery,Geometry Set,1,95.0,0.0,60.15,95.0,60.15,34.85
+ORD-51067,Cleaning,Microfiber Cloth,1,68.25,0.05,45.96,64.84,45.96,18.88
+ORD-51068,Drinkware,Glass Set,2,231.0,0.05,183.21,438.9,366.42,72.48
+ORD-51069,Home Organization,Shelf Basket,2,125.0,0.1,85.15,225.0,170.3,54.7
+ORD-51069,Toys,Bubble Toy,1,90.0,0.0,73.39,90.0,73.39,16.61
+ORD-51069,Stationery,Color Pencils,1,99.0,0.05,63.48,94.05,63.48,30.57
+ORD-51070,Cleaning,Dish Brush,1,49.5,0.0,30.85,49.5,30.85,18.65
+ORD-51070,Kitchenware,Storage Jar,1,89.25,0.0,72.73,89.25,72.73,16.52
+ORD-51070,Toys,Bubble Toy,2,99.0,0.15,61.62,168.3,123.24,45.06
+ORD-51071,Home Organization,Storage Box,1,126.0,0.15,83.91,107.1,83.91,23.19
+ORD-51072,Drinkware,Thermal Flask,1,320.0,0.0,240.12,320.0,240.12,79.88
+ORD-51072,Stationery,Color Pencils,2,110.0,0.05,66.65,209.0,133.3,75.7
+ORD-51073,Drinkware,Water Bottle,2,95.0,0.0,77.82,190.0,155.64,34.36
+ORD-51073,Drinkware,Glass Set,1,220.5,0.0,174.94,220.5,174.94,45.56
+ORD-51073,Home Organization,Shelf Basket,2,112.5,0.05,86.37,213.75,172.74,41.01
+ORD-51074,Toys,Bubble Toy,1,90.0,0.15,55.67,76.5,55.67,20.83
+ORD-51074,Stationery,Color Pencils,2,99.0,0.05,73.5,188.1,147.0,41.1
+ORD-51074,Cleaning,Mop Set,1,273.0,0.1,174.83,245.7,174.83,70.87
+ORD-51075,Drinkware,Water Bottle,3,104.5,0.15,65.18,266.47,195.54,70.93
+ORD-51076,Kitchenware,Knife Set,3,290.0,0.0,195.24,870.0,585.72,284.28
+ORD-51077,Drinkware,Thermal Flask,2,288.0,0.0,224.2,576.0,448.4,127.6
+ORD-51077,Kitchenware,Frying Pan,1,380.0,0.05,257.47,361.0,257.47,103.53
+ORD-51077,Cleaning,Microfiber Cloth,1,71.5,0.0,50.84,71.5,50.84,20.66
+ORD-51078,Drinkware,Thermal Flask,1,352.0,0.05,277.84,334.4,277.84,56.56
+ORD-51079,Toys,Connect Game,1,220.0,0.0,152.98,220.0,152.98,67.02
+ORD-51080,Home Organization,Shelf Basket,1,125.0,0.0,82.35,125.0,82.35,42.65
+ORD-51081,Drinkware,Water Bottle,1,85.5,0.1,61.08,76.95,61.08,15.87
+ORD-51081,Drinkware,Thermal Flask,3,288.0,0.15,228.16,734.4,684.48,49.92
+ORD-51082,Kitchenware,Storage Jar,1,76.5,0.0,49.88,76.5,49.88,26.62
+ORD-51082,Cleaning,Dish Brush,2,45.0,0.0,31.44,90.0,62.88,27.12
+ORD-51083,Drinkware,Glass Set,3,210.0,0.0,138.26,630.0,414.78,215.22
+ORD-51083,Kitchenware,Knife Set,1,319.0,0.15,185.71,271.15,185.71,85.44
+ORD-51084,Kitchenware,Frying Pan,1,380.0,0.0,229.62,380.0,229.62,150.38
+ORD-51084,Toys,Stacking Cups,3,130.0,0.1,85.35,351.0,256.05,94.95
+ORD-51085,Cleaning,Dish Brush,2,47.25,0.05,27.77,89.78,55.54,34.24
+ORD-51085,Stationery,Color Pencils,1,115.5,0.15,84.43,98.18,84.43,13.75
+ORD-51086,Stationery,Color Pencils,1,99.0,0.0,71.14,99.0,71.14,27.86
+ORD-51087,Cleaning,Dish Brush,1,47.25,0.0,38.04,47.25,38.04,9.21
+ORD-51088,Drinkware,Glass Set,3,210.0,0.1,149.02,567.0,447.06,119.94
+ORD-51088,Cleaning,Dish Brush,2,40.5,0.0,33.0,81.0,66.0,15.0
+ORD-51088,Drinkware,Glass Set,2,189.0,0.0,138.5,378.0,277.0,101.0
+ORD-51089,Stationery,Geometry Set,1,99.75,0.1,70.93,89.78,70.93,18.85
+ORD-51090,Kitchenware,Knife Set,2,290.0,0.0,219.27,580.0,438.54,141.46
+ORD-51090,Drinkware,Water Bottle,1,85.5,0.05,63.34,81.22,63.34,17.88
+ORD-51091,Cleaning,Mop Set,1,234.0,0.0,148.48,234.0,148.48,85.52
+ORD-51091,Toys,Stacking Cups,1,143.0,0.0,113.57,143.0,113.57,29.43
+ORD-51092,Kitchenware,Storage Jar,1,85.0,0.1,69.39,76.5,69.39,7.11
+ORD-51092,Stationery,Color Pencils,2,110.0,0.0,65.08,220.0,130.16,89.84
+ORD-51093,Stationery,Color Pencils,1,99.0,0.0,57.86,99.0,57.86,41.14
+ORD-51093,Toys,Connect Game,3,220.0,0.1,133.77,594.0,401.31,192.69
+ORD-51094,Toys,Stacking Cups,2,130.0,0.0,99.4,260.0,198.8,61.2
+ORD-51094,Toys,Bubble Toy,2,81.0,0.15,52.0,137.7,104.0,33.7
+ORD-51095,Kitchenware,Frying Pan,2,342.0,0.1,223.99,615.6,447.98,167.62
+ORD-51095,Kitchenware,Knife Set,1,261.0,0.0,176.98,261.0,176.98,84.02
+ORD-51096,Cleaning,Mop Set,2,286.0,0.0,217.25,572.0,434.5,137.5
+ORD-51096,Kitchenware,Storage Jar,1,89.25,0.0,64.99,89.25,64.99,24.26
+ORD-51097,Drinkware,Water Bottle,1,95.0,0.15,74.23,80.75,74.23,6.52
+ORD-51098,Kitchenware,Knife Set,2,319.0,0.15,219.25,542.3,438.5,103.8
+ORD-51099,Toys,Stacking Cups,3,143.0,0.1,107.12,386.1,321.36,64.74
+ORD-51100,Drinkware,Water Bottle,3,85.5,0.15,50.13,218.02,150.39,67.63
+ORD-51100,Toys,Bubble Toy,1,81.0,0.15,65.47,68.85,65.47,3.38
+ORD-51101,Drinkware,Water Bottle,2,95.0,0.15,75.36,161.5,150.72,10.78
+ORD-51101,Cleaning,Microfiber Cloth,2,65.0,0.05,52.91,123.5,105.82,17.68
+ORD-51101,Drinkware,Thermal Flask,2,288.0,0.0,181.8,576.0,363.6,212.4
+ORD-51102,Home Organization,Shelf Basket,2,112.5,0.05,78.44,213.75,156.88,56.87
+ORD-51102,Kitchenware,Storage Jar,1,89.25,0.0,63.5,89.25,63.5,25.75
+ORD-51103,Kitchenware,Frying Pan,3,380.0,0.05,269.81,1083.0,809.43,273.57
+ORD-51103,Stationery,Color Pencils,2,121.0,0.15,81.93,205.7,163.86,41.84
+ORD-51104,Drinkware,Glass Set,1,210.0,0.0,154.21,210.0,154.21,55.79
+ORD-51104,Toys,Stacking Cups,1,130.0,0.0,99.4,130.0,99.4,30.6
+ORD-51104,Cleaning,Mop Set,2,273.0,0.0,186.92,546.0,373.84,172.16
+ORD-51105,Toys,Stacking Cups,3,117.0,0.0,81.49,351.0,244.47,106.53
+ORD-51105,Drinkware,Glass Set,2,220.5,0.05,166.12,418.95,332.24,86.71
+ORD-51105,Stationery,Notebook Set,1,67.5,0.0,44.28,67.5,44.28,23.22
+ORD-51106,Toys,Bubble Toy,1,90.0,0.1,55.05,81.0,55.05,25.95
+ORD-51106,Home Organization,Shelf Basket,1,125.0,0.0,97.43,125.0,97.43,27.57
+ORD-51106,Kitchenware,Knife Set,1,319.0,0.15,256.96,271.15,256.96,14.19
+ORD-51107,Toys,Connect Game,1,220.0,0.05,133.21,209.0,133.21,75.79
+ORD-51108,Home Organization,Storage Box,2,140.0,0.0,109.08,280.0,218.16,61.84
+ORD-51108,Toys,Connect Game,2,220.0,0.0,170.78,440.0,341.56,98.44
+ORD-51108,Toys,Stacking Cups,3,136.5,0.0,87.08,409.5,261.24,148.26
+ORD-51109,Drinkware,Glass Set,1,189.0,0.0,144.3,189.0,144.3,44.7
+ORD-51109,Cleaning,Microfiber Cloth,1,65.0,0.1,50.63,58.5,50.63,7.87
+ORD-51110,Toys,Stacking Cups,1,117.0,0.0,77.3,117.0,77.3,39.7
+ORD-51110,Toys,Connect Game,2,231.0,0.0,185.12,462.0,370.24,91.76
+ORD-51111,Cleaning,Mop Set,2,234.0,0.0,136.64,468.0,273.28,194.72
+ORD-51111,Home Organization,Shelf Basket,3,112.5,0.1,87.69,303.75,263.07,40.68
+ORD-51111,Drinkware,Thermal Flask,2,320.0,0.0,194.57,640.0,389.14,250.86
+ORD-51112,Cleaning,Microfiber Cloth,1,65.0,0.05,41.66,61.75,41.66,20.09
+ORD-51113,Home Organization,Shelf Basket,2,125.0,0.15,98.7,212.5,197.4,15.1
+ORD-51114,Drinkware,Water Bottle,1,95.0,0.15,69.52,80.75,69.52,11.23
+ORD-51115,Home Organization,Drawer Organizer,2,189.0,0.0,147.95,378.0,295.9,82.1
+ORD-51116,Cleaning,Dish Brush,2,49.5,0.05,34.65,94.05,69.3,24.75
+ORD-51116,Home Organization,Shelf Basket,3,131.25,0.0,103.87,393.75,311.61,82.14
+ORD-51116,Stationery,Geometry Set,1,95.0,0.0,63.38,95.0,63.38,31.62
+ORD-51117,Cleaning,Dish Brush,1,49.5,0.0,40.08,49.5,40.08,9.42
+ORD-51117,Home Organization,Shelf Basket,2,112.5,0.0,73.91,225.0,147.82,77.18
+ORD-51118,Stationery,Notebook Set,1,67.5,0.0,40.6,67.5,40.6,26.9
+ORD-51118,Toys,Connect Game,1,231.0,0.0,136.66,231.0,136.66,94.34
+ORD-51119,Drinkware,Water Bottle,1,104.5,0.05,65.8,99.28,65.8,33.48
+ORD-51119,Stationery,Notebook Set,1,75.0,0.0,44.52,75.0,44.52,30.48
+ORD-51120,Kitchenware,Frying Pan,1,380.0,0.1,310.36,342.0,310.36,31.64
+ORD-51121,Cleaning,Dish Brush,1,45.0,0.05,34.31,42.75,34.31,8.44
+ORD-51121,Stationery,Color Pencils,1,110.0,0.1,78.87,99.0,78.87,20.13
+ORD-51122,Cleaning,Microfiber Cloth,1,65.0,0.0,43.31,65.0,43.31,21.69
+ORD-51122,Home Organization,Storage Box,2,140.0,0.0,100.18,280.0,200.36,79.64
+ORD-51122,Toys,Connect Game,2,231.0,0.0,135.55,462.0,271.1,190.9
+ORD-51123,Stationery,Color Pencils,2,99.0,0.15,65.9,168.3,131.8,36.5
+ORD-51123,Drinkware,Glass Set,2,220.5,0.15,153.28,374.85,306.56,68.29
+ORD-51124,Cleaning,Mop Set,1,286.0,0.15,167.84,243.1,167.84,75.26
+ORD-51124,Toys,Connect Game,2,231.0,0.0,151.03,462.0,302.06,159.94
+ORD-51124,Stationery,Notebook Set,2,78.75,0.15,47.08,133.88,94.16,39.72
+ORD-51125,Drinkware,Thermal Flask,1,320.0,0.0,252.21,320.0,252.21,67.79
+ORD-51125,Cleaning,Microfiber Cloth,2,58.5,0.15,34.69,99.45,69.38,30.07
+ORD-51126,Cleaning,Dish Brush,3,40.5,0.05,25.52,115.42,76.56,38.86
+ORD-51126,Cleaning,Mop Set,2,260.0,0.15,157.84,442.0,315.68,126.32
+ORD-51127,Kitchenware,Knife Set,2,319.0,0.0,219.75,638.0,439.5,198.5
+ORD-51127,Toys,Bubble Toy,3,81.0,0.0,62.93,243.0,188.79,54.21
+ORD-51128,Home Organization,Drawer Organizer,1,162.0,0.15,101.99,137.7,101.99,35.71
+ORD-51129,Stationery,Color Pencils,1,121.0,0.1,72.28,108.9,72.28,36.62
+ORD-51129,Kitchenware,Frying Pan,1,418.0,0.05,299.34,397.1,299.34,97.76
+ORD-51130,Stationery,Geometry Set,2,95.0,0.0,66.17,190.0,132.34,57.66
+ORD-51131,Kitchenware,Storage Jar,2,89.25,0.05,66.61,169.58,133.22,36.36
+ORD-51131,Kitchenware,Frying Pan,1,342.0,0.0,210.43,342.0,210.43,131.57
+ORD-51132,Toys,Connect Game,1,220.0,0.1,168.31,198.0,168.31,29.69
+ORD-51132,Drinkware,Glass Set,1,220.5,0.15,150.93,187.42,150.93,36.49
+ORD-51132,Stationery,Geometry Set,2,95.0,0.05,65.66,180.5,131.32,49.18
+ORD-51133,Kitchenware,Knife Set,1,290.0,0.0,233.11,290.0,233.11,56.89
+ORD-51133,Stationery,Notebook Set,2,78.75,0.15,61.73,133.88,123.46,10.42
+ORD-51134,Drinkware,Water Bottle,2,95.0,0.0,73.99,190.0,147.98,42.02
+ORD-51134,Drinkware,Water Bottle,2,95.0,0.0,68.13,190.0,136.26,53.74
+ORD-51135,Kitchenware,Storage Jar,1,93.5,0.0,59.84,93.5,59.84,33.66
+ORD-51135,Kitchenware,Storage Jar,1,76.5,0.05,49.98,72.68,49.98,22.7
+ORD-51135,Cleaning,Dish Brush,1,49.5,0.15,37.37,42.08,37.37,4.71
+ORD-51136,Drinkware,Water Bottle,1,104.5,0.0,83.05,104.5,83.05,21.45
+ORD-51136,Kitchenware,Storage Jar,2,89.25,0.0,67.78,178.5,135.56,42.94
+ORD-51136,Cleaning,Mop Set,3,286.0,0.15,172.27,729.3,516.81,212.49
+ORD-51137,Cleaning,Mop Set,1,286.0,0.05,173.63,271.7,173.63,98.07
+ORD-51137,Stationery,Geometry Set,1,85.5,0.05,63.13,81.22,63.13,18.09
+ORD-51137,Cleaning,Mop Set,1,234.0,0.15,169.16,198.9,169.16,29.74
+ORD-51138,Kitchenware,Storage Jar,1,85.0,0.0,62.93,85.0,62.93,22.07
+ORD-51139,Home Organization,Drawer Organizer,2,180.0,0.15,146.95,306.0,293.9,12.1
+ORD-51140,Cleaning,Dish Brush,2,45.0,0.05,36.08,85.5,72.16,13.34
+ORD-51140,Home Organization,Drawer Organizer,1,180.0,0.05,142.81,171.0,142.81,28.19
+ORD-51140,Stationery,Color Pencils,2,121.0,0.15,70.18,205.7,140.36,65.34
+ORD-51141,Drinkware,Water Bottle,1,104.5,0.05,84.86,99.28,84.86,14.42
+ORD-51141,Cleaning,Dish Brush,1,45.0,0.0,32.36,45.0,32.36,12.64
+ORD-51141,Cleaning,Microfiber Cloth,1,65.0,0.0,37.75,65.0,37.75,27.25
+ORD-51142,Stationery,Color Pencils,2,110.0,0.0,73.8,220.0,147.6,72.4
+ORD-51142,Toys,Bubble Toy,2,99.0,0.05,62.31,188.1,124.62,63.48
+ORD-51143,Drinkware,Water Bottle,2,85.5,0.05,58.61,162.45,117.22,45.23
+ORD-51144,Drinkware,Water Bottle,1,99.75,0.05,81.21,94.76,81.21,13.55
+ORD-51144,Toys,Bubble Toy,1,99.0,0.1,58.87,89.1,58.87,30.23
+ORD-51144,Cleaning,Dish Brush,1,47.25,0.0,30.05,47.25,30.05,17.2
+ORD-51145,Cleaning,Mop Set,1,234.0,0.15,140.59,198.9,140.59,58.31
+ORD-51145,Kitchenware,Storage Jar,2,76.5,0.0,51.75,153.0,103.5,49.5
+ORD-51145,Stationery,Geometry Set,1,95.0,0.15,65.2,80.75,65.2,15.55
+ORD-51146,Stationery,Geometry Set,1,95.0,0.0,61.55,95.0,61.55,33.45
+ORD-51146,Stationery,Notebook Set,3,75.0,0.15,59.47,191.25,178.41,12.84
+ORD-51146,Kitchenware,Knife Set,1,304.5,0.05,180.09,289.27,180.09,109.18
+ORD-51147,Toys,Stacking Cups,1,117.0,0.0,76.24,117.0,76.24,40.76
+ORD-51147,Stationery,Color Pencils,3,121.0,0.0,81.52,363.0,244.56,118.44
+ORD-51148,Kitchenware,Storage Jar,1,89.25,0.1,53.45,80.32,53.45,26.87
+ORD-51149,Cleaning,Mop Set,2,286.0,0.0,180.7,572.0,361.4,210.6
+ORD-51149,Cleaning,Microfiber Cloth,1,68.25,0.05,49.68,64.84,49.68,15.16
+ORD-51150,Toys,Bubble Toy,3,81.0,0.15,57.93,206.55,173.79,32.76
+ORD-51151,Kitchenware,Storage Jar,1,93.5,0.0,55.0,93.5,55.0,38.5
+ORD-51152,Toys,Stacking Cups,1,130.0,0.0,77.42,130.0,77.42,52.58
+ORD-51152,Home Organization,Drawer Organizer,3,162.0,0.0,130.56,486.0,391.68,94.32
+ORD-51153,Stationery,Geometry Set,3,95.0,0.0,76.82,285.0,230.46,54.54
+ORD-51153,Home Organization,Drawer Organizer,1,189.0,0.15,130.05,160.65,130.05,30.6
+ORD-51153,Cleaning,Microfiber Cloth,1,65.0,0.0,52.89,65.0,52.89,12.11
+ORD-51154,Toys,Bubble Toy,2,94.5,0.0,63.63,189.0,127.26,61.74
+ORD-51154,Home Organization,Drawer Organizer,1,198.0,0.1,133.51,178.2,133.51,44.69
+ORD-51155,Drinkware,Thermal Flask,1,320.0,0.0,213.1,320.0,213.1,106.9
+ORD-51156,Stationery,Color Pencils,1,121.0,0.1,76.43,108.9,76.43,32.47
+ORD-51156,Kitchenware,Frying Pan,2,418.0,0.0,254.16,836.0,508.32,327.68
+ORD-51157,Cleaning,Microfiber Cloth,2,65.0,0.0,46.82,130.0,93.64,36.36
+ORD-51158,Home Organization,Shelf Basket,3,131.25,0.0,88.9,393.75,266.7,127.05
+ORD-51158,Cleaning,Mop Set,1,260.0,0.0,161.07,260.0,161.07,98.93
+ORD-51158,Cleaning,Dish Brush,1,45.0,0.05,27.04,42.75,27.04,15.71
+ORD-51159,Home Organization,Shelf Basket,2,125.0,0.0,79.97,250.0,159.94,90.06
+ORD-51159,Kitchenware,Knife Set,2,290.0,0.15,212.35,493.0,424.7,68.3
+ORD-51160,Stationery,Geometry Set,2,85.5,0.15,69.18,145.35,138.36,6.99
+ORD-51161,Cleaning,Mop Set,1,260.0,0.1,160.46,234.0,160.46,73.54
+ORD-51162,Cleaning,Dish Brush,2,45.0,0.0,35.3,90.0,70.6,19.4
+ORD-51162,Toys,Connect Game,1,220.0,0.0,140.16,220.0,140.16,79.84
+ORD-51163,Home Organization,Drawer Organizer,1,180.0,0.0,106.2,180.0,106.2,73.8
+ORD-51163,Drinkware,Glass Set,2,210.0,0.0,155.06,420.0,310.12,109.88
+ORD-51163,Kitchenware,Storage Jar,1,85.0,0.0,64.8,85.0,64.8,20.2
+ORD-51164,Cleaning,Microfiber Cloth,2,68.25,0.0,47.48,136.5,94.96,41.54
+ORD-51165,Home Organization,Shelf Basket,1,131.25,0.05,104.55,124.69,104.55,20.14
+ORD-51165,Cleaning,Dish Brush,2,47.25,0.1,37.8,85.05,75.6,9.45
+ORD-51166,Home Organization,Storage Box,2,126.0,0.1,101.53,226.8,203.06,23.74
+ORD-51167,Cleaning,Dish Brush,2,45.0,0.15,29.89,76.5,59.78,16.72
+ORD-51168,Kitchenware,Storage Jar,1,85.0,0.1,57.01,76.5,57.01,19.49
+ORD-51168,Kitchenware,Frying Pan,1,380.0,0.1,269.45,342.0,269.45,72.55
+ORD-51168,Toys,Stacking Cups,3,143.0,0.0,89.26,429.0,267.78,161.22
+ORD-51169,Cleaning,Dish Brush,1,49.5,0.15,33.25,42.08,33.25,8.83
+ORD-51169,Toys,Stacking Cups,2,117.0,0.1,94.72,210.6,189.44,21.16
+ORD-51170,Cleaning,Dish Brush,3,45.0,0.0,34.76,135.0,104.28,30.72
+ORD-51170,Toys,Bubble Toy,2,90.0,0.05,59.14,171.0,118.28,52.72
+ORD-51171,Cleaning,Microfiber Cloth,1,58.5,0.15,44.34,49.72,44.34,5.38
+ORD-51171,Cleaning,Microfiber Cloth,3,58.5,0.15,42.36,149.17,127.08,22.09
+ORD-51171,Kitchenware,Frying Pan,3,342.0,0.1,236.0,923.4,708.0,215.4
+ORD-51172,Toys,Bubble Toy,2,90.0,0.15,62.89,153.0,125.78,27.22
+ORD-51173,Stationery,Geometry Set,2,99.75,0.1,74.29,179.55,148.58,30.97
+ORD-51174,Home Organization,Shelf Basket,2,131.25,0.0,85.4,262.5,170.8,91.7
+ORD-51175,Toys,Connect Game,1,231.0,0.15,167.75,196.35,167.75,28.6
+ORD-51175,Home Organization,Storage Box,2,140.0,0.0,82.37,280.0,164.74,115.26
+ORD-51176,Home Organization,Storage Box,1,126.0,0.0,77.76,126.0,77.76,48.24
+ORD-51176,Stationery,Color Pencils,1,110.0,0.1,87.27,99.0,87.27,11.73
+ORD-51176,Drinkware,Thermal Flask,1,320.0,0.0,230.57,320.0,230.57,89.43
+ORD-51177,Kitchenware,Frying Pan,1,342.0,0.0,213.81,342.0,213.81,128.19
+ORD-51177,Cleaning,Dish Brush,1,47.25,0.0,28.0,47.25,28.0,19.25
+ORD-51178,Drinkware,Thermal Flask,3,352.0,0.0,225.89,1056.0,677.67,378.33
+ORD-51178,Stationery,Color Pencils,3,99.0,0.0,60.25,297.0,180.75,116.25
+ORD-51179,Drinkware,Water Bottle,1,85.5,0.0,51.63,85.5,51.63,33.87
+ORD-51179,Drinkware,Water Bottle,3,104.5,0.0,81.72,313.5,245.16,68.34
+ORD-51179,Cleaning,Dish Brush,2,45.0,0.15,35.38,76.5,70.76,5.74
+ORD-51180,Toys,Stacking Cups,2,130.0,0.1,83.69,234.0,167.38,66.62
+ORD-51181,Toys,Stacking Cups,2,117.0,0.05,72.2,222.3,144.4,77.9
+ORD-51181,Home Organization,Drawer Organizer,2,180.0,0.0,109.22,360.0,218.44,141.56
+ORD-51181,Home Organization,Shelf Basket,2,112.5,0.0,69.78,225.0,139.56,85.44
+ORD-51182,Cleaning,Dish Brush,1,49.5,0.0,35.41,49.5,35.41,14.09
+ORD-51182,Drinkware,Thermal Flask,1,320.0,0.0,189.76,320.0,189.76,130.24
+ORD-51183,Toys,Stacking Cups,3,130.0,0.0,94.57,390.0,283.71,106.29
+ORD-51183,Stationery,Color Pencils,2,110.0,0.0,71.83,220.0,143.66,76.34
+ORD-51184,Home Organization,Drawer Organizer,2,198.0,0.0,147.83,396.0,295.66,100.34
+ORD-51185,Home Organization,Shelf Basket,3,125.0,0.15,92.03,318.75,276.09,42.66
+ORD-51185,Kitchenware,Frying Pan,2,380.0,0.1,286.32,684.0,572.64,111.36
+ORD-51185,Stationery,Color Pencils,2,110.0,0.0,68.44,220.0,136.88,83.12
+ORD-51186,Toys,Stacking Cups,2,117.0,0.0,73.93,234.0,147.86,86.14
+ORD-51187,Stationery,Notebook Set,3,67.5,0.0,48.76,202.5,146.28,56.22
+ORD-51187,Cleaning,Dish Brush,1,45.0,0.0,35.18,45.0,35.18,9.82
+ORD-51187,Drinkware,Thermal Flask,1,320.0,0.0,189.25,320.0,189.25,130.75
+ORD-51188,Kitchenware,Frying Pan,1,342.0,0.0,229.93,342.0,229.93,112.07
+ORD-51188,Home Organization,Drawer Organizer,1,180.0,0.05,145.3,171.0,145.3,25.7
+ORD-51188,Home Organization,Drawer Organizer,1,180.0,0.05,136.17,171.0,136.17,34.83
+ORD-51189,Drinkware,Water Bottle,3,104.5,0.05,84.43,297.82,253.29,44.53
+ORD-51189,Cleaning,Dish Brush,1,45.0,0.15,32.12,38.25,32.12,6.13
+ORD-51189,Home Organization,Shelf Basket,2,125.0,0.0,77.17,250.0,154.34,95.66
+ORD-51190,Home Organization,Storage Box,1,140.0,0.15,90.53,119.0,90.53,28.47
+ORD-51190,Home Organization,Storage Box,1,147.0,0.0,102.93,147.0,102.93,44.07
+ORD-51191,Drinkware,Glass Set,1,189.0,0.0,153.55,189.0,153.55,35.45
+ORD-51191,Home Organization,Drawer Organizer,2,198.0,0.0,131.56,396.0,263.12,132.88
+ORD-51192,Toys,Stacking Cups,1,117.0,0.0,95.59,117.0,95.59,21.41
+ORD-51192,Kitchenware,Storage Jar,1,89.25,0.1,60.35,80.32,60.35,19.97
+ORD-51193,Kitchenware,Frying Pan,2,380.0,0.0,276.14,760.0,552.28,207.72
+ORD-51193,Home Organization,Shelf Basket,2,125.0,0.0,92.87,250.0,185.74,64.26
+ORD-51193,Stationery,Notebook Set,2,82.5,0.05,55.6,156.75,111.2,45.55
+ORD-51194,Drinkware,Water Bottle,3,99.75,0.0,58.59,299.25,175.77,123.48
+ORD-51194,Home Organization,Storage Box,1,140.0,0.0,82.67,140.0,82.67,57.33
+ORD-51194,Cleaning,Microfiber Cloth,3,65.0,0.0,40.84,195.0,122.52,72.48
+ORD-51195,Drinkware,Thermal Flask,1,320.0,0.0,226.52,320.0,226.52,93.48
+ORD-51195,Cleaning,Mop Set,2,286.0,0.0,197.35,572.0,394.7,177.3
+ORD-51196,Toys,Connect Game,2,231.0,0.0,188.96,462.0,377.92,84.08
+ORD-51196,Cleaning,Microfiber Cloth,2,65.0,0.15,41.72,110.5,83.44,27.06
+ORD-51196,Stationery,Notebook Set,1,78.75,0.0,62.78,78.75,62.78,15.97
+ORD-51197,Drinkware,Glass Set,3,231.0,0.0,145.45,693.0,436.35,256.65
+ORD-51198,Toys,Connect Game,1,220.0,0.05,141.3,209.0,141.3,67.7
+ORD-51198,Stationery,Color Pencils,1,110.0,0.05,72.18,104.5,72.18,32.32
+ORD-51198,Toys,Connect Game,1,220.0,0.1,130.4,198.0,130.4,67.6
+ORD-51199,Stationery,Notebook Set,2,75.0,0.0,55.52,150.0,111.04,38.96
+ORD-51199,Home Organization,Shelf Basket,2,131.25,0.1,97.01,236.25,194.02,42.23
+ORD-51200,Drinkware,Thermal Flask,3,288.0,0.05,173.2,820.8,519.6,301.2
+ORD-51200,Drinkware,Thermal Flask,1,320.0,0.0,260.45,320.0,260.45,59.55
+ORD-51201,Home Organization,Storage Box,2,140.0,0.1,99.88,252.0,199.76,52.24
+ORD-51201,Drinkware,Water Bottle,2,99.75,0.0,69.84,199.5,139.68,59.82
+ORD-51201,Stationery,Notebook Set,2,75.0,0.0,46.18,150.0,92.36,57.64
+ORD-51202,Cleaning,Microfiber Cloth,1,65.0,0.0,41.91,65.0,41.91,23.09
+ORD-51202,Cleaning,Microfiber Cloth,1,58.5,0.0,34.13,58.5,34.13,24.37
+ORD-51203,Home Organization,Shelf Basket,3,125.0,0.1,73.31,337.5,219.93,117.57
+ORD-51203,Drinkware,Glass Set,2,220.5,0.15,175.95,374.85,351.9,22.95
+ORD-51203,Home Organization,Shelf Basket,1,125.0,0.0,95.92,125.0,95.92,29.08
+ORD-51204,Stationery,Notebook Set,2,78.75,0.0,58.54,157.5,117.08,40.42
+ORD-51205,Toys,Stacking Cups,3,143.0,0.0,97.63,429.0,292.89,136.11
+ORD-51205,Home Organization,Drawer Organizer,1,180.0,0.15,130.88,153.0,130.88,22.12
+ORD-51206,Cleaning,Microfiber Cloth,3,65.0,0.0,46.58,195.0,139.74,55.26
+ORD-51206,Kitchenware,Frying Pan,1,399.0,0.0,244.23,399.0,244.23,154.77
+ORD-51207,Home Organization,Shelf Basket,3,125.0,0.0,83.16,375.0,249.48,125.52
+ORD-51207,Drinkware,Thermal Flask,1,320.0,0.15,188.51,272.0,188.51,83.49
+ORD-51208,Stationery,Notebook Set,2,78.75,0.0,56.9,157.5,113.8,43.7
+ORD-51208,Toys,Stacking Cups,1,143.0,0.0,85.44,143.0,85.44,57.56
+ORD-51208,Stationery,Geometry Set,1,99.75,0.05,68.85,94.76,68.85,25.91
+ORD-51209,Drinkware,Thermal Flask,1,352.0,0.0,218.33,352.0,218.33,133.67
+ORD-51210,Stationery,Geometry Set,3,95.0,0.05,76.39,270.75,229.17,41.58
+ORD-51211,Toys,Bubble Toy,1,94.5,0.05,55.15,89.78,55.15,34.63
+ORD-51211,Kitchenware,Knife Set,3,304.5,0.0,240.78,913.5,722.34,191.16
+ORD-51211,Cleaning,Microfiber Cloth,2,58.5,0.0,35.5,117.0,71.0,46.0
+ORD-51212,Toys,Stacking Cups,1,143.0,0.05,97.24,135.85,97.24,38.61
+ORD-51213,Drinkware,Water Bottle,2,104.5,0.05,79.6,198.55,159.2,39.35
+ORD-51213,Kitchenware,Frying Pan,2,380.0,0.0,292.35,760.0,584.7,175.3
+ORD-51214,Cleaning,Dish Brush,2,40.5,0.0,31.21,81.0,62.42,18.58
+ORD-51214,Kitchenware,Storage Jar,1,76.5,0.05,50.72,72.68,50.72,21.96
+ORD-51215,Home Organization,Storage Box,1,126.0,0.0,87.92,126.0,87.92,38.08
+ORD-51215,Stationery,Notebook Set,1,82.5,0.0,51.86,82.5,51.86,30.64
+ORD-51216,Kitchenware,Knife Set,2,290.0,0.0,221.13,580.0,442.26,137.74
+ORD-51216,Toys,Stacking Cups,1,143.0,0.1,97.22,128.7,97.22,31.48
+ORD-51217,Kitchenware,Frying Pan,2,380.0,0.0,250.29,760.0,500.58,259.42
+ORD-51218,Drinkware,Thermal Flask,2,336.0,0.0,254.71,672.0,509.42,162.58
+ORD-51218,Cleaning,Microfiber Cloth,1,58.5,0.1,40.13,52.65,40.13,12.52
+ORD-51218,Toys,Connect Game,3,220.0,0.15,151.54,561.0,454.62,106.38
+ORD-51219,Drinkware,Thermal Flask,2,352.0,0.05,259.25,668.8,518.5,150.3
+ORD-51219,Toys,Connect Game,2,242.0,0.0,170.87,484.0,341.74,142.26
+ORD-51220,Home Organization,Storage Box,2,154.0,0.05,112.08,292.6,224.16,68.44
+ORD-51221,Cleaning,Mop Set,3,260.0,0.1,179.03,702.0,537.09,164.91
+ORD-51221,Stationery,Notebook Set,2,67.5,0.1,49.66,121.5,99.32,22.18
+ORD-51221,Stationery,Geometry Set,1,95.0,0.1,59.5,85.5,59.5,26.0
+ORD-51222,Home Organization,Drawer Organizer,3,189.0,0.15,139.9,481.95,419.7,62.25
+ORD-51223,Cleaning,Mop Set,1,273.0,0.0,180.7,273.0,180.7,92.3
+ORD-51224,Cleaning,Dish Brush,2,49.5,0.0,40.02,99.0,80.04,18.96
+ORD-51224,Cleaning,Microfiber Cloth,2,58.5,0.0,34.1,117.0,68.2,48.8
+ORD-51224,Home Organization,Shelf Basket,1,137.5,0.15,109.85,116.88,109.85,7.03
+ORD-51225,Kitchenware,Knife Set,1,261.0,0.0,166.54,261.0,166.54,94.46
+ORD-51225,Drinkware,Water Bottle,2,95.0,0.0,77.5,190.0,155.0,35.0
+ORD-51226,Stationery,Notebook Set,2,82.5,0.15,50.55,140.25,101.1,39.15
+ORD-51226,Toys,Stacking Cups,1,143.0,0.0,96.63,143.0,96.63,46.37
+ORD-51226,Home Organization,Storage Box,1,147.0,0.0,113.43,147.0,113.43,33.57
+ORD-51227,Kitchenware,Storage Jar,1,85.0,0.15,60.96,72.25,60.96,11.29
+ORD-51227,Drinkware,Thermal Flask,1,320.0,0.1,257.29,288.0,257.29,30.71
+ORD-51227,Home Organization,Storage Box,2,147.0,0.1,89.22,264.6,178.44,86.16
+ORD-51228,Toys,Connect Game,1,220.0,0.0,163.63,220.0,163.63,56.37
+ORD-51228,Drinkware,Thermal Flask,3,288.0,0.0,195.03,864.0,585.09,278.91
+ORD-51228,Stationery,Color Pencils,0,99.0,0.15,73.1,84.15,73.1,11.05
+ORD-51229,Stationery,Geometry Set,2,85.5,0.1,55.02,153.9,110.04,43.86
+ORD-51230,Home Organization,Drawer Organizer,3,189.0,0.0,123.11,567.0,369.33,197.67
+ORD-51231,Stationery,Notebook Set,1,78.75,0.0,55.54,78.75,55.54,23.21
+ORD-51231,Drinkware,Thermal Flask,2,352.0,0.0,252.64,704.0,505.28,198.72
+ORD-51232,Cleaning,Microfiber Cloth,1,65.0,0.15,48.75,55.25,48.75,6.5
+ORD-51233,Drinkware,Glass Set,2,210.0,0.0,136.83,420.0,273.66,146.34
+ORD-51233,Drinkware,Thermal Flask,3,320.0,0.05,231.5,912.0,694.5,217.5
+ORD-51234,Cleaning,Microfiber Cloth,2,65.0,0.1,43.02,117.0,86.04,30.96
+ORD-51234,Drinkware,Water Bottle,2,99.75,0.0,75.93,199.5,151.86,47.64
+ORD-51235,Cleaning,Dish Brush,1,49.5,0.15,36.41,42.08,36.41,5.67
+ORD-51236,Cleaning,Dish Brush,1,49.5,0.0,36.78,49.5,36.78,12.72
+ORD-51236,Cleaning,Microfiber Cloth,3,68.25,0.05,52.19,194.51,156.57,37.94
+ORD-51236,Toys,Bubble Toy,3,94.5,0.0,61.29,283.5,183.87,99.63
+ORD-51237,Kitchenware,Frying Pan,1,380.0,0.15,264.62,323.0,264.62,58.38
+ORD-51237,Home Organization,Storage Box,1,126.0,0.0,103.1,126.0,103.1,22.9
+ORD-51238,Kitchenware,Frying Pan,1,399.0,0.1,276.8,359.1,276.8,82.3
+ORD-51238,Kitchenware,Frying Pan,1,418.0,0.15,264.99,355.3,264.99,90.31
+ORD-51239,Home Organization,Storage Box,1,126.0,0.0,100.22,126.0,100.22,25.78
+ORD-51240,Drinkware,Water Bottle,3,95.0,0.0,56.12,285.0,168.36,116.64
+ORD-51240,Kitchenware,Knife Set,2,304.5,0.15,240.32,517.65,480.64,37.01
+ORD-51240,Drinkware,Thermal Flask,1,320.0,0.0,242.91,320.0,242.91,77.09
+ORD-51241,Kitchenware,Knife Set,1,319.0,0.05,241.51,303.05,241.51,61.54
+ORD-51242,Toys,Connect Game,1,220.0,0.15,128.12,187.0,128.12,58.88
+ORD-51242,Stationery,Notebook Set,1,78.75,0.0,48.37,78.75,48.37,30.38
+ORD-51243,Drinkware,Glass Set,1,189.0,0.1,113.95,170.1,113.95,56.15
+ORD-51244,Drinkware,Thermal Flask,1,320.0,0.0,225.78,320.0,225.78,94.22
+ORD-51244,Toys,Bubble Toy,2,90.0,0.15,64.63,153.0,129.26,23.74
+ORD-51244,Toys,Bubble Toy,1,90.0,0.05,61.3,85.5,61.3,24.2
+ORD-51245,Drinkware,Thermal Flask,1,320.0,0.0,262.09,320.0,262.09,57.91
+ORD-51246,Home Organization,Storage Box,2,140.0,0.0,82.94,280.0,165.88,114.12
+ORD-51247,Drinkware,Glass Set,2,210.0,0.0,165.86,420.0,331.72,88.28
+ORD-51248,Stationery,Notebook Set,1,78.75,0.0,56.38,78.75,56.38,22.37
+ORD-51249,Stationery,Color Pencils,3,110.0,0.05,72.31,313.5,216.93,96.57
+ORD-51250,Kitchenware,Storage Jar,2,85.0,0.0,66.74,170.0,133.48,36.52
+ORD-51251,Kitchenware,Knife Set,2,290.0,0.0,194.53,580.0,389.06,190.94
+ORD-51251,Stationery,Notebook Set,3,82.5,0.0,67.38,247.5,202.14,45.36
+ORD-51251,Stationery,Geometry Set,3,85.5,0.1,61.97,230.85,185.91,44.94
+ORD-51252,Home Organization,Shelf Basket,1,112.5,0.05,80.34,106.88,80.34,26.54
+ORD-51253,Stationery,Geometry Set,2,99.75,0.0,69.63,199.5,139.26,60.24
+ORD-51253,Drinkware,Thermal Flask,2,320.0,0.15,220.1,544.0,440.2,103.8
+ORD-51253,Kitchenware,Frying Pan,1,380.0,0.0,259.53,380.0,259.53,120.47
+ORD-51254,Drinkware,Thermal Flask,1,352.0,0.0,236.09,352.0,236.09,115.91
+ORD-51255,Kitchenware,Knife Set,1,261.0,0.0,195.52,261.0,195.52,65.48
+ORD-51255,Stationery,Notebook Set,2,75.0,0.1,52.51,135.0,105.02,29.98
+ORD-51255,Stationery,Notebook Set,2,75.0,0.05,47.17,142.5,94.34,48.16
+ORD-51256,Drinkware,Glass Set,1,210.0,0.0,170.05,210.0,170.05,39.95
+ORD-51256,Toys,Connect Game,1,231.0,0.0,136.3,231.0,136.3,94.7
+ORD-51257,Cleaning,Mop Set,1,286.0,0.0,167.14,286.0,167.14,118.86
+ORD-51257,Stationery,Color Pencils,3,121.0,0.05,72.33,344.85,216.99,127.86
+ORD-51257,Kitchenware,Frying Pan,2,380.0,0.0,311.47,760.0,622.94,137.06
+ORD-51258,Cleaning,Microfiber Cloth,1,58.5,0.0,45.16,58.5,45.16,13.34
+ORD-51258,Stationery,Notebook Set,1,75.0,0.15,50.29,63.75,50.29,13.46
+ORD-51259,Drinkware,Water Bottle,1,85.5,0.0,63.96,85.5,63.96,21.54
+ORD-51259,Toys,Stacking Cups,3,143.0,0.15,94.37,364.65,283.11,81.54
+ORD-51259,Cleaning,Mop Set,1,260.0,0.15,166.51,221.0,166.51,54.49
+ORD-51260,Cleaning,Microfiber Cloth,2,71.5,0.0,51.94,143.0,103.88,39.12
+ORD-51261,Toys,Bubble Toy,2,90.0,0.0,62.03,180.0,124.06,55.94
+ORD-51261,Toys,Stacking Cups,1,136.5,0.0,88.52,136.5,88.52,47.98
+ORD-51261,Kitchenware,Storage Jar,3,89.25,0.15,59.1,227.59,177.3,50.29
+ORD-51262,Cleaning,Microfiber Cloth,1,58.5,0.15,40.8,49.72,40.8,8.92
+ORD-51262,Drinkware,Thermal Flask,2,320.0,0.1,200.35,576.0,400.7,175.3
+ORD-51262,Toys,Connect Game,2,231.0,0.05,162.78,438.9,325.56,113.34
+ORD-51263,Toys,Stacking Cups,3,130.0,0.0,105.16,390.0,315.48,74.52
+ORD-51263,Home Organization,Storage Box,3,154.0,0.1,93.03,415.8,279.09,136.71
+ORD-51263,Stationery,Color Pencils,3,110.0,0.05,65.54,313.5,196.62,116.88
+ORD-51264,Home Organization,Storage Box,1,140.0,0.15,109.27,119.0,109.27,9.73
+ORD-51264,Home Organization,Shelf Basket,2,125.0,0.0,89.73,250.0,179.46,70.54
+ORD-51264,Home Organization,Shelf Basket,2,137.5,0.1,108.91,247.5,217.82,29.68
+ORD-51265,Kitchenware,Frying Pan,1,418.0,0.0,269.18,418.0,269.18,148.82
+ORD-51265,Kitchenware,Storage Jar,2,76.5,0.0,45.61,153.0,91.22,61.78
+ORD-51265,Stationery,Geometry Set,2,104.5,0.0,72.83,209.0,145.66,63.34
+ORD-51266,Kitchenware,Storage Jar,1,89.25,0.0,56.17,89.25,56.17,33.08
+ORD-51266,Stationery,Geometry Set,1,99.75,0.0,66.18,99.75,66.18,33.57
+ORD-51266,Cleaning,Microfiber Cloth,1,65.0,0.05,39.71,61.75,39.71,22.04
+ORD-51267,Stationery,Geometry Set,2,99.75,0.0,78.91,199.5,157.82,41.68
+ORD-51267,Toys,Bubble Toy,2,81.0,0.1,64.59,145.8,129.18,16.62
+ORD-51267,Stationery,Color Pencils,1,99.0,0.15,61.33,84.15,61.33,22.82
+ORD-51268,Drinkware,Thermal Flask,1,320.0,0.0,229.01,320.0,229.01,90.99
+ORD-51269,Kitchenware,Frying Pan,3,418.0,0.0,257.77,1254.0,773.31,480.69
+ORD-51269,Toys,Stacking Cups,3,117.0,0.0,67.96,351.0,203.88,147.12
+ORD-51269,Home Organization,Storage Box,2,147.0,0.0,89.75,294.0,179.5,114.5
+ORD-51270,Kitchenware,Knife Set,1,261.0,0.1,195.57,234.9,195.57,39.33
+ORD-51270,Cleaning,Mop Set,1,260.0,0.0,178.71,260.0,178.71,81.29
+ORD-51271,Kitchenware,Knife Set,2,304.5,0.0,228.49,609.0,456.98,152.02
+ORD-51271,Toys,Connect Game,1,242.0,0.1,161.33,217.8,161.33,56.47
+ORD-51271,Home Organization,Drawer Organizer,2,180.0,0.0,137.2,360.0,274.4,85.6
+ORD-51272,Drinkware,Glass Set,1,189.0,0.1,116.11,170.1,116.11,53.99
+ORD-51273,Home Organization,Shelf Basket,3,131.25,0.1,97.93,354.38,293.79,60.59
+ORD-51273,Home Organization,Drawer Organizer,1,189.0,0.0,144.22,189.0,144.22,44.78
+ORD-51274,Drinkware,Glass Set,1,231.0,0.0,158.51,231.0,158.51,72.49
+ORD-51275,Home Organization,Drawer Organizer,1,162.0,0.0,122.19,162.0,122.19,39.81
+ORD-51276,Toys,Connect Game,2,220.0,0.0,133.28,440.0,266.56,173.44
+ORD-51276,Drinkware,Thermal Flask,2,288.0,0.0,217.0,576.0,434.0,142.0
+ORD-51276,Drinkware,Glass Set,2,210.0,0.0,124.73,420.0,249.46,170.54
+ORD-51277,Home Organization,Shelf Basket,1,125.0,0.05,97.07,118.75,97.07,21.68
+ORD-51277,Stationery,Geometry Set,2,99.75,0.0,69.16,199.5,138.32,61.18
+ORD-51278,Kitchenware,Frying Pan,1,380.0,0.1,280.62,342.0,280.62,61.38
+ORD-51279,Drinkware,Thermal Flask,1,320.0,0.05,210.74,304.0,210.74,93.26
+ORD-51279,Stationery,Notebook Set,1,75.0,0.0,44.2,75.0,44.2,30.8
+ORD-51280,Home Organization,Drawer Organizer,3,162.0,0.0,125.94,486.0,377.82,108.18
+ORD-51281,Home Organization,Storage Box,1,154.0,0.15,107.72,130.9,107.72,23.18
+ORD-51282,Toys,Stacking Cups,3,136.5,0.1,81.07,368.55,243.21,125.34
+ORD-51283,Toys,Connect Game,3,220.0,0.0,161.7,660.0,485.1,174.9
+ORD-51283,Cleaning,Dish Brush,1,45.0,0.0,35.62,45.0,35.62,9.38
+ORD-51283,Drinkware,Glass Set,3,220.5,0.0,153.18,661.5,459.54,201.96
+ORD-51284,Cleaning,Dish Brush,2,45.0,0.0,36.33,90.0,72.66,17.34
+ORD-51285,Toys,Stacking Cups,3,143.0,0.0,100.33,429.0,300.99,128.01
+ORD-51285,Toys,Connect Game,1,231.0,0.15,157.35,196.35,157.35,39.0
+ORD-51285,Home Organization,Shelf Basket,1,137.5,0.0,103.0,137.5,103.0,34.5
+ORD-51286,Home Organization,Storage Box,1,140.0,0.15,96.48,119.0,96.48,22.52
+ORD-51286,Home Organization,Storage Box,2,154.0,0.0,118.08,308.0,236.16,71.84
+ORD-51286,Toys,Bubble Toy,2,81.0,0.15,57.97,137.7,115.94,21.76
+ORD-51287,Toys,Bubble Toy,1,94.5,0.05,68.07,89.78,68.07,21.71
+ORD-51287,Home Organization,Shelf Basket,2,137.5,0.0,105.78,275.0,211.56,63.44
+ORD-51288,Toys,Bubble Toy,3,90.0,0.05,56.43,256.5,169.29,87.21
+ORD-51288,Drinkware,Thermal Flask,2,336.0,0.0,206.24,672.0,412.48,259.52
+ORD-51288,Home Organization,Shelf Basket,1,125.0,0.0,95.58,125.0,95.58,29.42
+ORD-51289,Stationery,Notebook Set,1,75.0,0.0,58.76,75.0,58.76,16.24
+ORD-51290,Kitchenware,Storage Jar,2,85.0,0.05,50.32,161.5,100.64,60.86
+ORD-51290,Home Organization,Drawer Organizer,2,189.0,0.0,116.75,378.0,233.5,144.5
+ORD-51290,Toys,Connect Game,1,220.0,0.15,156.83,187.0,156.83,30.17
+ORD-51291,Toys,Connect Game,1,220.0,0.15,137.16,187.0,137.16,49.84
+ORD-51291,Home Organization,Storage Box,2,140.0,0.1,112.81,252.0,225.62,26.38
+ORD-51291,Stationery,Color Pencils,2,115.5,0.0,75.78,231.0,151.56,79.44
+ORD-51292,Cleaning,Mop Set,1,260.0,0.0,174.04,260.0,174.04,85.96
+ORD-51292,Toys,Bubble Toy,1,90.0,0.0,55.46,90.0,55.46,34.54
+ORD-51292,Stationery,Color Pencils,2,110.0,0.15,73.39,187.0,146.78,40.22
+ORD-51293,Drinkware,Water Bottle,1,95.0,0.0,57.25,95.0,57.25,37.75
+ORD-51294,Toys,Stacking Cups,2,130.0,0.05,93.76,247.0,187.52,59.48
+ORD-51294,Drinkware,Thermal Flask,3,352.0,0.15,238.64,897.6,715.92,181.68
+ORD-51295,Home Organization,Drawer Organizer,1,180.0,0.05,137.48,171.0,137.48,33.52
+ORD-51295,Cleaning,Dish Brush,1,45.0,0.0,27.89,45.0,27.89,17.11
+ORD-51296,Stationery,Color Pencils,1,110.0,0.15,78.4,93.5,78.4,15.1
+ORD-51296,Cleaning,Microfiber Cloth,2,58.5,0.0,43.67,117.0,87.34,29.66
+ORD-51297,Toys,Bubble Toy,2,99.0,0.0,77.47,198.0,154.94,43.06
+ORD-51297,Kitchenware,Frying Pan,1,380.0,0.0,311.08,380.0,311.08,68.92
+ORD-51298,Stationery,Color Pencils,1,110.0,0.15,70.85,93.5,70.85,22.65
+ORD-51299,Toys,Connect Game,1,242.0,0.15,150.83,205.7,150.83,54.87
+ORD-51299,Home Organization,Shelf Basket,2,125.0,0.15,96.1,212.5,192.2,20.3
+ORD-51299,Toys,Stacking Cups,2,130.0,0.0,97.38,260.0,194.76,65.24
+ORD-51300,Home Organization,Shelf Basket,1,125.0,0.15,98.72,106.25,98.72,7.53
+ORD-51301,Stationery,Geometry Set,1,104.5,0.0,67.93,104.5,67.93,36.57
+ORD-51302,Drinkware,Thermal Flask,3,336.0,0.0,209.12,1008.0,627.36,380.64
+ORD-51302,Cleaning,Microfiber Cloth,2,65.0,0.15,51.86,110.5,103.72,6.78
+ORD-51302,Drinkware,Thermal Flask,1,336.0,0.0,255.76,336.0,255.76,80.24
+ORD-51303,Stationery,Notebook Set,3,67.5,0.05,41.3,192.38,123.9,68.48
+ORD-51303,Home Organization,Shelf Basket,3,112.5,0.0,88.41,337.5,265.23,72.27
+ORD-51303,Drinkware,Glass Set,2,210.0,0.1,123.92,378.0,247.84,130.16
+ORD-51304,Home Organization,Drawer Organizer,2,180.0,0.05,136.37,342.0,272.74,69.26
+ORD-51304,Kitchenware,Storage Jar,2,76.5,0.0,58.15,153.0,116.3,36.7
+ORD-51304,Stationery,Notebook Set,3,75.0,0.15,53.22,191.25,159.66,31.59
+ORD-51305,Kitchenware,Frying Pan,1,399.0,0.05,258.59,379.05,258.59,120.46
+ORD-51305,Toys,Bubble Toy,1,81.0,0.0,58.46,81.0,58.46,22.54
+ORD-51306,Home Organization,Shelf Basket,3,125.0,0.05,75.08,356.25,225.24,131.01
+ORD-51307,Home Organization,Drawer Organizer,1,162.0,0.0,109.15,162.0,109.15,52.85
+ORD-51307,Cleaning,Dish Brush,1,49.5,0.15,30.72,42.08,30.72,11.36
+ORD-51307,Kitchenware,Knife Set,1,319.0,0.0,226.17,319.0,226.17,92.83
+ORD-51308,Home Organization,Storage Box,1,147.0,0.1,88.86,132.3,88.86,43.44
+ORD-51309,Kitchenware,Storage Jar,2,89.25,0.0,69.32,178.5,138.64,39.86
+ORD-51309,Home Organization,Shelf Basket,1,125.0,0.1,85.74,112.5,85.74,26.76
+ORD-51310,Drinkware,Water Bottle,1,95.0,0.05,63.32,90.25,63.32,26.93
+ORD-51311,Drinkware,Thermal Flask,1,336.0,0.05,269.94,319.2,269.94,49.26
+ORD-51311,Toys,Bubble Toy,2,94.5,-0.2,68.09,189.0,136.18,52.82
+ORD-51311,Drinkware,Water Bottle,1,95.0,0.05,55.36,90.25,55.36,34.89
+ORD-51312,Toys,Connect Game,2,220.0,0.15,156.97,374.0,313.94,60.06
+ORD-51312,Toys,Connect Game,1,242.0,0.05,174.71,229.9,174.71,55.19
+ORD-51312,Toys,Bubble Toy,2,90.0,0.0,70.47,180.0,140.94,39.06
+ORD-51313,Drinkware,Thermal Flask,1,320.0,0.0,188.23,320.0,188.23,131.77
+ORD-51313,Toys,Stacking Cups,2,130.0,0.0,85.63,260.0,171.26,88.74
+ORD-51314,Stationery,Color Pencils,1,99.0,0.05,57.89,94.05,57.89,36.16
+ORD-51314,Toys,Bubble Toy,1,90.0,0.05,66.97,85.5,66.97,18.53
+ORD-51314,Kitchenware,Knife Set,2,319.0,0.15,244.05,542.3,488.1,54.2
+ORD-51315,Home Organization,Storage Box,2,140.0,0.15,90.59,238.0,181.18,56.82
+ORD-51315,Stationery,Color Pencils,1,99.0,0.15,57.79,84.15,57.79,26.36
+ORD-51316,Drinkware,Glass Set,1,220.5,0.1,156.29,198.45,156.29,42.16
+ORD-51316,Stationery,Color Pencils,3,115.5,0.05,81.15,329.18,243.45,85.73
+ORD-51317,Stationery,Color Pencils,1,110.0,0.15,87.18,93.5,87.18,6.32
+ORD-51317,Home Organization,Storage Box,2,140.0,0.0,95.69,280.0,191.38,88.62
+ORD-51318,Cleaning,Microfiber Cloth,1,68.25,0.0,45.18,68.25,45.18,23.07
+ORD-51318,Toys,Stacking Cups,2,143.0,0.0,109.81,286.0,219.62,66.38
+ORD-51318,Toys,Connect Game,1,198.0,0.0,147.58,198.0,147.58,50.42
+ORD-51319,Drinkware,Thermal Flask,1,288.0,0.05,227.21,273.6,227.21,46.39
+ORD-51320,Drinkware,Thermal Flask,2,288.0,0.15,201.95,489.6,403.9,85.7
+ORD-51321,Drinkware,Glass Set,2,220.5,0.05,163.39,418.95,326.78,92.17
+ORD-51322,Cleaning,Mop Set,1,260.0,0.15,201.38,221.0,201.38,19.62
+ORD-51323,Toys,Connect Game,2,220.0,0.05,167.06,418.0,334.12,83.88
+ORD-51323,Stationery,Notebook Set,1,82.5,0.0,58.2,82.5,58.2,24.3
+ORD-51324,Stationery,Color Pencils,1,115.5,0.05,81.99,109.72,81.99,27.73
+ORD-51324,Kitchenware,Frying Pan,3,342.0,0.1,212.75,923.4,638.25,285.15
+ORD-51324,Drinkware,Glass Set,2,231.0,0.0,146.05,462.0,292.1,169.9
+ORD-51325,Cleaning,Mop Set,1,273.0,0.0,190.5,273.0,190.5,82.5
+ORD-51326,Kitchenware,Knife Set,2,304.5,0.15,248.13,517.65,496.26,21.39
+ORD-51327,Stationery,Geometry Set,2,95.0,0.1,68.9,171.0,137.8,33.2
+ORD-51328,Toys,Connect Game,1,242.0,0.05,163.24,229.9,163.24,66.66
+ORD-51329,Stationery,Color Pencils,1,110.0,0.15,78.46,93.5,78.46,15.04
+ORD-51329,Cleaning,Dish Brush,1,45.0,0.0,32.78,45.0,32.78,12.22
+ORD-51329,Stationery,Color Pencils,2,110.0,0.0,82.63,220.0,165.26,54.74
+ORD-51330,Drinkware,Water Bottle,3,85.5,0.0,52.73,256.5,158.19,98.31
+ORD-51330,Kitchenware,Frying Pan,1,342.0,0.0,206.4,342.0,206.4,135.6
+ORD-51331,Toys,Connect Game,2,198.0,0.1,142.49,356.4,284.98,71.42
+ORD-51331,Stationery,Geometry Set,2,95.0,0.15,59.96,161.5,119.92,41.58
+ORD-51331,Cleaning,Mop Set,2,260.0,0.05,207.73,494.0,415.46,78.54
+ORD-51332,Drinkware,Water Bottle,1,95.0,0.1,67.09,85.5,67.09,18.41
+ORD-51332,Stationery,Geometry Set,3,85.5,0.15,64.37,218.02,193.11,24.91
+ORD-51332,Kitchenware,Knife Set,1,261.0,0.1,170.49,234.9,170.49,64.41
+ORD-51333,Cleaning,Dish Brush,1,47.25,0.0,27.8,47.25,27.8,19.45
+ORD-51333,Cleaning,Dish Brush,1,45.0,0.0,35.83,45.0,35.83,9.17
+ORD-51333,Kitchenware,Storage Jar,1,85.0,0.0,68.73,85.0,68.73,16.27
+ORD-51334,Stationery,Geometry Set,2,95.0,0.0,68.86,190.0,137.72,52.28
+ORD-51335,Home Organization,Drawer Organizer,2,180.0,0.15,116.53,306.0,233.06,72.94
+ORD-51335,Home Organization,Drawer Organizer,2,180.0,0.0,114.97,360.0,229.94,130.06
+ORD-51336,Home Organization,Drawer Organizer,2,162.0,0.15,105.48,275.4,210.96,64.44
+ORD-51337,Kitchenware,Storage Jar,1,76.5,0.1,51.43,68.85,51.43,17.42
+ORD-51337,Drinkware,Glass Set,2,231.0,0.0,169.42,462.0,338.84,123.16
+ORD-51338,Kitchenware,Knife Set,2,290.0,0.0,207.66,580.0,415.32,164.68
+ORD-51338,Stationery,Notebook Set,2,67.5,0.05,54.25,128.25,108.5,19.75
+ORD-51339,Drinkware,Glass Set,1,210.0,0.05,164.63,199.5,164.63,34.87
+ORD-51339,Drinkware,Water Bottle,1,95.0,0.0,55.89,95.0,55.89,39.11
+ORD-51340,Toys,Bubble Toy,1,99.0,0.0,79.94,99.0,79.94,19.06
+ORD-51341,Drinkware,Glass Set,1,220.5,0.0,148.51,220.5,148.51,71.99
+ORD-51341,Drinkware,Thermal Flask,2,336.0,0.0,223.72,672.0,447.44,224.56
+ORD-51341,Drinkware,Thermal Flask,1,336.0,0.15,243.85,285.6,243.85,41.75
+ORD-51342,Cleaning,Mop Set,3,234.0,0.1,187.66,631.8,562.98,68.82
+ORD-51342,Kitchenware,Storage Jar,1,85.0,0.0,66.03,85.0,66.03,18.97
+ORD-51342,Stationery,Geometry Set,3,85.5,0.0,56.26,256.5,168.78,87.72
+ORD-51343,Home Organization,Shelf Basket,2,125.0,0.0,96.68,250.0,193.36,56.64
+ORD-51344,Home Organization,Storage Box,1,140.0,0.0,96.14,140.0,96.14,43.86
+ORD-51345,Toys,Stacking Cups,1,136.5,0.0,104.87,136.5,104.87,31.63
+ORD-51345,Drinkware,Water Bottle,3,95.0,0.1,69.49,256.5,208.47,48.03
+ORD-51346,Cleaning,Mop Set,1,273.0,0.0,168.33,273.0,168.33,104.67
+ORD-51346,Kitchenware,Knife Set,1,290.0,0.0,222.47,290.0,222.47,67.53
+ORD-51347,Kitchenware,Frying Pan,2,380.0,0.0,308.21,760.0,616.42,143.58
+ORD-51348,Toys,Connect Game,2,242.0,0.0,197.17,484.0,394.34,89.66
+ORD-51348,Drinkware,Thermal Flask,3,336.0,0.1,217.34,907.2,652.02,255.18
+ORD-51349,Toys,Bubble Toy,1,99.0,0.0,58.09,99.0,58.09,40.91
+ORD-51349,Drinkware,Glass Set,1,210.0,0.05,171.95,199.5,171.95,27.55
+ORD-51350,Home Organization,Shelf Basket,1,137.5,0.0,83.1,137.5,83.1,54.4
+ORD-50786,Toys,Connect Game,2,198.0,0.15,125.4,336.6,250.8,85.8
+ORD-50928,Cleaning,Mop Set,1,260.0,0.05,199.06,247.0,199.06,47.94
+ORD-50566,Toys,Connect Game,1,242.0,0.15,171.63,205.7,171.63,34.07
+ORD-50033,Kitchenware,Frying Pan,1,380.0,0.0,264.89,380.0,264.89,115.11
+ORD-50846,Cleaning,Mop Set,2,286.0,0.0,223.35,572.0,446.7,125.3
+ORD-50176,Kitchenware,Frying Pan,2,380.0,0.05,267.03,722.0,534.06,187.94
+ORD-50132,Cleaning,Dish Brush,1,40.5,0.0,24.8,40.5,24.8,15.7
+ORD-50168,Toys,Bubble Toy,2,90.0,0.15,56.3,153.0,112.6,40.4
+ORD-51155,Drinkware,Thermal Flask,1,320.0,0.0,213.1,320.0,213.1,106.9
+ORD-51270,Cleaning,Mop Set,1,260.0,0.0,178.71,260.0,178.71,81.29
+ORD-50931,Stationery,Notebook Set,1,82.5,0.15,55.4,70.12,55.4,14.72
+ORD-50799,Cleaning,Dish Brush,2,49.5,0.15,39.7,84.15,79.4,4.75
+ORD-50480,Home Organization,Drawer Organizer,3,180.0,0.0,110.65,540.0,331.95,208.05
+ORD-51238,Kitchenware,Frying Pan,1,418.0,0.15,264.99,355.3,264.99,90.31
+ORD-50118,Stationery,Geometry Set,1,104.5,0.15,62.71,88.82,62.71,26.11
